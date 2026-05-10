@@ -21,17 +21,25 @@ def render_em_construcao(nome_modulo, agente_responsavel):
 
 # 4. Cabeçalho do App
 st.title("🍷 VINI AI")
-st.markdown("*A ciência do seu paladar. A morte da média universal.*")
+st.markdown("*A ciência do seu paladar.*")
 st.divider()
 
 # 5. Banco de Dados Simulado (CSVs)
 ARQUIVO_USUARIOS = "data/usuarios.csv"
 
 def carregar_usuarios():
-    # Se o CSV não existir, cria um DataFrame vazio com as colunas corretas
-    if os.path.exists(ARQUIVO_USUARIOS):
-        return pd.read_csv(ARQUIVO_USUARIOS)
-    return pd.DataFrame(columns=["user_id", "nome", "tribo_dna", "restricoes"])
+    try:
+        # Tenta ler o arquivo se ele existir
+        if os.path.exists(ARQUIVO_USUARIOS):
+            return pd.read_csv(ARQUIVO_USUARIOS)
+        else:
+            # Se não existir, cria o arquivo físico na hora e devolve vazio
+            df_vazio = pd.DataFrame(columns=["user_id", "nome", "tribo_dna", "restricoes"])
+            df_vazio.to_csv(ARQUIVO_USUARIOS, index=False)
+            return df_vazio
+    except Exception:
+        # Em caso de qualquer outro erro de leitura, segura o app e não deixa travar
+        return pd.DataFrame(columns=["user_id", "nome", "tribo_dna", "restricoes"])
 
 df_usuarios = carregar_usuarios()
 
@@ -65,9 +73,11 @@ elif modo_app == "👤 Área do Cliente (B2C)" and nome_input:
         tribo_atual = usuario_logado.iloc[0]['tribo_dna']
         st.success(f"Bem-vindo de volta, {nome_input}! Sua tribo atual é: **{tribo_atual}**")
         
-        aba_concierge, aba_catalogo, aba_evolucao = st.tabs([
+        # ---> ADICIONAMOS A ABA DO RESTAURANTE AQUI <---
+        aba_concierge, aba_catalogo, aba_restaurante, aba_evolucao = st.tabs([
             "🍽️ Concierge Digital", 
-            "📖 Catálogo & Check-in", 
+            "📖 Catálogo & Check-in",
+            "🍷 Modo Restaurante", 
             "📈 Minha Evolução"
         ])
         
@@ -78,6 +88,11 @@ elif modo_app == "👤 Área do Cliente (B2C)" and nome_input:
         with aba_catalogo:
             from modulos import catalogo
             catalogo.exibir_modulo(usuario_logado)
+            
+        # ---> CHAMADA DO NOVO MÓDULO <---
+        with aba_restaurante:
+            from modulos import restaurante
+            restaurante.exibir_modulo(usuario_logado)
             
         with aba_evolucao:
             from modulos import dashboard
