@@ -2,10 +2,10 @@ import streamlit as st
 import pandas as pd
 import os
 import json
-from dotenv import load_dotenv
 import google.generativeai as genai
 from PIL import Image
 import fitz  # PyMuPDF
+from dotenv import load_dotenv
 
 ARQUIVO_HISTORICO = "data/historico.csv"
 
