@@ -1,9 +1,3 @@
 log_id,user_id,vinho_id,data,nota_geral,acidez,corpo,tanino,tribo_momento
-log_0001,usr_001,vin_001,2026-05-04,1.5,Baixa,Leve,Sedosos,Paladar Audaz
-log_0002,usr_001,vin_002,2026-05-04,2.0,Baixa,Leve,Sedosos,Paladar Audaz
-log_0003,usr_001,vin_004,2026-05-04,3.5,Equilibrada,Médio,Macios,Paladar Audaz
-log_0004,usr_001,vin_014,2026-05-04,3.5,Equilibrada,Médio,Firmes,Paladar Audaz
-log_0005,usr_001,vin_005,2026-05-04,4.0,Baixa,Leve,Sedosos,Paladar Audaz
-log_0006,usr_002,vin_013,2026-05-04,3.5,Baixa,Leve,Sedosos,Paladar Delicado
-log_0007,usr_002,vin_016,2026-05-04,2.0,Baixa,Leve,Sedosos,Paladar Delicado
-log_0008,usr_002,vin_016,2026-05-04,2.0,Baixa,Leve,Sedosos,Paladar Delicado
+log_0001,usr_001,VINI-000004,2026-05-10,3.5,Equilibrada,Médio,Macios,Paladar Audaz
+log_0002,usr_001,VINI-000046,2026-05-10,4.0,Equilibrada,Médio,Macios,Paladar Audaz

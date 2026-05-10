@@ -1,180 +1,697 @@
-vinho_id,nome_base,safra,produtor,uvas,teor_alcoolico,nota_delicado,nota_classico,nota_robusto,nota_audaz
-vin_001,Pinot Noir Reserva,2022,Bodega Frescor,100% Pinot Noir,12.5,4.8,3.9,2.5,2.0
-vin_002,Merlot Elegance,2021,Vale das Videiras,100% Merlot,13.5,3.5,4.7,3.8,2.8
-vin_003,Cabernet Extração,2020,Finca Potencia,100% Cabernet,14.5,2.1,3.2,4.9,4.5
-vin_004,Cordero con Piel de Lobo,N/V,Mendel,Malbec,13.5,1.8,3.2,4.7,3.8
-vin_005,ESPUMANTE SALVATTORE BRUT,,Salvattore,CHARDONNAY,11.5,4.5,4.0,1.0,2.0
-vin_006,1853 TINTA RESERVA,2017,1853,MALBEC,14.5,1.0,4.0,5.0,4.0
-vin_007,CASAS DEL MAIPO RESERVA BRANCO,2020,Casas del Maipo,CHARDONNAY,13.5,3.0,4.5,3.5,2.5
-vin_008,PELLERITI WINEMAKER SERIES TINTO,2018,Pelleriti,MALBEC,14.5,1.5,4.5,3.5,3.0
-vin_009,AUTUMN STATE 4 ESTACIONES TINTO,2020,Autumn State 4 Estaciones,100% Malbec,13.0,2.5,4.5,3.5,3.0
-vin_010,YLLERA CRIANZA TINTO,2014,Yllera,100% Tempranillo,14.0,1.0,4.5,4.5,3.5
-vin_011,SALVATTORE CLÁSSICO TINTO,2020,Salvattore,MERLOT,12.4,4.0,4.5,2.5,3.5
-vin_012,1808 COLLECTION RESERVA TINTO,2016,1808 Collection,70% Baga & 30% Merlot,14.5,1.0,4.0,5.0,4.0
-vin_013,VIZAR TEMPRANILLO TINTO,2018,Vizar,Tempranillo,13.5,2.5,4.0,3.5,4.0
-vin_014,1853 Reserva Tinto,2017,Finca Las Moras,Malbec,14.5,1.5,4.0,4.5,4.0
-vin_015,Señorío de Nevada Oro,,Señorío de Nevada,,,,,,
-vin_016,Carmen Delanz,,Carmen,,,,,,
-vin_017,Santa Rita Floresta Cabernet Franc,,Santa Rita,Cabernet Franc,,,,,
-vin_018,"Primus ""The Blend"" Orgânico",,Primus,Blend,,,,,
-vin_019,Masi Modello Rosso Trevenezie,,Masi,Blend,,,,,
-vin_020,Haras de Pirque Carménère,,Haras de Pirque,Carménère,,,,,
-vin_021,Cirò Rosso Gaglioppo,,,Gaglioppo,,,,,
-vin_022,Expreso Bodeguero Cabernet Franc Reserva,2022,Expreso Bodeguero,Cabernet Franc,,,,,
-vin_023,Tenuta Giacomina Brunello di Montalcino,,Tenuta Giacomina,Sangiovese,,,,,
-vin_024,Brancaccia Tre Rosso Toscano di Montalcino,,Brancaccia,Sangiovese,,,,,
-vin_025,Castelli Chianti Riserva,,Castelli,Sangiovese,,,,,
-vin_026,Castello Querceto Chianti Classico,,Castello Querceto,Sangiovese,,,,,
-vin_027,Castelli Chianti Classico La Campana Gallo Nero,,Castelli,Sangiovese,,,,,
-vin_028,Poggio Perrone Chianti Classico,,Poggio Perrone,Sangiovese,,,,,
-vin_029,Fregolo Chianti Colli Senesi,,Fregolo,Sangiovese,,,,,
-vin_030,Cantina Fiorentina Sangiovese Creatio,,Cantina Fiorentina,Sangiovese,,,,,
-vin_031,Fratelli Bellini Tercioplani Rufina Sangiovese,,Fratelli Bellini,Sangiovese,,,,,
-vin_032,Nannizi Rosso Toscano,,Nannizi,Sangiovese,,,,,
-vin_033,Castello di Querceto Chianti,,Castello di Querceto,Sangiovese,,,,,
-vin_034,Zeni Cruino Rosso Veronese Corvina 100%,,Zeni,Corvina,,,,,
-vin_035,Zeni Amarone del Valpolicella Classico,,Zeni,"Corvina, Corvinone, Rondinella, Molinara",,,,,
-vin_036,Zeni Valpolicella Classico Vignette,,Zeni,"Corvina, Rondinella, Molinara",,,,,
-vin_037,Cantina di Negra Le Preare Rosso Veronese,,Cantina di Negra,"Corvina, Rondinella, Molinara",,,,,
-vin_038,Zeni Bardolino Classico,,Zeni,"Corvina, Rondinella, Molinara",,,,,
-vin_039,Corbelli Montepulciano D’Abruzzo,,Corbelli,Montepulciano,,,,,
-vin_040,Lozzolo Montepulciano D’Abruzzo Colezione,,Lozzolo,Montepulciano,,,,,
-vin_041,Giacomo Borgogno Barolo Cannubi,,Giacomo Borgogno,Nebbiolo,,,,,
-vin_042,Fontanafredda Barolo,,Fontanafredda,Nebbiolo,,,,,
-vin_043,Franco Conterno Barbera D’Alba Superiore,,Franco Conterno,Barbera,,,,,
-vin_044,Fontanafredda Dolcetto D’Alba,,Fontanafredda,Dolcetto,,,,,
-vin_045,Fontanafredda Ebbio Nebbiolo Langhe,,Fontanafredda,Nebbiolo,,,,,
-vin_046,Fontana & Chiaro Dolcetto d'Alba Quasai,,Fontana & Chiaro,Dolcetto,,,,,
-vin_047,Fontanafredda Barbera Briccotondo,,Fontanafredda,Barbera,,,,,
-vin_048,Fontanafredda Barbera D’Asti,,Fontanafredda,Barbera,,,,,
-vin_049,Castello di Gabiano Barbera D’Asti,,Castello di Gabiano,Barbera,,,,,
-vin_050,Cantina Treviano Primitivo di Manduria,,Cantina Treviano,Primitivo,,,,,
-vin_051,Luccerelli Primitivo,,Luccerelli,Primitivo,,,,,
-vin_052,Burduzzo Primitivo,,Burduzzo,Primitivo,,,,,
-vin_053,Solo Vino Primitivo,,Solo Vino,Primitivo,,,,,
-vin_054,Il Barone Vino Rosso Primitivo/Negroamaro,,Il Barone,"Primitivo, Negroamaro",,,,,
-vin_055,Cantine di Mare Nero d'Avola,,Cantine di Mare,Nero d'Avola,,,,,
-vin_056,Barone Montalto Maiolica Nero d’Avola Sicilia,,Barone Montalto,Nero d'Avola,,,,,
-vin_057,Barone Montalto Due Mondi Blend Rosso,,Barone Montalto,Blend,,,,,
-vin_058,Giorno Nuovo Nero d’Avola,,Giorno Nuovo,Nero d'Avola,,,,,
-vin_059,Corbelli Nero d’Avola,,Corbelli,Nero d'Avola,,,,,
-vin_060,Bergamo Syrah Terre Siciliane,,Bergamo,Syrah,,,,,
-vin_061,Remy Ferbras Chateauneuf Pape,,Remy Ferbras,"Grenache, Syrah, Mourvèdre",,,,,
-vin_062,M. Charliessais Bourgogne Passeoutgrain,,M. Charliessais,"Pinot Noir, Gamay",,,,,
-vin_063,Trou de Lapin Bordeaux,,Trou de Lapin,"Merlot, Cabernet Sauvignon, Cabernet Franc",,,,,
-vin_064,Chateau Bel Air Gran Vin de Bordeaux,,Chateau Bel Air,"Merlot, Cabernet Sauvignon, Cabernet Franc",,,,,
-vin_065,Casa Santar Reserva,,Casa Santar,"Touriga Nacional, Alfrocheiro, Aragonez",,,,,
-vin_066,Régia Colheita,,,"Aragonez, Trincadeira, Alicante Bouschet",,,,,
-vin_067,Villa Rosa Colheita Bairrada,,Villa Rosa,Baga,,,,,
-vin_068,Entrevinhas Touriga Nacional T. Franca,,Entrevinhas,"Touriga Nacional, Touriga Franca",,,,,
-vin_069,Morgado da Calaminha Reguengos,,Morgado da Calaminha,,,,,,
-vin_070,Adega Mãe Reserva,,Adega Mãe,"Touriga Nacional, Cabernet Sauvignon",,,,,
-vin_071,Quinta da Coa Douro,,Quinta da Coa,"Touriga Nacional, Touriga Franca, Tinta Roriz",,,,,
-vin_072,Origens Touriga Nacional Alic.Bouschet,,Origens,"Touriga Nacional, Alicante Bouschet",,,,,
-vin_073,Aurora Millesime Cabernet Sauvignon,,Aurora,Cabernet Sauvignon,,,,,
-vin_074,Salton Campanha Gaúcha,,Salton,,,,,,
-vin_075,Salton Talento Campanha Gaúcha,,Salton,,,,,,
-vin_076,Salton Desejo Merlot Campanha Gaúcha,,Salton,Merlot,,,,,
-vin_077,Aurora Tannat Gran Reserva,,Aurora,Tannat,,,,,
-vin_078,Salton Campanha Tannat,,Salton,Tannat,,,,,
-vin_079,Aurora Pinot Noir,,Aurora,Pinot Noir,,,,,
-vin_080,Salton Cabernet Sauvignon Reserva,,Salton,Cabernet Sauvignon,,,,,
-vin_081,Aurora Merlot Reserva,,Aurora,Merlot,,,,,
-vin_082,Simi Cabernet Sauvignon Sonoma County,,Simi,Cabernet Sauvignon,,,,,
-vin_083,Intriga MAXIMA,,Intriga,,,,,,
-vin_084,Montgras Cabernet Sauvignon Rare Handcraftes,,Montgras,Cabernet Sauvignon,,,,,
-vin_085,Intriga Cabernet Sauvignon,,Intriga,Cabernet Sauvignon,,,,,
-vin_086,Leyda Pinot Noir,,Leyda,Pinot Noir,,,,,
-vin_087,Tres Palacios Pinot Noir Reserva,,Tres Palacios,Pinot Noir,,,,,
-vin_088,Antu Syrah,,Antu,Syrah,,,,,
-vin_089,Antu Cabernet Sauvignon/Carmenere,,Antu,"Cabernet Sauvignon, Carmenere",,,,,
-vin_090,Antu Carmenere Reserva,,Antu,Carmenere,,,,,
-vin_091,Antu Viognier Montgras Reserva,,Antu,Viognier,,,,,
-vin_092,Montgras Enia Cabernet Sauvignon,,Montgras,Cabernet Sauvignon,,,,,
-vin_093,Molinero Merlot Reserva,,Molinero,Merlot,,,,,
-vin_094,Presti Cabina 56 Reserva Cabernet Sauvignon,,Presti Cabina 56,Cabernet Sauvignon,,,,,
-vin_095,Molinero Carmenere Reserva,,Molinero,Carmenere,,,,,
-vin_096,Montgras Gran Reserva Dark Gold,,Montgras,,,,,,
-vin_097,Pequeñas Parillas Carmenere,,Pequeñas Parillas,Carmenere,,,,,
-vin_098,S de Siemel Reserva Merlot,,S de Siemel,Merlot,,,,,
-vin_099,Montgras De Viña Cabernet Sauvignon Red,,Montgras,Cabernet Sauvignon,,,,,
-vin_100,Montgras De Viña Carmenere Reserve,,Montgras,Carmenere,,,,,
-vin_101,Montgras De Viña Syrah,,Montgras,Syrah,,,,,
-vin_102,Montgras De Viña Merlot Reserva,,Montgras,Merlot,,,,,
-vin_103,Pequeña Parrillas Merlot,,Pequeña Parrillas,Merlot,,,,,
-vin_104,Molinero Carmenere Gran Reserva,,Molinero,Carmenere,,,,,
-vin_105,Molinero Petit Verdot/Cabernet Sauvignon Gran Reserva,,Molinero,"Petit Verdot, Cabernet Sauvignon",,,,,
-vin_106,Spinoglio Tierra Alta Tannat,,Spinoglio,Tannat,,,,,
-vin_107,Montes Toscanini Elegido Tannat/Merlot,,Montes Toscanini,"Tannat, Merlot",,,,,
-vin_108,Pequeñas Partilhas Tannat,,Pequeñas Partilhas,Tannat,,,,,
-vin_109,Petit Vega Cosecha,,Petit Vega,Tempranillo,,,,,
-vin_110,Nuestro Jovem Tempranillo,,Nuestro,Tempranillo,,,,,
-vin_111,Marques de Tojares,,Marques de Tojares,,,,,,
-vin_112,El Beso de Judas Blend,,El Beso de Judas,Blend,,,,,
-vin_113,Sottano Narrato by Judas Cabernet Franc,,Sottano,Cabernet Franc,,,,,
-vin_114,Zillattos Bodega Sottano,,Bodega Sottano,,,,,,
-vin_115,Sottano Malbec Reserva de Família,,Sottano,Malbec,,,,,
-vin_116,Boca de Vino Cabernet Sauvignon,,Boca de Vino,Cabernet Sauvignon,,,,,
-vin_117,Zuccardi Serie A Malbec,,Zuccardi,Malbec,,,,,
-vin_118,Sottano Nero Rosso Cabernet Sauvignon,,Sottano,Cabernet Sauvignon,,,,,
-vin_119,Bodega Sottano Reserva Malbec,,Bodega Sottano,Malbec,,,,,
-vin_120,Nieto Senetiner Malbec,,Nieto Senetiner,Malbec,,,,,
-vin_121,F. Carmelo Patti Reserva Cabernet Franc,,F. Carmelo Patti,Cabernet Franc,,,,,
-vin_122,Nieto Malbec,,Nieto,Malbec,,,,,
-vin_123,Nieto Senetiner Carmela Red Blend,,Nieto Senetiner,Red Blend,,,,,
-vin_124,Sottano Malbec,,Sottano,Malbec,,,,,
-vin_125,Sottano Cabernet Sauvignon,,Sottano,Cabernet Sauvignon,,,,,
-vin_126,Del Fin Del Mundo Ventus Pinot Noir,,Del Fin Del Mundo,Pinot Noir,,,,,
-vin_127,Del Fin Del Mundo Ventus Malbec,,Del Fin Del Mundo,Malbec,,,,,
-vin_128,Alfredo Roca Malbec,,Alfredo Roca,Malbec,,,,,
-vin_129,F. Carmelo Patti Reserva Cabernet Sauvignon,,F. Carmelo Patti,Cabernet Sauvignon,,,,,
-vin_130,Oveja Negra Malbec Single Vineyard,,Oveja Negra,Malbec,,,,,
-vin_131,Sui Generis Malbec Otro/Rabanos,,Sui Generis,Malbec,,,,,
-vin_132,Pequeña Parrillas Malbec,,Pequeña Parrillas,Malbec,,,,,
-vin_133,Carlos Garci Malbec,,Carlos Garci,Malbec,,,,,
-vin_134,Sottano Malbec Junior,,Sottano,Malbec,,,,,
-vin_135,Expreso Bodeguero Bonarda,,Expreso Bodeguero,Bonarda,,,,,
-vin_136,Sottano Red Blend Junior,,Sottano,Red Blend,,,,,
-vin_137,Nederburg 1741 Pinotage,,Nederburg,Pinotage,,,,,
-vin_138,Nederburg 1741 Shiraz,,Nederburg,Shiraz,,,,,
-vin_139,Vinho da Casa Importado,,,Tinto,,,,,
-vin_140,Fontanafredda Pradalupo Roero,,Fontanafredda,Arneis,,,,,
-vin_141,Bonfante & Chiarli Arneis Estaja,,Bonfante & Chiarli,Arneis,,,,,
-vin_142,Argentina Zeni Soave Classico,,Zeni,Garganega,,,,,
-vin_143,Arcaia Pinot Grigio,,Arcaia,Pinot Grigio,,,,,
-vin_144,Castel del Sole Pinot Grigio,,Castel del Sole,Pinot Grigio,,,,,
-vin_145,Chablis Maison Chandesais,,Maison Chandesais,Chardonnay,,,,,
-vin_146,Trou de Lapin Bordeaux,,Trou de Lapin,"Sauvignon Blanc, Semillon",,,,,
-vin_147,Entrelinhas,,Entrelinhas,"Gouveio, Rabigato, Arinto",,,,,
-vin_148,Salton Virtude Chardonnay,,Salton,Chardonnay,,,,,
-vin_149,Aurora Chardonnay Reserva,,Aurora,Chardonnay,,,,,
-vin_150,Aurora Chardonnay,,Aurora,Chardonnay,,,,,
-vin_151,Quatro,,Quatro,"Viognier, Verdejo, Vermentino, Alvarinho",,,,,
-vin_152,Morandé Sauvignon Blanc,,Morandé,Sauvignon Blanc,,,,,
-vin_153,Montgras Sauvignon Blanc De Viñe,,Montgras,Sauvignon Blanc,,,,,
-vin_154,Sottano Torrontes,,Sottano,Torrontes,,,,,
-vin_155,Sottano Chardonnay,,Sottano,Chardonnay,,,,,
-vin_156,Nederburg 1741 Rose Pinotage,,Nederburg,Pinotage,,,,,
-vin_157,Champagne Cuvee Don Pérignon Brut,,Dom Pérignon,"Chardonnay, Pinot Noir",,,,,
-vin_158,Champagne Veuve Clicquot Brut,,Veuve Clicquot,"Chardonnay, Pinot Noir, Pinot Meunier",,,,,
-vin_159,Champagne Moët Chandon Brut Impérial,,Moët & Chandon,"Pinot Noir, Pinot Meunier, Chardonnay",,,,,
-vin_160,Magno Espumante Franco Brut,,Magno,,,,,,
-vin_161,Magno Espumante Rose Brut,,Magno,,,,,,
-vin_162,Aurora Espumante Extra Dry,,Aurora,"Chardonnay, Pinot Noir",,,,,
-vin_163,Salton Ouro Extra Brut,,Salton,"Chardonnay, Pinot Noir",,,,,
-vin_164,Aurora Espumante Procedência Pinot Noir,,Aurora,Pinot Noir,,,,,
-vin_165,Chianti Classico Le Capanne,,Le Capanne,Sangiovese,,,,,
-vin_166,Burduzzo Primitivo,,Burduzzo,Primitivo,,,,,
-vin_167,Mancura Etnia Cabernet Sauvignon,,Mancura,Cabernet Sauvignon,,,,,
-vin_168,Morandé Set. Parcelas Carmenere,,Morandé,Carmenere,,,,,
-vin_169,Chianti Querceto,,Querceto,Sangiovese,,,,,
-vin_170,Zeni Valpolicella Classico,,Zeni,"Corvina, Rondinella, Molinara",,,,,
-vin_171,Expreso Bodeguero Malbec,,Expreso Bodeguero,Malbec,,,,,
-vin_172,Itinera Montepulciano D’Abruzzo,,Itinera,Montepulciano,,,,,
-vin_173,Montgras Chardonnay,,Montgras,Chardonnay,,,,,
-vin_174,Expreso Bodeguero Torrontes,,Expreso Bodeguero,Torrontes,,,,,
-vin_175,Longitud Cabernet Sauvignon,,Longitud,Cabernet Sauvignon,,,,,
-vin_176,Longitud Sauvignon Blanc Varietal,,Longitud,Sauvignon Blanc,,,,,
-vin_177,Aurora Prosecco Brasil,,Aurora,Prosecco,14.0,,,,
-vin_178,Aurora Moscatel Boreau,,Aurora,Moscatel,,,,,
-vin_179,Bonfante & Chiarle Moscato D’Asti Dosman,,Bonfante & Chiarle,Moscato Bianco,,,,,
+vinho_id,nome_base,produtor,safra,corpo_peso,tanino_peso,acidez_peso,docura_peso,alcool_peso,nota_delicado,nota_classico,nota_robusto,nota_audaz,caminho_foto,uvas,regiao,teor_alcoolico
+VINI-000001,Casa Valduga Chardonnay 2015,Casa Valduga,2015,0.56,0.15,0.68,0.15,0.82,2.92,4.03,1.78,3.19,labels/VINI-000001.jpg,['Chardonnay'],Vale dos Vinhedos - Brasil,N/D
+VINI-000002,Louis Latour Chardonnay 2023,Louis Latour,2023,0.57,0.13,0.7,0.08,0.79,2.96,4.0,1.75,3.05,labels/VINI-000002.jpg,['Chardonnay'],Bourgogne - França,N/D
+VINI-000003,Prunotto Nebbiolo 2012,Prunotto,2012,0.7,0.92,0.83,0.13,0.86,3.09,3.7,4.05,3.37,labels/VINI-000003.jpg,['Nebbiolo'],Piemonte - Itália,N/D
+VINI-000004,Louis Latour Chardonnay 2022,Louis Latour,2022,0.49,0.12,0.7,0.07,0.84,3.12,3.77,1.52,3.5,labels/VINI-000004.jpg,['Chardonnay'],Bourgogne - França,N/D
+VINI-000005,Graham's Touriga Nacional 2024,Graham's,2024,0.96,0.56,0.45,0.81,1.0,1.43,3.95,3.8,4.19,labels/VINI-000005.jpg,['Touriga Nacional'],Douro - Portugal,N/D
+VINI-000006,Cloudy Bay Sauvignon Blanc 2021,Cloudy Bay,2021,0.22,0.09,0.81,0.08,0.64,3.99,3.02,1.0,2.88,labels/VINI-000006.jpg,['Sauvignon Blanc'],Marlborough - Nova Zelândia,N/D
+VINI-000007,Marqués de Riscal Tempranillo 2015,Marqués de Riscal,2015,0.67,0.69,0.57,0.12,0.7,2.37,4.35,3.4,2.73,labels/VINI-000007.jpg,['Tempranillo'],Rioja - Espanha,N/D
+VINI-000008,Marqués de Riscal Tempranillo 2019,Marqués de Riscal,2019,0.66,0.57,0.73,0.02,0.73,2.87,4.68,3.08,2.88,labels/VINI-000008.jpg,['Tempranillo'],Rioja - Espanha,N/D
+VINI-000009,Prunotto Nebbiolo 2022,Prunotto,2022,0.61,0.96,0.91,0.08,0.71,3.51,3.83,3.92,2.88,labels/VINI-000009.jpg,['Nebbiolo'],Piemonte - Itália,N/D
+VINI-000010,Concha y Toro Cabernet Sauvignon 2013,Concha y Toro,2013,0.8,0.8,0.46,0.13,0.78,1.78,3.75,4.0,2.75,labels/VINI-000010.jpg,['Cabernet Sauvignon'],Vale Central - Chile,N/D
+VINI-000011,Viña Leyda Sauvignon Blanc 2010,Viña Leyda,2010,0.26,0.18,0.88,0.2,0.6,4.12,3.35,1.1,2.88,labels/VINI-000011.jpg,['Sauvignon Blanc'],Vale de Leyda - Chile,N/D
+VINI-000012,Cloudy Bay Sauvignon Blanc 2019,Cloudy Bay,2019,0.33,0.07,0.82,0.0,0.68,3.8,3.25,1.0,2.83,labels/VINI-000012.jpg,['Sauvignon Blanc'],Marlborough - Nova Zelândia,N/D
+VINI-000013,"Esporão Aragonez, Trincadeira 2015",Esporão,2015,0.72,0.57,0.64,0.11,0.66,2.48,4.53,3.23,2.75,labels/VINI-000013.jpg,"['Aragonez', 'Trincadeira']",Alentejo - Portugal,N/D
+VINI-000014,M. Chapoutier Syrah 2016,M. Chapoutier,2016,0.91,0.92,0.47,0.11,0.84,1.59,3.17,4.58,2.85,labels/VINI-000014.jpg,['Syrah'],Rhône - França,N/D
+VINI-000015,Viña Leyda Sauvignon Blanc 2021,Viña Leyda,2021,0.23,0.06,0.87,0.0,0.61,4.15,2.97,1.0,2.62,labels/VINI-000015.jpg,['Sauvignon Blanc'],Vale de Leyda - Chile,N/D
+VINI-000016,Antinori Sangiovese 2013,Antinori,2013,0.68,0.57,0.57,0.14,0.76,2.35,4.62,3.12,2.88,labels/VINI-000016.jpg,['Sangiovese'],Toscana - Itália,N/D
+VINI-000017,Cloudy Bay Sauvignon Blanc 2012,Cloudy Bay,2012,0.29,0.14,0.82,0.06,0.55,3.88,3.33,1.07,2.66,labels/VINI-000017.jpg,['Sauvignon Blanc'],Marlborough - Nova Zelândia,N/D
+VINI-000018,Pizzato Merlot 2019,Pizzato,2019,0.69,0.67,0.58,0.09,0.66,2.36,4.35,3.4,2.62,labels/VINI-000018.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000019,Casa Valduga Chardonnay 2012,Casa Valduga,2012,0.57,0.12,0.72,0.14,0.71,3.02,3.97,1.72,3.01,labels/VINI-000019.jpg,['Chardonnay'],Vale dos Vinhedos - Brasil,N/D
+VINI-000020,Concha y Toro Cabernet Sauvignon 2022,Concha y Toro,2022,0.87,0.91,0.53,0.13,0.86,1.85,3.3,4.45,3.01,labels/VINI-000020.jpg,['Cabernet Sauvignon'],Vale Central - Chile,N/D
+VINI-000021,Miolo Tannat 2011,Miolo,2011,0.88,0.87,0.52,0.07,0.8,1.8,3.38,4.38,2.79,labels/VINI-000021.jpg,['Tannat'],Campanha Gaúcha - Brasil,N/D
+VINI-000022,"Esporão Aragonez, Trincadeira 2011",Esporão,2011,0.64,0.6,0.64,0.09,0.61,2.64,4.65,3.1,2.62,labels/VINI-000022.jpg,"['Aragonez', 'Trincadeira']",Alentejo - Portugal,N/D
+VINI-000023,Concha y Toro Cabernet Sauvignon 2014,Concha y Toro,2014,0.89,0.74,0.52,0.15,0.81,1.78,3.67,4.07,2.93,labels/VINI-000023.jpg,['Cabernet Sauvignon'],Vale Central - Chile,N/D
+VINI-000025,Viña Leyda Sauvignon Blanc 2016,Viña Leyda,2016,0.32,0.03,0.82,0.03,0.55,3.82,3.12,1.0,2.62,labels/VINI-000025.jpg,['Sauvignon Blanc'],Vale de Leyda - Chile,N/D
+VINI-000026,Casa Valduga Chardonnay 2016,Casa Valduga,2016,0.55,0.09,0.69,0.06,0.85,2.97,3.85,1.6,3.12,labels/VINI-000026.jpg,['Chardonnay'],Vale dos Vinhedos - Brasil,N/D
+VINI-000027,Pizzato Merlot 2021,Pizzato,2021,0.65,0.64,0.55,0.1,0.66,2.35,4.53,3.23,2.6,labels/VINI-000027.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000028,Concha y Toro Cabernet Sauvignon 2011,Concha y Toro,2011,0.76,0.86,0.49,0.02,0.78,1.95,3.7,4.05,2.62,labels/VINI-000028.jpg,['Cabernet Sauvignon'],Vale Central - Chile,N/D
+VINI-000030,Miolo Tannat 2018,Miolo,2018,0.89,0.84,0.6,0.11,0.78,2.02,3.43,4.33,2.93,labels/VINI-000030.jpg,['Tannat'],Campanha Gaúcha - Brasil,N/D
+VINI-000031,Miolo Tannat 2014,Miolo,2014,0.85,0.84,0.47,0.08,0.83,1.71,3.53,4.22,2.79,labels/VINI-000031.jpg,['Tannat'],Campanha Gaúcha - Brasil,N/D
+VINI-000032,Miolo Tannat 2019,Miolo,2019,0.87,0.89,0.53,0.08,0.76,1.85,3.35,4.4,2.74,labels/VINI-000032.jpg,['Tannat'],Campanha Gaúcha - Brasil,N/D
+VINI-000033,Cloudy Bay Sauvignon Blanc 2013,Cloudy Bay,2013,0.24,0.0,0.8,0.03,0.62,3.92,2.85,1.0,2.78,labels/VINI-000033.jpg,['Sauvignon Blanc'],Marlborough - Nova Zelândia,N/D
+VINI-000034,Graham's Touriga Nacional 2012,Graham's,2012,0.94,0.52,0.43,0.71,1.0,1.41,4.1,3.65,4.01,labels/VINI-000034.jpg,['Touriga Nacional'],Douro - Portugal,N/D
+VINI-000035,Santa Rita Carmenere 2020,Santa Rita,2020,0.74,0.68,0.66,0.11,0.63,2.5,4.2,3.55,2.72,labels/VINI-000035.jpg,['Carmenere'],Vale do Maipo - Chile,N/D
+VINI-000036,Marqués de Riscal Tempranillo 2024,Marqués de Riscal,2024,0.59,0.62,0.54,0.08,0.65,2.44,4.68,3.02,2.53,labels/VINI-000036.jpg,['Tempranillo'],Rioja - Espanha,N/D
+VINI-000038,Marqués de Riscal Tempranillo 2017,Marqués de Riscal,2017,0.7,0.67,0.59,0.08,0.73,2.37,4.33,3.43,2.76,labels/VINI-000038.jpg,['Tempranillo'],Rioja - Espanha,N/D
+VINI-000039,Beringer Cabernet Sauvignon 2010,Beringer,2010,0.92,0.81,0.48,0.16,0.82,1.6,3.42,4.33,2.9,labels/VINI-000039.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000040,Santa Rita Carmenere 2022,Santa Rita,2022,0.69,0.55,0.68,0.07,0.75,2.66,4.65,3.1,2.93,labels/VINI-000040.jpg,['Carmenere'],Vale do Maipo - Chile,N/D
+VINI-000041,Beringer Cabernet Sauvignon 2022,Beringer,2022,0.88,0.75,0.51,0.1,0.82,1.77,3.67,4.07,2.85,labels/VINI-000041.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000042,Beringer Cabernet Sauvignon 2020,Beringer,2020,0.88,0.91,0.48,0.21,0.81,1.68,3.28,4.47,2.96,labels/VINI-000042.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000043,Graham's Touriga Nacional 2023,Graham's,2023,0.88,0.61,0.38,0.75,0.89,1.38,4.02,3.73,3.77,labels/VINI-000043.jpg,['Touriga Nacional'],Douro - Portugal,N/D
+VINI-000045,Prunotto Nebbiolo 2011,Prunotto,2011,0.68,0.88,0.85,0.09,0.82,3.19,3.85,3.9,3.2,labels/VINI-000045.jpg,['Nebbiolo'],Piemonte - Itália,N/D
+VINI-000046,Luigi Bosca Malbec 2020,Luigi Bosca,2020,0.85,0.83,0.4,0.07,0.75,1.5,3.55,4.2,4.0,labels/VINI-000046.jpg,['Malbec'],Luján de Cuyo - Argentina,N/D
+VINI-000047,Santa Rita Carmenere 2017,Santa Rita,2017,0.7,0.63,0.61,0.3,0.87,2.43,4.42,3.33,3.41,labels/VINI-000047.jpg,['Carmenere'],Vale do Maipo - Chile,N/D
+VINI-000048,Prunotto Nebbiolo 2017,Prunotto,2017,0.75,0.97,0.82,0.03,0.75,2.96,3.45,4.3,3.02,labels/VINI-000048.jpg,['Nebbiolo'],Piemonte - Itália,N/D
+VINI-000049,Marqués de Riscal Tempranillo 2018,Marqués de Riscal,2018,0.69,0.64,0.57,0.08,0.7,2.33,4.42,3.33,2.67,labels/VINI-000049.jpg,['Tempranillo'],Rioja - Espanha,N/D
+VINI-000050,Pizzato Merlot 2024,Pizzato,2024,0.63,0.69,0.73,0.09,0.72,2.93,4.45,3.3,2.97,labels/VINI-000050.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000051,Catena Zapata Malbec 2013,Catena Zapata,2013,0.77,0.91,0.47,0.0,0.83,1.87,3.55,4.2,2.67,labels/VINI-000051.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000052,Santa Rita Carmenere 2021,Santa Rita,2021,0.68,0.56,0.65,0.12,0.7,2.59,4.65,3.1,2.85,labels/VINI-000052.jpg,['Carmenere'],Vale do Maipo - Chile,N/D
+VINI-000053,"Esporão Aragonez, Trincadeira 2012",Esporão,2012,0.74,0.49,0.54,0.04,0.67,2.14,4.62,3.08,2.51,labels/VINI-000053.jpg,"['Aragonez', 'Trincadeira']",Alentejo - Portugal,N/D
+VINI-000054,Prunotto Nebbiolo 2013,Prunotto,2013,0.66,0.95,0.94,0.11,0.8,3.5,3.73,4.02,3.06,labels/VINI-000054.jpg,['Nebbiolo'],Piemonte - Itália,N/D
+VINI-000055,Louis Latour Chardonnay 2011,Louis Latour,2011,0.54,0.17,0.67,0.09,0.75,2.93,4.03,1.78,2.94,labels/VINI-000055.jpg,['Chardonnay'],Bourgogne - França,N/D
+VINI-000057,Luigi Bosca Malbec 2023,Luigi Bosca,2023,0.86,0.88,0.47,0.13,0.84,1.69,3.4,4.35,2.88,labels/VINI-000057.jpg,['Malbec'],Luján de Cuyo - Argentina,N/D
+VINI-000058,"Esporão Aragonez, Trincadeira 2022",Esporão,2022,0.71,0.6,0.63,0.08,0.68,2.47,4.47,3.28,2.73,labels/VINI-000058.jpg,"['Aragonez', 'Trincadeira']",Alentejo - Portugal,N/D
+VINI-000060,Louis Latour Chardonnay 2014,Louis Latour,2014,0.47,0.11,0.67,0.12,0.83,3.07,3.7,1.45,3.15,labels/VINI-000060.jpg,['Chardonnay'],Bourgogne - França,N/D
+VINI-000062,Catena Zapata Malbec 2015,Catena Zapata,2015,0.78,0.86,0.49,0.12,0.79,1.91,3.65,4.1,2.8,labels/VINI-000062.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000063,Prunotto Nebbiolo 2024,Prunotto,2024,0.66,0.88,0.92,0.0,0.71,3.44,3.9,3.85,2.74,labels/VINI-000063.jpg,['Nebbiolo'],Piemonte - Itália,N/D
+VINI-000064,Cloudy Bay Sauvignon Blanc 2011,Cloudy Bay,2011,0.2,0.01,0.94,0.06,0.6,4.42,2.78,1.0,2.58,labels/VINI-000064.jpg,['Sauvignon Blanc'],Marlborough - Nova Zelândia,N/D
+VINI-000065,Joseph Drouhin Pinot Noir 2019,Joseph Drouhin,2019,0.34,0.31,0.8,0.12,0.56,3.72,3.88,1.62,2.8,labels/VINI-000065.jpg,['Pinot Noir'],Bourgogne - França,N/D
+VINI-000066,Louis Latour Chardonnay 2019,Louis Latour,2019,0.55,0.17,0.71,0.06,0.69,3.03,4.05,1.8,2.83,labels/VINI-000066.jpg,['Chardonnay'],Bourgogne - França,N/D
+VINI-000068,M. Chapoutier Syrah 2018,M. Chapoutier,2018,0.85,0.77,0.51,0.09,0.83,1.83,3.7,4.05,2.86,labels/VINI-000068.jpg,['Syrah'],Rhône - França,N/D
+VINI-000069,Viña Leyda Sauvignon Blanc 2015,Viña Leyda,2015,0.23,0.0,0.81,0.05,0.53,3.97,2.82,1.0,2.62,labels/VINI-000069.jpg,['Sauvignon Blanc'],Vale de Leyda - Chile,N/D
+VINI-000072,Luigi Bosca Malbec 2012,Luigi Bosca,2012,0.81,0.79,0.48,0.03,0.84,1.82,3.75,4.0,2.75,labels/VINI-000072.jpg,['Malbec'],Luján de Cuyo - Argentina,N/D
+VINI-000073,Santa Rita Carmenere 2011,Santa Rita,2011,0.65,0.53,0.54,0.21,0.67,2.32,4.8,2.95,2.77,labels/VINI-000073.jpg,['Carmenere'],Vale do Maipo - Chile,N/D
+VINI-000074,Catena Zapata Malbec 2023,Catena Zapata,2023,0.85,0.92,0.46,0.06,0.67,1.68,3.33,4.42,2.42,labels/VINI-000074.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000075,Casa Valduga Chardonnay 2023,Casa Valduga,2023,0.59,0.09,0.71,0.11,0.81,2.95,3.95,1.7,3.15,labels/VINI-000075.jpg,['Chardonnay'],Vale dos Vinhedos - Brasil,N/D
+VINI-000076,Catena Zapata Malbec 2010,Catena Zapata,2010,0.85,0.91,0.53,0.08,0.77,1.89,3.35,4.4,2.76,labels/VINI-000076.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000077,Prunotto Nebbiolo 2018,Prunotto,2018,0.69,0.96,0.86,0.0,0.8,3.2,3.63,4.12,3.01,labels/VINI-000077.jpg,['Nebbiolo'],Piemonte - Itália,N/D
+VINI-000079,Concha y Toro Cabernet Sauvignon 2016,Concha y Toro,2016,0.82,0.86,0.46,0.08,0.72,1.74,3.55,4.2,2.55,labels/VINI-000079.jpg,['Cabernet Sauvignon'],Vale Central - Chile,N/D
+VINI-000080,Concha y Toro Cabernet Sauvignon 2015,Concha y Toro,2015,0.86,0.9,0.53,0.0,0.86,1.87,3.35,4.4,2.82,labels/VINI-000080.jpg,['Cabernet Sauvignon'],Vale Central - Chile,N/D
+VINI-000082,Graham's Touriga Nacional 2014,Graham's,2014,0.87,0.54,0.39,0.74,0.86,1.43,4.22,3.53,3.72,labels/VINI-000082.jpg,['Touriga Nacional'],Douro - Portugal,N/D
+VINI-000083,Antinori Sangiovese 2016,Antinori,2016,0.71,0.62,0.6,0.21,0.62,2.38,4.42,3.33,2.75,labels/VINI-000083.jpg,['Sangiovese'],Toscana - Itália,N/D
+VINI-000084,Cloudy Bay Sauvignon Blanc 2014,Cloudy Bay,2014,0.24,0.01,0.86,0.08,0.64,4.1,2.88,1.0,2.81,labels/VINI-000084.jpg,['Sauvignon Blanc'],Marlborough - Nova Zelândia,N/D
+VINI-000085,Pizzato Merlot 2014,Pizzato,2014,0.69,0.63,0.57,0.09,0.64,2.33,4.45,3.3,2.57,labels/VINI-000085.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000087,Casa Valduga Chardonnay 2010,Casa Valduga,2010,0.56,0.07,0.71,0.21,0.81,3.01,3.83,1.58,3.3,labels/VINI-000087.jpg,['Chardonnay'],Vale dos Vinhedos - Brasil,N/D
+VINI-000089,Beringer Cabernet Sauvignon 2014,Beringer,2014,0.84,0.86,0.54,0.08,0.87,1.94,3.5,4.25,2.97,labels/VINI-000089.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000090,Graham's Touriga Nacional 2016,Graham's,2016,0.94,0.5,0.42,0.87,0.96,1.38,4.15,3.6,4.15,labels/VINI-000090.jpg,['Touriga Nacional'],Douro - Portugal,N/D
+VINI-000091,Graham's Touriga Nacional 2021,Graham's,2021,0.94,0.52,0.4,0.77,0.92,1.32,4.1,3.65,3.89,labels/VINI-000091.jpg,['Touriga Nacional'],Douro - Portugal,N/D
+VINI-000092,Joseph Drouhin Pinot Noir 2011,Joseph Drouhin,2011,0.42,0.26,0.81,0.12,0.58,3.59,3.95,1.7,2.82,labels/VINI-000092.jpg,['Pinot Noir'],Bourgogne - França,N/D
+VINI-000093,Marqués de Riscal Tempranillo 2012,Marqués de Riscal,2012,0.69,0.6,0.63,0.16,0.61,2.51,4.53,3.23,2.7,labels/VINI-000093.jpg,['Tempranillo'],Rioja - Espanha,N/D
+VINI-000094,Concha y Toro Cabernet Sauvignon 2024,Concha y Toro,2024,0.84,0.88,0.5,0.15,0.79,1.82,3.45,4.3,2.86,labels/VINI-000094.jpg,['Cabernet Sauvignon'],Vale Central - Chile,N/D
+VINI-000096,Prunotto Nebbiolo 2014,Prunotto,2014,0.73,0.92,0.75,0.11,0.73,2.79,3.62,4.12,3.05,labels/VINI-000096.jpg,['Nebbiolo'],Piemonte - Itália,N/D
+VINI-000097,Cloudy Bay Sauvignon Blanc 2024,Cloudy Bay,2024,0.21,0.05,0.88,0.09,0.62,4.22,2.9,1.0,2.76,labels/VINI-000097.jpg,['Sauvignon Blanc'],Marlborough - Nova Zelândia,N/D
+VINI-000098,Miolo Tannat 2012,Miolo,2012,0.87,0.93,0.43,0.05,0.89,1.55,3.25,4.5,2.8,labels/VINI-000098.jpg,['Tannat'],Campanha Gaúcha - Brasil,N/D
+VINI-000099,Graham's Touriga Nacional 2015,Graham's,2015,0.93,0.55,0.33,0.83,0.88,1.13,4.05,3.7,3.8,labels/VINI-000099.jpg,['Touriga Nacional'],Douro - Portugal,N/D
+VINI-000100,Concha y Toro Cabernet Sauvignon 2018,Concha y Toro,2018,0.9,0.87,0.55,0.07,0.81,1.85,3.33,4.42,2.85,labels/VINI-000100.jpg,['Cabernet Sauvignon'],Vale Central - Chile,N/D
+VINI-000102,"Esporão Aragonez, Trincadeira 2023",Esporão,2023,0.58,0.68,0.56,0.15,0.66,2.52,4.5,3.15,2.68,labels/VINI-000102.jpg,"['Aragonez', 'Trincadeira']",Alentejo - Portugal,N/D
+VINI-000107,Antinori Sangiovese 2017,Antinori,2017,0.68,0.62,0.54,0.13,0.65,2.26,4.5,3.25,2.6,labels/VINI-000107.jpg,['Sangiovese'],Toscana - Itália,N/D
+VINI-000109,Viña Leyda Sauvignon Blanc 2018,Viña Leyda,2018,0.31,0.01,0.87,0.04,0.6,3.99,3.05,1.0,2.66,labels/VINI-000109.jpg,['Sauvignon Blanc'],Vale de Leyda - Chile,N/D
+VINI-000110,Beringer Cabernet Sauvignon 2016,Beringer,2016,0.83,0.89,0.52,0.08,0.73,1.9,3.45,4.3,2.66,labels/VINI-000110.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000111,Graham's Touriga Nacional 2013,Graham's,2013,0.97,0.46,0.38,0.83,0.92,1.2,3.97,3.57,3.95,labels/VINI-000111.jpg,['Touriga Nacional'],Douro - Portugal,N/D
+VINI-000112,Concha y Toro Cabernet Sauvignon 2010,Concha y Toro,2010,0.82,0.81,0.47,0.06,0.68,1.77,3.67,4.07,2.46,labels/VINI-000112.jpg,['Cabernet Sauvignon'],Vale Central - Chile,N/D
+VINI-000113,Pizzato Merlot 2022,Pizzato,2022,0.58,0.61,0.57,0.12,0.78,2.55,4.68,2.97,2.89,labels/VINI-000113.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000114,Graham's Touriga Nacional 2020,Graham's,2020,0.89,0.51,0.35,0.8,0.96,1.27,4.25,3.5,3.94,labels/VINI-000114.jpg,['Touriga Nacional'],Douro - Portugal,N/D
+VINI-000115,Antinori Sangiovese 2024,Antinori,2024,0.69,0.52,0.48,0.18,0.73,2.06,4.73,3.02,2.75,labels/VINI-000115.jpg,['Sangiovese'],Toscana - Itália,N/D
+VINI-000118,Graham's Touriga Nacional 2010,Graham's,2010,0.88,0.48,0.44,0.79,0.95,1.56,4.25,3.4,4.04,labels/VINI-000118.jpg,['Touriga Nacional'],Douro - Portugal,N/D
+VINI-000121,Joseph Drouhin Pinot Noir 2018,Joseph Drouhin,2018,0.43,0.29,0.78,0.16,0.6,3.48,4.05,1.8,2.91,labels/VINI-000121.jpg,['Pinot Noir'],Bourgogne - França,N/D
+VINI-000122,Santa Rita Carmenere 2016,Santa Rita,2016,0.68,0.55,0.53,0.09,0.68,2.23,4.67,3.08,2.59,labels/VINI-000122.jpg,['Carmenere'],Vale do Maipo - Chile,N/D
+VINI-000123,Joseph Drouhin Pinot Noir 2023,Joseph Drouhin,2023,0.36,0.28,0.75,0.06,0.66,3.53,3.85,1.6,2.83,labels/VINI-000123.jpg,['Pinot Noir'],Bourgogne - França,N/D
+VINI-000124,Marqués de Riscal Tempranillo 2014,Marqués de Riscal,2014,0.64,0.75,0.65,0.16,0.62,2.67,4.28,3.48,2.75,labels/VINI-000124.jpg,['Tempranillo'],Rioja - Espanha,N/D
+VINI-000125,Joseph Drouhin Pinot Noir 2013,Joseph Drouhin,2013,0.39,0.33,0.66,0.06,0.72,3.2,4.05,1.8,2.82,labels/VINI-000125.jpg,['Pinot Noir'],Bourgogne - França,N/D
+VINI-000127,Miolo Tannat 2010,Miolo,2010,0.84,0.89,0.59,0.13,0.81,2.09,3.43,4.33,3.0,labels/VINI-000127.jpg,['Tannat'],Campanha Gaúcha - Brasil,N/D
+VINI-000128,"Esporão Aragonez, Trincadeira 2018",Esporão,2018,0.71,0.65,0.57,0.11,0.73,2.29,4.35,3.4,2.78,labels/VINI-000128.jpg,"['Aragonez', 'Trincadeira']",Alentejo - Portugal,N/D
+VINI-000129,Luigi Bosca Malbec 2011,Luigi Bosca,2011,0.79,0.83,0.45,0.05,0.82,1.77,3.7,4.05,2.69,labels/VINI-000129.jpg,['Malbec'],Luján de Cuyo - Argentina,N/D
+VINI-000130,Beringer Cabernet Sauvignon 2013,Beringer,2013,0.81,0.82,0.51,0.09,0.73,1.91,3.67,4.07,2.66,labels/VINI-000130.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000131,Marqués de Riscal Tempranillo 2010,Marqués de Riscal,2010,0.66,0.56,0.64,0.18,0.67,2.6,4.7,3.05,2.87,labels/VINI-000131.jpg,['Tempranillo'],Rioja - Espanha,N/D
+VINI-000132,Miolo Tannat 2024,Miolo,2024,0.81,0.81,0.54,0.15,0.85,2.0,3.7,4.05,3.04,labels/VINI-000132.jpg,['Tannat'],Campanha Gaúcha - Brasil,N/D
+VINI-000133,Concha y Toro Cabernet Sauvignon 2021,Concha y Toro,2021,0.9,0.89,0.58,0.13,0.86,1.94,3.28,4.47,3.08,labels/VINI-000133.jpg,['Cabernet Sauvignon'],Vale Central - Chile,N/D
+VINI-000135,M. Chapoutier Syrah 2013,M. Chapoutier,2013,0.85,0.85,0.58,0.03,0.83,2.04,3.5,4.25,2.88,labels/VINI-000135.jpg,['Syrah'],Rhône - França,N/D
+VINI-000137,Santa Rita Carmenere 2012,Santa Rita,2012,0.69,0.6,0.6,0.14,0.64,2.42,4.53,3.23,2.69,labels/VINI-000137.jpg,['Carmenere'],Vale do Maipo - Chile,N/D
+VINI-000138,M. Chapoutier Syrah 2024,M. Chapoutier,2024,0.8,0.9,0.5,0.0,0.74,1.9,3.5,4.25,2.53,labels/VINI-000138.jpg,['Syrah'],Rhône - França,N/D
+VINI-000139,Catena Zapata Malbec 2014,Catena Zapata,2014,0.84,0.79,0.52,0.11,0.79,1.88,3.67,4.07,2.83,labels/VINI-000139.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000140,M. Chapoutier Syrah 2015,M. Chapoutier,2015,0.83,0.88,0.59,0.11,0.82,2.11,3.48,4.28,2.99,labels/VINI-000140.jpg,['Syrah'],Rhône - França,N/D
+VINI-000142,"Esporão Aragonez, Trincadeira 2020",Esporão,2020,0.75,0.59,0.53,0.07,0.73,2.09,4.4,3.35,2.66,labels/VINI-000142.jpg,"['Aragonez', 'Trincadeira']",Alentejo - Portugal,N/D
+VINI-000143,Luigi Bosca Malbec 2021,Luigi Bosca,2021,0.85,0.8,0.51,0.1,0.74,1.83,3.62,4.12,2.69,labels/VINI-000143.jpg,['Malbec'],Luján de Cuyo - Argentina,N/D
+VINI-000144,Viña Leyda Sauvignon Blanc 2014,Viña Leyda,2014,0.25,0.03,0.86,0.16,0.57,4.08,2.95,1.0,2.79,labels/VINI-000144.jpg,['Sauvignon Blanc'],Vale de Leyda - Chile,N/D
+VINI-000145,Louis Latour Chardonnay 2017,Louis Latour,2017,0.57,0.04,0.65,0.11,0.76,2.81,3.77,1.52,2.96,labels/VINI-000145.jpg,['Chardonnay'],Bourgogne - França,N/D
+VINI-000146,Luigi Bosca Malbec 2016,Luigi Bosca,2016,0.87,0.81,0.49,0.11,0.82,1.73,3.55,4.2,2.84,labels/VINI-000146.jpg,['Malbec'],Luján de Cuyo - Argentina,N/D
+VINI-000147,Beringer Cabernet Sauvignon 2024,Beringer,2024,0.85,0.89,0.49,0.08,0.77,1.77,3.4,4.35,2.7,labels/VINI-000147.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000149,Catena Zapata Malbec 2018,Catena Zapata,2018,0.86,0.93,0.46,0.05,0.79,1.66,3.28,4.47,2.65,labels/VINI-000149.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000151,Pizzato Merlot 2016,Pizzato,2016,0.63,0.55,0.51,0.11,0.53,2.27,4.8,2.95,2.29,labels/VINI-000151.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000155,Graham's Touriga Nacional 2018,Graham's,2018,0.88,0.49,0.42,0.79,0.95,1.5,4.28,3.43,4.01,labels/VINI-000155.jpg,['Touriga Nacional'],Douro - Portugal,N/D
+VINI-000157,Viña Leyda Sauvignon Blanc 2020,Viña Leyda,2020,0.21,0.1,0.81,0.08,0.51,4.01,3.02,1.0,2.62,labels/VINI-000157.jpg,['Sauvignon Blanc'],Vale de Leyda - Chile,N/D
+VINI-000158,Beringer Cabernet Sauvignon 2012,Beringer,2012,0.83,0.83,0.57,0.18,0.82,2.05,3.6,4.15,3.06,labels/VINI-000158.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000159,Prunotto Nebbiolo 2010,Prunotto,2010,0.77,0.99,0.88,0.14,0.78,3.1,3.35,4.4,3.15,labels/VINI-000159.jpg,['Nebbiolo'],Piemonte - Itália,N/D
+VINI-000161,Marqués de Riscal Tempranillo 2013,Marqués de Riscal,2013,0.61,0.53,0.62,0.17,0.62,2.64,4.9,2.85,2.72,labels/VINI-000161.jpg,['Tempranillo'],Rioja - Espanha,N/D
+VINI-000162,Prunotto Nebbiolo 2016,Prunotto,2016,0.79,0.88,0.77,0.07,0.8,2.73,3.57,4.17,3.16,labels/VINI-000162.jpg,['Nebbiolo'],Piemonte - Itália,N/D
+VINI-000165,Marqués de Riscal Tempranillo 2021,Marqués de Riscal,2021,0.61,0.6,0.63,0.08,0.74,2.67,4.73,3.02,2.84,labels/VINI-000165.jpg,['Tempranillo'],Rioja - Espanha,N/D
+VINI-000168,Casa Valduga Chardonnay 2024,Casa Valduga,2024,0.53,0.21,0.75,0.11,0.69,3.19,4.1,1.85,2.97,labels/VINI-000168.jpg,['Chardonnay'],Vale dos Vinhedos - Brasil,N/D
+VINI-000170,Louis Latour Chardonnay 2010,Louis Latour,2010,0.46,0.06,0.71,0.11,0.71,3.21,3.55,1.3,2.95,labels/VINI-000170.jpg,['Chardonnay'],Bourgogne - França,N/D
+VINI-000171,Concha y Toro Cabernet Sauvignon 2012,Concha y Toro,2012,0.9,0.84,0.43,0.07,0.84,1.49,3.4,4.35,2.73,labels/VINI-000171.jpg,['Cabernet Sauvignon'],Vale Central - Chile,N/D
+VINI-000172,Santa Rita Carmenere 2023,Santa Rita,2023,0.66,0.65,0.57,0.15,0.67,2.39,4.47,3.28,2.72,labels/VINI-000172.jpg,['Carmenere'],Vale do Maipo - Chile,N/D
+VINI-000174,Beringer Cabernet Sauvignon 2017,Beringer,2017,0.81,0.87,0.51,0.13,0.85,1.91,3.55,4.2,2.96,labels/VINI-000174.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000175,Luigi Bosca Malbec 2014,Luigi Bosca,2014,0.85,0.81,0.52,0.04,0.88,1.86,3.6,4.15,2.9,labels/VINI-000175.jpg,['Malbec'],Luján de Cuyo - Argentina,N/D
+VINI-000177,Beringer Cabernet Sauvignon 2021,Beringer,2021,0.8,0.9,0.48,0.1,0.85,1.84,3.5,4.25,2.87,labels/VINI-000177.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000178,Miolo Tannat 2016,Miolo,2016,0.89,0.81,0.52,0.12,0.78,1.78,3.5,4.25,2.82,labels/VINI-000178.jpg,['Tannat'],Campanha Gaúcha - Brasil,N/D
+VINI-000181,Miolo Tannat 2021,Miolo,2021,0.81,0.83,0.5,0.09,0.71,1.88,3.65,4.1,2.6,labels/VINI-000181.jpg,['Tannat'],Campanha Gaúcha - Brasil,N/D
+VINI-000183,Marqués de Riscal Tempranillo 2023,Marqués de Riscal,2023,0.59,0.57,0.63,0.07,0.67,2.71,4.8,2.9,2.69,labels/VINI-000183.jpg,['Tempranillo'],Rioja - Espanha,N/D
+VINI-000184,Concha y Toro Cabernet Sauvignon 2017,Concha y Toro,2017,0.92,0.79,0.46,0.14,0.83,1.54,3.47,4.28,2.86,labels/VINI-000184.jpg,['Cabernet Sauvignon'],Vale Central - Chile,N/D
+VINI-000185,Antinori Sangiovese 2015,Antinori,2015,0.67,0.61,0.59,0.16,0.66,2.43,4.55,3.2,2.74,labels/VINI-000185.jpg,['Sangiovese'],Toscana - Itália,N/D
+VINI-000188,Luigi Bosca Malbec 2024,Luigi Bosca,2024,0.97,0.74,0.45,0.07,0.79,1.41,3.48,4.28,2.66,labels/VINI-000188.jpg,['Malbec'],Luján de Cuyo - Argentina,N/D
+VINI-000189,"Esporão Aragonez, Trincadeira 2019",Esporão,2019,0.66,0.54,0.59,0.09,0.7,2.45,4.75,3.0,2.72,labels/VINI-000189.jpg,"['Aragonez', 'Trincadeira']",Alentejo - Portugal,N/D
+VINI-000191,Viña Leyda Sauvignon Blanc 2017,Viña Leyda,2017,0.24,0.07,0.8,0.18,0.6,3.92,3.02,1.0,2.97,labels/VINI-000191.jpg,['Sauvignon Blanc'],Vale de Leyda - Chile,N/D
+VINI-000193,Casa Valduga Chardonnay 2021,Casa Valduga,2021,0.55,0.08,0.68,0.21,0.73,2.94,3.83,1.57,3.09,labels/VINI-000193.jpg,['Chardonnay'],Vale dos Vinhedos - Brasil,N/D
+VINI-000195,Luigi Bosca Malbec 2017,Luigi Bosca,2017,0.92,0.8,0.55,0.03,0.87,1.81,3.45,4.3,2.91,labels/VINI-000195.jpg,['Malbec'],Luján de Cuyo - Argentina,N/D
+VINI-000197,Catena Zapata Malbec 2022,Catena Zapata,2022,0.82,0.86,0.57,0.15,0.77,2.07,3.55,4.2,2.92,labels/VINI-000197.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000199,M. Chapoutier Syrah 2023,M. Chapoutier,2023,0.83,0.85,0.61,0.07,0.79,2.17,3.55,4.2,2.9,labels/VINI-000199.jpg,['Syrah'],Rhône - França,N/D
+VINI-000204,Antinori Sangiovese 2012,Antinori,2012,0.58,0.61,0.67,0.18,0.6,2.85,4.68,2.97,2.77,labels/VINI-000204.jpg,['Sangiovese'],Toscana - Itália,N/D
+VINI-000208,Santa Rita Carmenere 2015,Santa Rita,2015,0.64,0.57,0.71,0.09,0.63,2.85,4.73,3.02,2.76,labels/VINI-000208.jpg,['Carmenere'],Vale do Maipo - Chile,N/D
+VINI-000213,Pizzato Merlot 2010,Pizzato,2010,0.66,0.62,0.55,0.12,0.69,2.33,4.55,3.2,2.68,labels/VINI-000213.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000219,M. Chapoutier Syrah 2019,M. Chapoutier,2019,0.85,0.92,0.54,0.1,0.82,1.92,3.33,4.42,2.9,labels/VINI-000219.jpg,['Syrah'],Rhône - França,N/D
+VINI-000221,"Esporão Aragonez, Trincadeira 2024",Esporão,2024,0.62,0.56,0.6,0.16,0.75,2.56,4.8,2.95,2.94,labels/VINI-000221.jpg,"['Aragonez', 'Trincadeira']",Alentejo - Portugal,N/D
+VINI-000222,Antinori Sangiovese 2010,Antinori,2010,0.62,0.59,0.57,0.0,0.7,2.47,4.73,3.02,2.55,labels/VINI-000222.jpg,['Sangiovese'],Toscana - Itália,N/D
+VINI-000224,Catena Zapata Malbec 2019,Catena Zapata,2019,0.87,0.88,0.45,0.17,0.86,1.61,3.38,4.38,2.95,labels/VINI-000224.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000227,Miolo Tannat 2015,Miolo,2015,0.88,0.84,0.51,0.12,0.81,1.77,3.45,4.3,2.87,labels/VINI-000227.jpg,['Tannat'],Campanha Gaúcha - Brasil,N/D
+VINI-000229,Casa Valduga Chardonnay 2020,Casa Valduga,2020,0.5,0.19,0.64,0.08,0.74,2.92,3.97,1.72,2.86,labels/VINI-000229.jpg,['Chardonnay'],Vale dos Vinhedos - Brasil,N/D
+VINI-000232,Catena Zapata Malbec 2024,Catena Zapata,2024,0.88,0.84,0.56,0.08,0.76,1.92,3.45,4.3,2.78,labels/VINI-000232.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000233,Antinori Sangiovese 2014,Antinori,2014,0.61,0.59,0.54,0.12,0.66,2.4,4.75,3.0,2.61,labels/VINI-000233.jpg,['Sangiovese'],Toscana - Itália,N/D
+VINI-000234,Louis Latour Chardonnay 2016,Louis Latour,2016,0.51,0.1,0.7,0.13,0.82,3.08,3.77,1.52,3.19,labels/VINI-000234.jpg,['Chardonnay'],Bourgogne - França,N/D
+VINI-000236,Beringer Cabernet Sauvignon 2015,Beringer,2015,0.87,0.78,0.51,0.11,0.77,1.79,3.62,4.12,2.77,labels/VINI-000236.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000240,Graham's Touriga Nacional 2017,Graham's,2017,0.88,0.54,0.4,0.85,1.0,1.44,4.2,3.55,4.17,labels/VINI-000240.jpg,['Touriga Nacional'],Douro - Portugal,N/D
+VINI-000241,Cloudy Bay Sauvignon Blanc 2010,Cloudy Bay,2010,0.28,0.1,0.79,0.23,0.6,3.81,3.2,1.0,3.03,labels/VINI-000241.jpg,['Sauvignon Blanc'],Marlborough - Nova Zelândia,N/D
+VINI-000243,Marqués de Riscal Tempranillo 2011,Marqués de Riscal,2011,0.68,0.6,0.66,0.09,0.6,2.62,4.55,3.2,2.62,labels/VINI-000243.jpg,['Tempranillo'],Rioja - Espanha,N/D
+VINI-000244,Viña Leyda Sauvignon Blanc 2013,Viña Leyda,2013,0.23,0.0,0.81,0.03,0.61,3.97,2.82,1.0,2.75,labels/VINI-000244.jpg,['Sauvignon Blanc'],Vale de Leyda - Chile,N/D
+VINI-000246,Casa Valduga Chardonnay 2022,Casa Valduga,2022,0.46,0.26,0.75,0.22,0.74,3.33,4.05,1.8,3.24,labels/VINI-000246.jpg,['Chardonnay'],Vale dos Vinhedos - Brasil,N/D
+VINI-000249,Antinori Sangiovese 2011,Antinori,2011,0.58,0.49,0.62,0.14,0.75,2.7,4.92,2.67,2.94,labels/VINI-000249.jpg,['Sangiovese'],Toscana - Itália,N/D
+VINI-000253,Antinori Sangiovese 2020,Antinori,2020,0.66,0.53,0.51,0.13,0.76,2.21,4.77,2.97,2.78,labels/VINI-000253.jpg,['Sangiovese'],Toscana - Itália,N/D
+VINI-000254,Miolo Tannat 2022,Miolo,2022,0.78,0.9,0.51,0.1,0.78,1.97,3.55,4.2,2.78,labels/VINI-000254.jpg,['Tannat'],Campanha Gaúcha - Brasil,N/D
+VINI-000255,Joseph Drouhin Pinot Noir 2021,Joseph Drouhin,2021,0.41,0.25,0.75,0.03,0.61,3.43,3.9,1.65,2.69,labels/VINI-000255.jpg,['Pinot Noir'],Bourgogne - França,N/D
+VINI-000256,M. Chapoutier Syrah 2017,M. Chapoutier,2017,0.9,0.82,0.45,0.08,0.72,1.55,3.45,4.3,2.54,labels/VINI-000256.jpg,['Syrah'],Rhône - França,N/D
+VINI-000257,Santa Rita Carmenere 2014,Santa Rita,2014,0.7,0.46,0.6,0.16,0.7,2.4,4.65,2.9,2.84,labels/VINI-000257.jpg,['Carmenere'],Vale do Maipo - Chile,N/D
+VINI-000260,Luigi Bosca Malbec 2022,Luigi Bosca,2022,0.76,0.77,0.48,0.04,0.8,1.92,3.92,3.83,2.68,labels/VINI-000260.jpg,['Malbec'],Luján de Cuyo - Argentina,N/D
+VINI-000261,Catena Zapata Malbec 2016,Catena Zapata,2016,0.9,0.83,0.51,0.03,0.83,1.73,3.43,4.33,2.77,labels/VINI-000261.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000268,M. Chapoutier Syrah 2012,M. Chapoutier,2012,0.84,0.74,0.56,0.1,0.81,2.0,3.8,3.95,2.91,labels/VINI-000268.jpg,['Syrah'],Rhône - França,N/D
+VINI-000274,Miolo Tannat 2017,Miolo,2017,0.92,0.81,0.46,0.14,0.83,1.54,3.42,4.33,2.86,labels/VINI-000274.jpg,['Tannat'],Campanha Gaúcha - Brasil,N/D
+VINI-000278,M. Chapoutier Syrah 2014,M. Chapoutier,2014,0.79,0.77,0.59,0.0,0.72,2.19,3.85,3.9,2.62,labels/VINI-000278.jpg,['Syrah'],Rhône - França,N/D
+VINI-000284,Santa Rita Carmenere 2018,Santa Rita,2018,0.68,0.53,0.52,0.12,0.67,2.2,4.72,3.02,2.6,labels/VINI-000284.jpg,['Carmenere'],Vale do Maipo - Chile,N/D
+VINI-000286,Beringer Cabernet Sauvignon 2018,Beringer,2018,0.85,0.82,0.6,0.06,0.86,2.1,3.58,4.17,3.01,labels/VINI-000286.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000288,Santa Rita Carmenere 2024,Santa Rita,2024,0.62,0.6,0.66,0.16,0.72,2.74,4.7,3.05,2.97,labels/VINI-000288.jpg,['Carmenere'],Vale do Maipo - Chile,N/D
+VINI-000290,Joseph Drouhin Pinot Noir 2014,Joseph Drouhin,2014,0.41,0.27,0.71,0.13,0.62,3.31,3.95,1.7,2.8,labels/VINI-000290.jpg,['Pinot Noir'],Bourgogne - França,N/D
+VINI-000294,Joseph Drouhin Pinot Noir 2022,Joseph Drouhin,2022,0.33,0.27,0.79,0.06,0.71,3.71,3.75,1.5,3.0,labels/VINI-000294.jpg,['Pinot Noir'],Bourgogne - França,N/D
+VINI-000295,Antinori Sangiovese 2021,Antinori,2021,0.64,0.64,0.6,0.02,0.68,2.52,4.55,3.2,2.59,labels/VINI-000295.jpg,['Sangiovese'],Toscana - Itália,N/D
+VINI-000305,Joseph Drouhin Pinot Noir 2015,Joseph Drouhin,2015,0.41,0.21,0.81,0.1,0.62,3.61,3.8,1.55,2.88,labels/VINI-000305.jpg,['Pinot Noir'],Bourgogne - França,N/D
+VINI-000309,Cloudy Bay Sauvignon Blanc 2020,Cloudy Bay,2020,0.24,0.02,0.95,0.13,0.66,4.37,2.9,1.0,2.79,labels/VINI-000309.jpg,['Sauvignon Blanc'],Marlborough - Nova Zelândia,N/D
+VINI-000311,Cloudy Bay Sauvignon Blanc 2023,Cloudy Bay,2023,0.24,0.12,0.93,0.03,0.63,4.31,3.15,1.0,2.61,labels/VINI-000311.jpg,['Sauvignon Blanc'],Marlborough - Nova Zelândia,N/D
+VINI-000317,Pizzato Merlot 2018,Pizzato,2018,0.66,0.6,0.54,0.08,0.72,2.3,4.6,3.15,2.67,labels/VINI-000317.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000320,Joseph Drouhin Pinot Noir 2017,Joseph Drouhin,2017,0.49,0.31,0.71,0.13,0.62,3.15,4.25,2.0,2.8,labels/VINI-000320.jpg,['Pinot Noir'],Bourgogne - França,N/D
+VINI-000321,Prunotto Nebbiolo 2015,Prunotto,2015,0.69,0.95,0.86,0.08,0.84,3.2,3.65,4.1,3.21,labels/VINI-000321.jpg,['Nebbiolo'],Piemonte - Itália,N/D
+VINI-000323,Antinori Sangiovese 2019,Antinori,2019,0.64,0.59,0.65,0.11,0.75,2.67,4.68,3.08,2.94,labels/VINI-000323.jpg,['Sangiovese'],Toscana - Itália,N/D
+VINI-000324,Miolo Tannat 2020,Miolo,2020,0.75,0.93,0.47,0.08,0.84,1.91,3.55,4.2,2.81,labels/VINI-000324.jpg,['Tannat'],Campanha Gaúcha - Brasil,N/D
+VINI-000326,Luigi Bosca Malbec 2010,Luigi Bosca,2010,0.85,0.88,0.58,0.12,0.8,2.04,3.43,4.33,2.95,labels/VINI-000326.jpg,['Malbec'],Luján de Cuyo - Argentina,N/D
+VINI-000327,Concha y Toro Cabernet Sauvignon 2019,Concha y Toro,2019,0.89,0.84,0.48,0.11,0.88,1.66,3.43,4.33,2.94,labels/VINI-000327.jpg,['Cabernet Sauvignon'],Vale Central - Chile,N/D
+VINI-000333,Casa Valduga Chardonnay 2017,Casa Valduga,2017,0.65,0.16,0.69,0.21,0.73,2.77,4.02,2.03,3.11,labels/VINI-000333.jpg,['Chardonnay'],Vale dos Vinhedos - Brasil,N/D
+VINI-000336,Louis Latour Chardonnay 2015,Louis Latour,2015,0.46,0.07,0.73,0.09,0.78,3.27,3.58,1.33,3.09,labels/VINI-000336.jpg,['Chardonnay'],Bourgogne - França,N/D
+VINI-000338,Prunotto Nebbiolo 2021,Prunotto,2021,0.65,0.95,0.79,0.03,0.84,3.07,3.75,4.0,3.21,labels/VINI-000338.jpg,['Nebbiolo'],Piemonte - Itália,N/D
+VINI-000339,"Esporão Aragonez, Trincadeira 2013",Esporão,2013,0.62,0.67,0.66,0.11,0.75,2.74,4.53,3.23,2.96,labels/VINI-000339.jpg,"['Aragonez', 'Trincadeira']",Alentejo - Portugal,N/D
+VINI-000341,Marqués de Riscal Tempranillo 2022,Marqués de Riscal,2022,0.61,0.58,0.6,0.18,0.77,2.58,4.78,2.97,3.01,labels/VINI-000341.jpg,['Tempranillo'],Rioja - Espanha,N/D
+VINI-000343,Cloudy Bay Sauvignon Blanc 2015,Cloudy Bay,2015,0.33,0.1,0.82,0.13,0.59,3.8,3.33,1.08,2.84,labels/VINI-000343.jpg,['Sauvignon Blanc'],Marlborough - Nova Zelândia,N/D
+VINI-000345,Viña Leyda Sauvignon Blanc 2022,Viña Leyda,2022,0.2,0.15,0.82,0.09,0.64,4.06,3.12,1.0,2.89,labels/VINI-000345.jpg,['Sauvignon Blanc'],Vale de Leyda - Chile,N/D
+VINI-000348,Catena Zapata Malbec 2017,Catena Zapata,2017,0.87,0.82,0.51,0.04,0.83,1.79,3.53,4.22,2.79,labels/VINI-000348.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000349,Louis Latour Chardonnay 2021,Louis Latour,2021,0.67,0.0,0.68,0.14,0.81,2.7,3.57,1.68,3.15,labels/VINI-000349.jpg,['Chardonnay'],Bourgogne - França,N/D
+VINI-000351,Graham's Touriga Nacional 2019,Graham's,2019,0.87,0.49,0.44,0.76,0.9,1.58,4.3,3.4,3.9,labels/VINI-000351.jpg,['Touriga Nacional'],Douro - Portugal,N/D
+VINI-000358,Luigi Bosca Malbec 2015,Luigi Bosca,2015,0.77,0.86,0.48,0.17,0.81,1.9,3.67,4.07,2.9,labels/VINI-000358.jpg,['Malbec'],Luján de Cuyo - Argentina,N/D
+VINI-000359,M. Chapoutier Syrah 2022,M. Chapoutier,2022,0.9,0.85,0.51,0.15,0.72,1.73,3.38,4.38,2.73,labels/VINI-000359.jpg,['Syrah'],Rhône - França,N/D
+VINI-000371,M. Chapoutier Syrah 2010,M. Chapoutier,2010,0.87,0.82,0.42,0.07,0.75,1.52,3.53,4.22,2.54,labels/VINI-000371.jpg,['Syrah'],Rhône - França,N/D
+VINI-000377,Santa Rita Carmenere 2013,Santa Rita,2013,0.6,0.61,0.56,0.12,0.65,2.48,4.73,3.02,2.62,labels/VINI-000377.jpg,['Carmenere'],Vale do Maipo - Chile,N/D
+VINI-000384,Antinori Sangiovese 2023,Antinori,2023,0.64,0.67,0.63,0.08,0.75,2.61,4.47,3.28,2.87,labels/VINI-000384.jpg,['Sangiovese'],Toscana - Itália,N/D
+VINI-000385,Joseph Drouhin Pinot Noir 2010,Joseph Drouhin,2010,0.44,0.28,0.72,0.1,0.62,3.28,4.05,1.8,2.77,labels/VINI-000385.jpg,['Pinot Noir'],Bourgogne - França,N/D
+VINI-000389,M. Chapoutier Syrah 2011,M. Chapoutier,2011,0.8,0.86,0.56,0.07,0.83,2.08,3.6,4.15,2.9,labels/VINI-000389.jpg,['Syrah'],Rhône - França,N/D
+VINI-000395,Beringer Cabernet Sauvignon 2019,Beringer,2019,0.85,0.73,0.51,0.14,0.7,1.83,3.8,3.95,2.67,labels/VINI-000395.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000396,Catena Zapata Malbec 2021,Catena Zapata,2021,0.97,0.87,0.44,0.06,0.79,1.38,3.15,4.6,2.63,labels/VINI-000396.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000397,"Esporão Aragonez, Trincadeira 2021",Esporão,2021,0.72,0.59,0.6,0.12,0.66,2.36,4.47,3.28,2.7,labels/VINI-000397.jpg,"['Aragonez', 'Trincadeira']",Alentejo - Portugal,N/D
+VINI-000398,Viña Leyda Sauvignon Blanc 2023,Viña Leyda,2023,0.19,0.05,0.82,0.05,0.61,4.08,2.85,1.0,2.77,labels/VINI-000398.jpg,['Sauvignon Blanc'],Vale de Leyda - Chile,N/D
+VINI-000400,Graham's Touriga Nacional 2011,Graham's,2011,0.94,0.51,0.38,0.85,0.94,1.26,4.12,3.62,4.02,labels/VINI-000400.jpg,['Touriga Nacional'],Douro - Portugal,N/D
+VINI-000405,Joseph Drouhin Pinot Noir 2020,Joseph Drouhin,2020,0.35,0.37,0.79,0.14,0.57,3.67,4.05,1.8,2.83,labels/VINI-000405.jpg,['Pinot Noir'],Bourgogne - França,N/D
+VINI-000411,Catena Zapata Malbec 2011,Catena Zapata,2011,0.84,0.84,0.46,0.12,0.87,1.7,3.55,4.2,2.91,labels/VINI-000411.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000421,Catena Zapata Malbec 2012,Catena Zapata,2012,0.83,0.88,0.55,0.11,0.8,1.99,3.48,4.28,2.89,labels/VINI-000421.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000430,"Esporão Aragonez, Trincadeira 2014",Esporão,2014,0.63,0.61,0.51,0.24,0.68,2.27,4.65,3.1,2.79,labels/VINI-000430.jpg,"['Aragonez', 'Trincadeira']",Alentejo - Portugal,N/D
+VINI-000433,Prunotto Nebbiolo 2019,Prunotto,2019,0.71,0.88,0.9,0.13,0.81,3.28,3.77,3.97,3.17,labels/VINI-000433.jpg,['Nebbiolo'],Piemonte - Itália,N/D
+VINI-000435,M. Chapoutier Syrah 2021,M. Chapoutier,2021,0.73,0.82,0.51,0.0,0.78,2.07,3.88,3.87,2.62,labels/VINI-000435.jpg,['Syrah'],Rhône - França,N/D
+VINI-000436,"Esporão Aragonez, Trincadeira 2010",Esporão,2010,0.68,0.58,0.63,0.15,0.64,2.53,4.6,3.15,2.75,labels/VINI-000436.jpg,"['Aragonez', 'Trincadeira']",Alentejo - Portugal,N/D
+VINI-000437,Concha y Toro Cabernet Sauvignon 2023,Concha y Toro,2023,0.82,0.87,0.52,0.12,0.79,1.92,3.53,4.22,2.84,labels/VINI-000437.jpg,['Cabernet Sauvignon'],Vale Central - Chile,N/D
+VINI-000440,Concha y Toro Cabernet Sauvignon 2020,Concha y Toro,2020,0.85,0.85,0.45,0.11,0.86,1.65,3.5,4.25,2.86,labels/VINI-000440.jpg,['Cabernet Sauvignon'],Vale Central - Chile,N/D
+VINI-000441,Antinori Sangiovese 2018,Antinori,2018,0.56,0.6,0.64,0.13,0.74,2.8,4.65,2.9,2.93,labels/VINI-000441.jpg,['Sangiovese'],Toscana - Itália,N/D
+VINI-000443,Louis Latour Chardonnay 2020,Louis Latour,2020,0.54,0.02,0.69,0.17,0.68,2.99,3.65,1.4,2.95,labels/VINI-000443.jpg,['Chardonnay'],Bourgogne - França,N/D
+VINI-000444,Viña Leyda Sauvignon Blanc 2019,Viña Leyda,2019,0.33,0.04,0.85,0.05,0.64,3.89,3.17,1.0,2.78,labels/VINI-000444.jpg,['Sauvignon Blanc'],Vale de Leyda - Chile,N/D
+VINI-000451,Cloudy Bay Sauvignon Blanc 2016,Cloudy Bay,2016,0.15,0.08,0.8,0.06,0.72,4.1,2.83,1.0,3.03,labels/VINI-000451.jpg,['Sauvignon Blanc'],Marlborough - Nova Zelândia,N/D
+VINI-000454,Louis Latour Chardonnay 2013,Louis Latour,2013,0.61,0.07,0.72,0.2,0.73,2.94,3.9,1.7,3.14,labels/VINI-000454.jpg,['Chardonnay'],Bourgogne - França,N/D
+VINI-000461,Catena Zapata Malbec 2020,Catena Zapata,2020,0.93,0.89,0.6,0.07,0.77,1.94,3.2,4.55,2.85,labels/VINI-000461.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000484,Beringer Cabernet Sauvignon 2023,Beringer,2023,0.81,0.78,0.58,0.13,0.78,2.12,3.77,3.98,2.92,labels/VINI-000484.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000486,Viña Leyda Sauvignon Blanc 2011,Viña Leyda,2011,0.19,0.14,0.88,0.06,0.53,4.26,3.08,1.0,2.53,labels/VINI-000486.jpg,['Sauvignon Blanc'],Vale de Leyda - Chile,N/D
+VINI-000489,Pizzato Merlot 2023,Pizzato,2023,0.64,0.72,0.65,0.05,0.71,2.67,4.35,3.4,2.77,labels/VINI-000489.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000490,Marqués de Riscal Tempranillo 2020,Marqués de Riscal,2020,0.62,0.58,0.59,0.2,0.71,2.53,4.75,3.0,2.9,labels/VINI-000490.jpg,['Tempranillo'],Rioja - Espanha,N/D
+VINI-000496,Pizzato Merlot 2020,Pizzato,2020,0.63,0.64,0.64,0.18,0.75,2.66,4.58,3.17,3.03,labels/VINI-000496.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000498,Luigi Bosca Malbec 2018,Luigi Bosca,2018,0.83,0.81,0.46,0.13,0.87,1.72,3.65,4.1,2.92,labels/VINI-000498.jpg,['Malbec'],Luján de Cuyo - Argentina,N/D
+VINI-000503,Casa Valduga Chardonnay 2014,Casa Valduga,2014,0.53,0.1,0.71,0.15,0.76,3.07,3.83,1.57,3.11,labels/VINI-000503.jpg,['Chardonnay'],Vale dos Vinhedos - Brasil,N/D
+VINI-000509,Pizzato Merlot 2011,Pizzato,2011,0.44,0.59,0.59,0.15,0.68,2.89,4.38,2.58,2.77,labels/VINI-000509.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000511,Louis Latour Chardonnay 2012,Louis Latour,2012,0.52,0.09,0.64,0.11,0.73,2.88,3.77,1.52,2.88,labels/VINI-000511.jpg,['Chardonnay'],Bourgogne - França,N/D
+VINI-000512,Beringer Cabernet Sauvignon 2011,Beringer,2011,0.88,0.8,0.48,0.18,0.81,1.68,3.55,4.2,2.91,labels/VINI-000512.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000542,Prunotto Nebbiolo 2020,Prunotto,2020,0.76,0.87,0.89,0.08,0.86,3.15,3.67,4.07,3.21,labels/VINI-000542.jpg,['Nebbiolo'],Piemonte - Itália,N/D
+VINI-000557,Cloudy Bay Sauvignon Blanc 2022,Cloudy Bay,2022,0.35,0.07,0.83,0.07,0.64,3.79,3.3,1.05,2.84,labels/VINI-000557.jpg,['Sauvignon Blanc'],Marlborough - Nova Zelândia,N/D
+VINI-000583,Viña Leyda Sauvignon Blanc 2024,Viña Leyda,2024,0.24,0.08,0.82,0.04,0.59,3.98,3.05,1.0,2.71,labels/VINI-000583.jpg,['Sauvignon Blanc'],Vale de Leyda - Chile,N/D
+VINI-000608,Santa Rita Carmenere 2010,Santa Rita,2010,0.63,0.59,0.53,0.07,0.8,2.33,4.7,3.05,2.8,labels/VINI-000608.jpg,['Carmenere'],Vale do Maipo - Chile,N/D
+VINI-000613,Pizzato Merlot 2012,Pizzato,2012,0.63,0.57,0.63,0.16,0.63,2.63,4.75,3.0,2.74,labels/VINI-000613.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000616,"Esporão Aragonez, Trincadeira 2017",Esporão,2017,0.66,0.64,0.6,0.13,0.7,2.48,4.5,3.25,2.79,labels/VINI-000616.jpg,"['Aragonez', 'Trincadeira']",Alentejo - Portugal,N/D
+VINI-000623,Joseph Drouhin Pinot Noir 2024,Joseph Drouhin,2024,0.38,0.34,0.72,0.01,0.64,3.4,4.05,1.8,2.67,labels/VINI-000623.jpg,['Pinot Noir'],Bourgogne - França,N/D
+VINI-000643,Louis Latour Chardonnay 2024,Louis Latour,2024,0.55,0.03,0.77,0.19,0.72,3.21,3.7,1.45,3.18,labels/VINI-000643.jpg,['Chardonnay'],Bourgogne - França,N/D
+VINI-000662,Casa Valduga Chardonnay 2019,Casa Valduga,2019,0.65,0.06,0.7,0.18,0.72,2.8,3.77,1.77,3.06,labels/VINI-000662.jpg,['Chardonnay'],Vale dos Vinhedos - Brasil,N/D
+VINI-000680,Joseph Drouhin Pinot Noir 2016,Joseph Drouhin,2016,0.41,0.24,0.75,0.08,0.67,3.43,3.88,1.62,2.88,labels/VINI-000680.jpg,['Pinot Noir'],Bourgogne - França,N/D
+VINI-000681,Casa Valduga Chardonnay 2018,Casa Valduga,2018,0.54,0.21,0.71,0.21,0.67,3.05,4.12,1.88,3.02,labels/VINI-000681.jpg,['Chardonnay'],Vale dos Vinhedos - Brasil,N/D
+VINI-000690,Graham's Touriga Nacional 2022,Graham's,2022,0.9,0.51,0.4,0.84,0.92,1.4,4.22,3.53,4.0,labels/VINI-000690.jpg,['Touriga Nacional'],Douro - Portugal,N/D
+VINI-000708,Marqués de Riscal Tempranillo 2016,Marqués de Riscal,2016,0.63,0.65,0.64,0.06,0.66,2.66,4.55,3.2,2.67,labels/VINI-000708.jpg,['Tempranillo'],Rioja - Espanha,N/D
+VINI-000726,Joseph Drouhin Pinot Noir 2012,Joseph Drouhin,2012,0.4,0.27,0.79,0.1,0.62,3.57,3.93,1.68,2.88,labels/VINI-000726.jpg,['Pinot Noir'],Bourgogne - França,N/D
+VINI-000733,Santa Rita Carmenere 2019,Santa Rita,2019,0.71,0.53,0.59,0.23,0.76,2.35,4.65,3.1,3.05,labels/VINI-000733.jpg,['Carmenere'],Vale do Maipo - Chile,N/D
+VINI-000758,Antinori Sangiovese 2022,Antinori,2022,0.64,0.56,0.68,0.1,0.74,2.76,4.75,3.0,2.95,labels/VINI-000758.jpg,['Sangiovese'],Toscana - Itália,N/D
+VINI-000795,Pizzato Merlot 2015,Pizzato,2015,0.63,0.57,0.61,0.1,0.75,2.57,4.75,3.0,2.87,labels/VINI-000795.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000814,Louis Latour Chardonnay 2018,Louis Latour,2018,0.5,0.06,0.68,0.11,0.77,3.04,3.65,1.4,3.03,labels/VINI-000814.jpg,['Chardonnay'],Bourgogne - França,N/D
+VINI-000830,M. Chapoutier Syrah 2020,M. Chapoutier,2020,0.84,0.8,0.51,0.06,0.74,1.85,3.65,4.1,2.64,labels/VINI-000830.jpg,['Syrah'],Rhône - França,N/D
+VINI-000833,Casa Valduga Chardonnay 2011,Casa Valduga,2011,0.54,0.03,0.77,0.18,0.7,3.23,3.68,1.43,3.12,labels/VINI-000833.jpg,['Chardonnay'],Vale dos Vinhedos - Brasil,N/D
+VINI-000860,Viña Leyda Sauvignon Blanc 2012,Viña Leyda,2012,0.16,0.03,0.73,0.07,0.62,3.87,2.73,1.0,2.74,labels/VINI-000860.jpg,['Sauvignon Blanc'],Vale de Leyda - Chile,N/D
+VINI-000868,Luigi Bosca Malbec 2013,Luigi Bosca,2013,0.91,0.78,0.46,0.09,0.82,1.56,3.52,4.22,2.77,labels/VINI-000868.jpg,['Malbec'],Luján de Cuyo - Argentina,N/D
+VINI-000916,Casa Valduga Chardonnay 2013,Casa Valduga,2013,0.49,0.07,0.73,0.06,0.74,3.21,3.65,1.4,2.96,labels/VINI-000916.jpg,['Chardonnay'],Vale dos Vinhedos - Brasil,N/D
+VINI-000963,Miolo Tannat 2013,Miolo,2013,0.88,0.93,0.55,0.18,0.8,1.89,3.23,4.53,3.0,labels/VINI-000963.jpg,['Tannat'],Campanha Gaúcha - Brasil,N/D
+VINI-000983,Cloudy Bay Sauvignon Blanc 2018,Cloudy Bay,2018,0.17,0.02,0.83,0.06,0.56,4.15,2.73,1.0,2.67,labels/VINI-000983.jpg,['Sauvignon Blanc'],Marlborough - Nova Zelândia,N/D
+VINI-000994,Prunotto Nebbiolo 2023,Prunotto,2023,0.56,0.9,0.86,0.03,0.83,3.46,3.9,3.65,3.12,labels/VINI-000994.jpg,['Nebbiolo'],Piemonte - Itália,N/D
+VINI-001034,Pizzato Merlot 2017,Pizzato,2017,0.77,0.6,0.53,0.01,0.71,2.05,4.33,3.43,2.53,labels/VINI-001034.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-001058,Luigi Bosca Malbec 2019,Luigi Bosca,2019,0.84,0.8,0.5,0.09,0.78,1.82,3.65,4.1,2.75,labels/VINI-001058.jpg,['Malbec'],Luján de Cuyo - Argentina,N/D
+VINI-001065,"Esporão Aragonez, Trincadeira 2016",Esporão,2016,0.64,0.58,0.62,0.06,0.64,2.58,4.7,3.05,2.6,labels/VINI-001065.jpg,"['Aragonez', 'Trincadeira']",Alentejo - Portugal,N/D
+VINI-001599,Pizzato Merlot 2013,Pizzato,2013,0.58,0.63,0.6,0.15,0.64,2.64,4.62,3.02,2.7,labels/VINI-001599.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-002148,Miolo Tannat 2023,Miolo,2023,0.86,0.84,0.47,0.12,0.78,1.69,3.5,4.25,2.75,labels/VINI-002148.jpg,['Tannat'],Campanha Gaúcha - Brasil,N/D
+VINI-002383,Cloudy Bay Sauvignon Blanc 2017,Cloudy Bay,2017,0.28,0.13,0.8,0.12,0.59,3.84,3.28,1.03,2.86,labels/VINI-002383.jpg,['Sauvignon Blanc'],Marlborough - Nova Zelândia,N/D
+VINI-000271,Dr. Loosen Blue Slate Riesling Kabinett,Weingut Dr. Loosen,2022,0.4,0.05,0.85,0.35,0.45,4.5,4.8,1.5,3.0,labels/VINI-000271.jpg,['Riesling'],Mosel - Alemanha,N/D
+VINI-000272,Trimbach Riesling,F.E. Trimbach,2021,0.5,0.05,0.8,0.1,0.6,4.0,4.9,2.0,2.5,labels/VINI-000272.jpg,['Riesling'],Alsace - França,N/D
+VINI-000273,Penfolds Bin 51 Eden Valley Riesling,Penfolds,2022,0.45,0.05,0.9,0.1,0.55,4.2,4.5,1.8,3.2,labels/VINI-000273.jpg,['Riesling'],Eden Valley - Austrália,N/D
+VINI-000274,Zind-Humbrecht Riesling Turckheim,Domaine Zind-Humbrecht,2020,0.65,0.05,0.75,0.15,0.7,3.8,4.2,3.5,4.0,labels/VINI-000274.jpg,['Riesling'],Alsace - França,N/D
+VINI-000275,Rutini Trumpeter Riesling,Bodega Rutini Wines,2023,0.4,0.05,0.7,0.2,0.55,3.8,3.5,1.7,2.8,labels/VINI-000275.jpg,['Riesling'],Mendoza - Argentina,N/D
+VINI-000276,Dr. Loosen Wehlener Sonnenuhr Riesling Spätlese,Weingut Dr. Loosen,2022,0.55,0.05,0.88,0.6,0.4,4.5,4.7,2.5,3.5,labels/VINI-000276.jpg,['Riesling'],Mosel - Alemanha,N/D
+VINI-000277,Hugel Riesling Classic,Famille Hugel,2021,0.5,0.05,0.78,0.1,0.6,4.0,4.8,2.0,2.5,labels/VINI-000277.jpg,['Riesling'],Alsace - França,N/D
+VINI-000278,Hugel Gewürztraminer Classic,Famille Hugel,2021,0.7,0.05,0.4,0.35,0.75,3.0,4.0,3.8,4.5,labels/VINI-000278.jpg,['Gewürztraminer'],Alsace - França,N/D
+VINI-000279,Trimbach Gewürztraminer,F.E. Trimbach,2020,0.68,0.05,0.45,0.25,0.78,2.8,4.2,4.0,4.3,labels/VINI-000279.jpg,['Gewürztraminer'],Alsace - França,N/D
+VINI-000280,Weinert Gewürztraminer,Bodega Weinert,2022,0.6,0.05,0.48,0.3,0.7,3.2,3.5,3.5,4.0,labels/VINI-000280.jpg,['Gewürztraminer'],Mendoza - Argentina,N/D
+VINI-000281,Marqués de Casa Concha Gewürztraminer,Concha y Toro,2023,0.65,0.05,0.4,0.35,0.7,3.0,3.8,3.7,4.2,labels/VINI-000281.jpg,['Gewürztraminer'],Limarí/Casablanca - Chile,N/D
+VINI-000282,Crios Torrontés,Susana Balbo Wines,2023,0.5,0.05,0.7,0.1,0.6,4.0,4.0,2.0,4.5,labels/VINI-000282.jpg,['Torrontés'],Salta - Argentina,N/D
+VINI-000283,Alamos Torrontés,Bodega Catena Zapata,2022,0.48,0.05,0.72,0.1,0.6,4.0,3.8,1.9,4.2,labels/VINI-000283.jpg,['Torrontés'],Salta - Argentina,N/D
+VINI-000284,Finca Las Nereidas Torrontés,Finca Las Nereidas,2023,0.5,0.05,0.75,0.1,0.62,4.2,4.0,2.0,4.3,labels/VINI-000284.jpg,['Torrontés'],Salta - Argentina,N/D
+VINI-000285,Colomé Estate Torrontés,Bodega Colomé,2022,0.55,0.05,0.78,0.1,0.65,4.3,4.2,2.2,4.6,labels/VINI-000285.jpg,['Torrontés'],Salta - Argentina,N/D
+VINI-000286,Ribolla Gialla,Radikon,2018,0.85,0.7,0.7,0.05,0.78,1.5,3.8,4.5,4.2,labels/VINI-000286.jpg,['Ribolla Gialla'],Friuli Venezia Giulia - Itália,N/D
+VINI-000287,Ribolla Gialla Anfora,Josko Gravner,2014,0.9,0.8,0.65,0.05,0.8,1.2,4.0,4.8,4.5,labels/VINI-000287.jpg,['Ribolla Gialla'],Friuli Venezia Giulia - Itália,N/D
+VINI-000288,Pithos Bianco,COS,2021,0.75,0.6,0.75,0.05,0.75,2.0,3.5,4.0,4.0,labels/VINI-000288.jpg,['Grecanico'],Sicilia - Itália,N/D
+VINI-000289,Fontanasanta Nosiola,Elisabetta Foradori,2020,0.8,0.65,0.78,0.05,0.76,1.8,3.7,4.2,4.1,labels/VINI-000289.jpg,['Nosiola'],Trentino - Itália,N/D
+VINI-000290,Himmel auf Erden Maischevergoren,Christian Tschida,2021,0.7,0.55,0.8,0.05,0.72,2.2,3.3,4.0,4.5,labels/VINI-000290.jpg,"['Scheurebe', 'Weissburgunder', 'Chardonnay']",Burgenland - Áustria,N/D
+VINI-000291,Ribolla Gialla,Movia,2019,0.83,0.68,0.72,0.05,0.77,1.6,3.9,4.4,4.0,labels/VINI-000291.jpg,['Ribolla Gialla'],Goriška Brda - Eslovênia,N/D
+VINI-000292,Ribolla Gialla,Dario Prinčič,2018,0.88,0.75,0.68,0.05,0.79,1.3,3.7,4.7,4.3,labels/VINI-000292.jpg,['Ribolla Gialla'],Friuli Venezia Giulia - Itália,N/D
+VINI-000293,Munjebel Bianco MC,Frank Cornelissen,2021,0.78,0.62,0.7,0.05,0.76,1.9,3.4,4.1,4.6,labels/VINI-000293.jpg,"['Grecanico', 'Carricante']",Sicilia - Itália,N/D
+VINI-000294,VN (Vinyater),Partida Creus,2021,0.72,0.58,0.82,0.05,0.73,2.3,3.2,3.9,4.4,labels/VINI-000294.jpg,['Vinyater'],Catalunha - Espanha,N/D
+VINI-000295,Indocilis Malvasia,Podere Pradarolo,2019,0.82,0.67,0.73,0.05,0.77,1.7,3.6,4.3,4.1,labels/VINI-000295.jpg,['Malvasia di Candia Aromatica'],Emilia-Romagna - Itália,N/D
+VINI-000296,Theodora,Gut Oggau,2021,0.7,0.5,0.8,0.05,0.72,2.5,3.4,3.8,4.3,labels/VINI-000296.jpg,"['Grüner Veltliner', 'Welschriesling']",Burgenland - Áustria,N/D
+VINI-000297,FREILand Orange,Weingut Schmitt,2022,0.75,0.6,0.8,0.05,0.75,2.1,3.5,4.1,4.3,labels/VINI-000297.jpg,"['Pinot Blanc', 'Riesling', 'Sauvignon Blanc']",Rheinhessen - Alemanha,N/D
+VINI-000298,Orange Riesling,Weingut Brand,2021,0.73,0.59,0.85,0.05,0.74,2.0,3.6,4.0,4.4,labels/VINI-000298.jpg,['Riesling'],Pfalz - Alemanha,N/D
+VINI-000299,Rivesaltes Ambré Cuvée Estrelles,Domaine Ferrer-Ribière,NV,0.9,0.4,0.65,0.85,0.9,1.0,4.5,4.8,3.0,labels/VINI-000299.jpg,"['Grenache Blanc', 'Grenache Gris']",Roussillon - França,N/D
+VINI-000300,Marsala Superiore Riserva 'Vigna La Miccia',Marco de Bartoli,1987,0.95,0.5,0.7,0.7,0.95,1.0,4.7,5.0,3.2,labels/VINI-000300.jpg,['Grillo'],Sicilia - Itália,N/D
+VINI-000301,Casillero del Diablo Carménère,Concha y Toro,Ano,0.65,0.6,0.5,0.08,0.75,2.0,3.5,3.8,2.5,labels/VINI-000301.jpg,['Carménère'],Valle Central - Chile,N/D
+VINI-000302,Santa Rita 120 Carménère,Santa Rita,Ano,0.6,0.55,0.52,0.07,0.73,2.2,3.7,3.5,2.4,labels/VINI-000302.jpg,['Carménère'],Valle Central - Chile,N/D
+VINI-000303,Montes Alpha Carménère,Montes,Ano,0.75,0.7,0.55,0.05,0.8,1.8,4.0,4.5,3.0,labels/VINI-000303.jpg,['Carménère'],Valle de Colchagua - Chile,N/D
+VINI-000304,Cono Sur Bicicleta Carménère,Cono Sur,Ano,0.62,0.58,0.5,0.08,0.74,2.1,3.6,3.7,2.6,labels/VINI-000304.jpg,['Carménère'],Valle Central - Chile,N/D
+VINI-000305,Cousiño Macul Don Luis Carménère,Cousiño Macul,Ano,0.68,0.63,0.53,0.06,0.76,1.9,3.8,4.0,2.8,labels/VINI-000305.jpg,['Carménère'],Valle del Maipo - Chile,N/D
+VINI-000306,Casillero del Diablo Cabernet Sauvignon,Concha y Toro,Ano,0.7,0.7,0.55,0.05,0.78,1.5,3.8,4.2,2.8,labels/VINI-000306.jpg,['Cabernet Sauvignon'],Valle Central - Chile,N/D
+VINI-000307,Santa Rita 120 Cabernet Sauvignon,Santa Rita,Ano,0.68,0.65,0.57,0.04,0.77,1.6,3.9,4.1,2.7,labels/VINI-000307.jpg,['Cabernet Sauvignon'],Valle Central - Chile,N/D
+VINI-000308,Montes Alpha Cabernet Sauvignon,Montes,Ano,0.85,0.8,0.6,0.03,0.85,1.2,4.2,4.8,3.2,labels/VINI-000308.jpg,['Cabernet Sauvignon'],Valle de Colchagua - Chile,N/D
+VINI-000309,Viña Tarapacá Gran Reserva Cabernet Sauvignon,Viña Tarapacá,Ano,0.78,0.75,0.58,0.04,0.82,1.4,4.1,4.5,2.9,labels/VINI-000309.jpg,['Cabernet Sauvignon'],Valle del Maipo - Chile,N/D
+VINI-000310,Ventisquero Reserva Cabernet Sauvignon,Ventisquero,Ano,0.72,0.71,0.56,0.05,0.79,1.5,3.9,4.3,2.8,labels/VINI-000310.jpg,['Cabernet Sauvignon'],Valle del Maipo - Chile,N/D
+VINI-000311,Alamos Malbec,Catena Zapata,Ano,0.75,0.68,0.5,0.1,0.8,2.0,4.0,4.5,3.5,labels/VINI-000311.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000312,Trapiche Pure Malbec,Trapiche,Ano,0.7,0.62,0.52,0.12,0.77,2.3,3.8,4.2,3.6,labels/VINI-000312.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000313,Salentein Portillo Malbec,Bodegas Salentein,Ano,0.68,0.6,0.55,0.1,0.76,2.1,3.9,4.0,3.4,labels/VINI-000313.jpg,['Malbec'],"Valle de Uco, Mendoza - Argentina",N/D
+VINI-000314,Terrazas de los Andes Malbec,Terrazas de los Andes,Ano,0.78,0.7,0.53,0.08,0.82,1.9,4.1,4.6,3.6,labels/VINI-000314.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000315,Rutini Trumpeter Malbec,Rutini Wines,Ano,0.72,0.65,0.51,0.09,0.79,2.0,3.9,4.3,3.5,labels/VINI-000315.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000316,Alamos Cabernet Sauvignon,Catena Zapata,Ano,0.78,0.75,0.58,0.04,0.83,1.4,4.0,4.6,3.0,labels/VINI-000316.jpg,['Cabernet Sauvignon'],Mendoza - Argentina,N/D
+VINI-000317,Salentein Portillo Cabernet Sauvignon,Bodegas Salentein,Ano,0.7,0.68,0.57,0.05,0.79,1.6,3.8,4.2,2.9,labels/VINI-000317.jpg,['Cabernet Sauvignon'],"Valle de Uco, Mendoza - Argentina",N/D
+VINI-000318,Santa Julia Cabernet Sauvignon,Familia Zuccardi,Ano,0.72,0.7,0.59,0.04,0.8,1.5,3.9,4.3,3.0,labels/VINI-000318.jpg,['Cabernet Sauvignon'],Mendoza - Argentina,N/D
+VINI-000319,Trivento Reserve Cabernet Sauvignon,Trivento,Ano,0.76,0.73,0.56,0.05,0.81,1.4,4.0,4.4,3.1,labels/VINI-000319.jpg,['Cabernet Sauvignon'],Mendoza - Argentina,N/D
+VINI-000320,Finca Las Moras Dada N°3 Cabernet Sauvignon,Finca Las Moras,Ano,0.7,0.67,0.54,0.06,0.78,1.7,3.7,4.1,3.2,labels/VINI-000320.jpg,['Cabernet Sauvignon'],San Juan - Argentina,N/D
+VINI-000321,Dr. L Riesling,Dr. Loosen,2022,0.4,0.0,0.85,0.35,0.5,4.5,4.0,2.0,3.5,labels/VINI-000321.jpg,['Riesling'],Mosel - Alemanha,N/D
+VINI-000322,Riesling,F.E. Trimbach,2021,0.55,0.0,0.9,0.15,0.65,3.5,4.8,2.5,3.0,labels/VINI-000322.jpg,['Riesling'],Alsace - França,N/D
+VINI-000323,Kiedrich Gräfenberg Riesling Trocken GG,Weingut Robert Weil,2020,0.65,0.0,0.95,0.1,0.7,2.0,5.0,3.5,2.8,labels/VINI-000323.jpg,['Riesling'],Rheingau - Alemanha,N/D
+VINI-000324,Portrait Riesling,Peter Lehmann Wines,2022,0.5,0.0,0.88,0.18,0.68,3.8,4.2,2.2,3.2,labels/VINI-000324.jpg,['Riesling'],Eden Valley - Austrália,N/D
+VINI-000325,Scharzhofberger Riesling Kabinett,Weingut Egon Müller-Scharzhof,2021,0.4,0.0,0.9,0.6,0.45,5.0,4.5,1.8,4.0,labels/VINI-000325.jpg,['Riesling'],Mosel - Alemanha,N/D
+VINI-000326,Bin 51 Eden Valley Riesling,Penfolds,2022,0.6,0.0,0.92,0.1,0.7,3.0,4.8,3.0,2.5,labels/VINI-000326.jpg,['Riesling'],Eden Valley - Austrália,N/D
+VINI-000327,Classic Gewürztraminer,Hugel & Fils,2021,0.75,0.0,0.5,0.25,0.78,2.0,4.0,4.5,5.0,labels/VINI-000327.jpg,['Gewürztraminer'],Alsace - França,N/D
+VINI-000328,Gewürztraminer,Dopff au Moulin,2022,0.7,0.0,0.48,0.3,0.75,2.5,3.5,4.2,4.8,labels/VINI-000328.jpg,['Gewürztraminer'],Alsace - França,N/D
+VINI-000329,Gewürztraminer,Elena Walch,2022,0.68,0.0,0.55,0.2,0.76,2.8,4.2,4.0,4.5,labels/VINI-000329.jpg,['Gewürztraminer'],Alto Adige - Itália,N/D
+VINI-000330,Gewürztraminer Herrenweg de Turkheim,Domaine Zind-Humbrecht,2019,0.85,0.0,0.5,0.4,0.85,1.5,4.0,5.0,4.8,labels/VINI-000330.jpg,['Gewürztraminer'],Alsace - França,N/D
+VINI-000331,Reservado Gewürztraminer,Concha y Toro,2022,0.6,0.0,0.45,0.35,0.7,3.0,3.0,3.8,4.0,labels/VINI-000331.jpg,['Gewürztraminer'],Central Valley - Chile,N/D
+VINI-000332,Finca La Linda Torrontés,Luigi Bosca,2023,0.55,0.0,0.8,0.15,0.68,4.0,4.2,2.8,4.5,labels/VINI-000332.jpg,['Torrontés'],Salta - Argentina,N/D
+VINI-000334,Estate Torrontés,Bodega Colomé,2022,0.65,0.0,0.85,0.1,0.72,3.5,4.8,3.5,4.5,labels/VINI-000334.jpg,['Torrontés'],Salta - Argentina,N/D
+VINI-000335,Alamos Torrontés,Bodega Catena Zapata,2023,0.5,0.0,0.78,0.18,0.65,4.2,3.8,2.5,4.0,labels/VINI-000335.jpg,['Torrontés'],Salta - Argentina,N/D
+VINI-000335,Ribolla Gialla Anfora,Gravner,2014,0.9,0.8,0.7,0.1,0.75,1.5,3.5,4.8,4.5,labels/VINI-000335.jpg,['Ribolla Gialla'],Friuli-Venezia Giulia - Itália,N/D
+VINI-000336,Oslavje,Radikon,2013,0.8,0.7,0.8,0.1,0.7,1.8,3.0,4.5,4.2,labels/VINI-000336.jpg,"['Chardonnay', 'Sauvignon Blanc', 'Pinot Grigio']",Friuli-Venezia Giulia - Itália,N/D
+VINI-000337,Pithos Bianco,COS,2019,0.7,0.6,0.75,0.1,0.65,2.0,3.2,4.0,3.8,labels/VINI-000337.jpg,"['Grecanico', 'Inzolia', 'Albanello']",Sicília - Itália,N/D
+VINI-000338,Fontanasanta Nosiola,Foradori,2020,0.75,0.65,0.8,0.1,0.7,2.2,3.8,4.2,3.5,labels/VINI-000338.jpg,['Nosiola'],Trentino - Itália,N/D
+VINI-000339,Munjebel Bianco,Frank Cornelissen,2018,0.85,0.7,0.85,0.1,0.78,1.2,2.5,4.7,4.8,labels/VINI-000339.jpg,"['Grecanico Dorato', 'Carricante', 'Minnella', 'Coda di Volpe']",Sicília - Itália,N/D
+VINI-000340,Le Vendangeur Masqué Blanc,Domaine Jean-Yves Peron,2017,0.7,0.6,0.7,0.1,0.68,2.0,2.8,4.0,4.3,labels/VINI-000340.jpg,"['Jacquère', 'Altesse']",Savoie - França,N/D
+VINI-000341,Graue Freyheit,Weingut Heinrich,2019,0.65,0.55,0.7,0.1,0.65,2.5,3.0,3.8,4.0,labels/VINI-000341.jpg,['Pinot Gris'],Burgenland - Áustria,N/D
+VINI-000342,Vitovska,Cotar,2016,0.8,0.75,0.7,0.1,0.7,1.8,3.2,4.6,4.0,labels/VINI-000342.jpg,['Vitovska'],Carso - Eslovênia,N/D
+VINI-000343,Ageno,La Stoppa,2017,0.8,0.7,0.65,0.1,0.72,1.7,3.0,4.5,4.2,labels/VINI-000343.jpg,"['Malvasia di Candia Aromatica', 'Ortrugo', 'Trebbiano']",Emilia-Romagna - Itália,N/D
+VINI-000344,Arboreus Grechetto,Paolo Bea,2015,0.85,0.75,0.75,0.1,0.77,1.5,3.5,4.7,4.5,labels/VINI-000344.jpg,['Grechetto'],Umbria - Itália,N/D
+VINI-000345,Gaia Fiano,Cantina Giardino,2016,0.75,0.65,0.8,0.1,0.7,2.0,3.0,4.3,4.1,labels/VINI-000345.jpg,['Fiano'],Campania - Itália,N/D
+VINI-000346,Le Miracle Maury,Domaine des Enfants,NV,0.9,0.8,0.5,0.9,0.95,1.0,4.0,5.0,3.5,labels/VINI-000346.jpg,['Grenache Noir'],Roussillon - França,N/D
+VINI-000347,Maury Vintage Rouge,Mas Amiel,2016,0.95,0.85,0.55,0.9,0.98,1.0,4.2,5.0,3.8,labels/VINI-000347.jpg,['Grenache Noir'],Roussillon - França,N/D
+VINI-000348,La Bota de Palo Cortado No. 104 Flor Power,Equipo Navazos,NV,0.8,0.3,0.6,0.1,0.9,1.8,4.8,4.5,3.0,labels/VINI-000348.jpg,['Palomino Fino'],Jerez - Espanha,N/D
+VINI-000349,Sercial 10 Year Old,Barbeito,NV,0.75,0.2,0.9,0.2,0.92,1.5,4.7,4.2,3.2,labels/VINI-000349.jpg,['Sercial'],Madeira - Portugal,N/D
+VINI-000350,Casillero del Diablo Cabernet Sauvignon,Concha y Toro,2021,0.7,0.65,0.5,0.05,0.75,1.8,4.0,4.2,3.8,labels/VINI-000350.jpg,['Cabernet Sauvignon'],Valle Central - Chile,N/D
+VINI-000351,120 Cabernet Sauvignon,Santa Rita,2021,0.68,0.6,0.52,0.05,0.73,1.9,3.9,4.0,3.7,labels/VINI-000351.jpg,['Cabernet Sauvignon'],Valle Central - Chile,N/D
+VINI-000352,Alpha Carménère,Montes,2020,0.78,0.72,0.55,0.08,0.8,1.7,4.5,4.6,4.3,labels/VINI-000352.jpg,['Carménère'],Valle de Colchagua - Chile,N/D
+VINI-000353,Casa Carménère,Lapostolle,2021,0.75,0.7,0.53,0.07,0.78,1.8,4.3,4.4,4.1,labels/VINI-000353.jpg,['Carménère'],Valle de Colchagua - Chile,N/D
+VINI-000354,Estate Series Carménère,Errazuriz,2021,0.73,0.68,0.54,0.06,0.77,1.9,4.2,4.3,4.0,labels/VINI-000354.jpg,['Carménère'],Valle de Aconcagua - Chile,N/D
+VINI-000355,Antiguas Reservas Cabernet Sauvignon,Cousiño Macul,2020,0.78,0.75,0.58,0.05,0.79,1.6,4.6,4.7,4.2,labels/VINI-000355.jpg,['Cabernet Sauvignon'],Valle del Maipo - Chile,N/D
+VINI-000356,Reserva Carménère,Veramonte,2021,0.72,0.67,0.53,0.06,0.76,2.0,4.1,4.2,3.9,labels/VINI-000356.jpg,['Carménère'],Valle de Colchagua - Chile,N/D
+VINI-000357,Aliwen Reserva Cabernet Sauvignon,Undurraga,2021,0.7,0.65,0.5,0.05,0.74,1.9,3.9,4.1,3.7,labels/VINI-000357.jpg,['Cabernet Sauvignon'],Valle Central - Chile,N/D
+VINI-000358,Reserva Cabernet Sauvignon,Santa Carolina,2021,0.69,0.63,0.51,0.05,0.74,2.0,3.8,4.0,3.6,labels/VINI-000358.jpg,['Cabernet Sauvignon'],Valle Central - Chile,N/D
+VINI-000359,Gran Reserva Carménère,Terranoble,2020,0.77,0.7,0.56,0.07,0.79,1.7,4.4,4.5,4.2,labels/VINI-000359.jpg,['Carménère'],Valle de Colchagua - Chile,N/D
+VINI-000360,Malbec,Catena Zapata,2021,0.85,0.7,0.55,0.08,0.85,1.5,4.8,4.9,4.5,labels/VINI-000360.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000361,Malbec,Alamos (Catena),2021,0.75,0.6,0.5,0.07,0.8,2.0,4.3,4.5,4.0,labels/VINI-000361.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000362,Malbec,Luigi Bosca,2021,0.8,0.65,0.52,0.06,0.83,1.7,4.6,4.7,4.3,labels/VINI-000362.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000363,Pure Malbec,Trapiche,2022,0.7,0.55,0.55,0.05,0.78,2.2,4.0,4.1,3.8,labels/VINI-000363.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000364,Lo Tengo Malbec,Bodega Norton,2022,0.65,0.5,0.53,0.05,0.75,2.5,3.8,3.9,3.5,labels/VINI-000364.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000365,Trumpeter Malbec,Rutini Wines,2021,0.78,0.63,0.54,0.07,0.82,1.8,4.5,4.6,4.2,labels/VINI-000365.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000366,Killka Malbec,Salentein,2021,0.77,0.62,0.53,0.06,0.81,1.9,4.4,4.5,4.1,labels/VINI-000366.jpg,['Malbec'],"Valle de Uco, Mendoza - Argentina",N/D
+VINI-000367,Malbec,Santa Julia (Zuccardi),2022,0.7,0.58,0.51,0.05,0.76,2.1,4.0,4.1,3.7,labels/VINI-000367.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000368,Estate Malbec,Doña Paula,2021,0.79,0.64,0.54,0.07,0.82,1.8,4.6,4.7,4.3,labels/VINI-000368.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000369,Malbec Reserva,Pascual Toso,2021,0.76,0.61,0.52,0.06,0.8,1.9,4.3,4.4,4.0,labels/VINI-000369.jpg,['Malbec'],Mendoza - Argentina,N/D
+VINI-000370,Sauvignon Blanc,Cloudy Bay,2022,0.45,0.05,0.85,0.1,0.65,3.0,4.5,2.0,3.5,labels/VINI-000370.jpg,['Sauvignon Blanc'],Marlborough - Nova Zelândia,N/D
+VINI-000371,Sancerre,Domaine Vacheron,2021,0.4,0.08,0.9,0.05,0.6,4.0,5.0,2.5,3.0,labels/VINI-000371.jpg,['Sauvignon Blanc'],Loire - França,N/D
+VINI-000372,Pouilly-Fumé Silex,Didier Dagueneau,2020,0.6,0.1,0.95,0.05,0.7,2.5,4.8,4.5,4.8,labels/VINI-000372.jpg,['Sauvignon Blanc'],Loire - França,N/D
+VINI-000373,Vouvray Sec Le Haut-Lieu,Domaine Huet,2021,0.55,0.08,0.9,0.05,0.65,4.0,5.0,3.5,3.0,labels/VINI-000373.jpg,['Chenin Blanc'],Loire - França,N/D
+VINI-000374,Old Vine Chenin Blanc,Ken Forrester,2022,0.65,0.12,0.8,0.1,0.7,2.0,4.0,4.5,4.0,labels/VINI-000374.jpg,['Chenin Blanc'],Stellenbosch - África do Sul,N/D
+VINI-000375,Muros Antigos Escolha Alvarinho,Anselmo Mendes,2022,0.5,0.07,0.88,0.08,0.65,4.0,4.5,2.5,3.0,labels/VINI-000375.jpg,['Alvarinho'],Vinho Verde - Portugal,N/D
+VINI-000376,Albariño,Mar de Frades,2022,0.5,0.06,0.85,0.08,0.65,3.5,4.0,2.8,3.2,labels/VINI-000376.jpg,['Albariño'],Rías Baixas - Espanha,N/D
+VINI-000377,Terrers Brut Nature Gran Reserva,Recaredo,NV,0.6,0.1,0.95,0.02,0.68,2.5,5.0,4.5,4.8,labels/VINI-000377.jpg,"['Xarel·lo', 'Macabeo', 'Parellada']",Penedès - Espanha,N/D
+VINI-000378,III Lustros Brut Nature Gran Reserva,Gramona,NV,0.7,0.12,0.9,0.03,0.72,2.0,4.8,5.0,4.5,labels/VINI-000378.jpg,"['Xarel·lo', 'Macabeo', 'Chardonnay']",Penedès - Espanha,N/D
+VINI-000379,Clásico Brut,Codorníu,NV,0.35,0.05,0.8,0.15,0.6,4.5,3.5,1.8,2.5,labels/VINI-000379.jpg,"['Macabeo', 'Xarel·lo', 'Parellada']",Penedès - Espanha,N/D
+VINI-000380,Crémant de Loire Brut,Langlois-Chateau,NV,0.4,0.05,0.85,0.1,0.62,4.0,4.0,2.0,2.8,labels/VINI-000380.jpg,"['Chenin Blanc', 'Chardonnay', 'Cabernet Franc']",Loire - França,N/D
+VINI-000381,Sauvignon Blanc,Greywacke,2021,0.5,0.07,0.88,0.08,0.68,3.5,4.5,3.0,4.2,labels/VINI-000381.jpg,['Sauvignon Blanc'],Marlborough - Nova Zelândia,N/D
+VINI-000382,Rioja Reserva,Marqués de Riscal,2018,0.7,0.6,0.7,0.1,0.7,2.5,4.8,3.5,2.0,labels/VINI-000382.jpg,"['Tempranillo', 'Graciano', 'Mazuelo']",Rioja - Espanha,N/D
+VINI-000383,Ribera del Duero,Emilio Moro,2019,0.85,0.75,0.6,0.1,0.8,1.5,3.5,4.5,4.0,labels/VINI-000383.jpg,['Tempranillo'],Ribera del Duero - Espanha,N/D
+VINI-000384,Termes,Numanthia,2019,0.9,0.8,0.55,0.1,0.85,1.0,3.0,4.8,4.2,labels/VINI-000384.jpg,['Tempranillo'],Toro - Espanha,N/D
+VINI-000385,Chianti Classico Rancia Riserva,Fèlsina,2017,0.75,0.7,0.85,0.05,0.7,2.0,4.8,3.8,2.5,labels/VINI-000385.jpg,['Sangiovese'],Chianti Classico - Itália,N/D
+VINI-000386,Brunello di Montalcino,Castello Banfi,2016,0.8,0.8,0.8,0.05,0.75,1.8,4.9,4.2,3.0,labels/VINI-000386.jpg,['Sangiovese'],Brunello di Montalcino - Itália,N/D
+VINI-000387,Vino Nobile di Montepulciano,Poliziano,2018,0.7,0.65,0.75,0.05,0.7,2.2,4.5,3.5,2.8,labels/VINI-000387.jpg,['Sangiovese'],Vino Nobile di Montepulciano - Itália,N/D
+VINI-000388,Touriga Nacional,Quinta do Crasto,2019,0.85,0.8,0.7,0.1,0.8,1.5,3.5,4.7,4.0,labels/VINI-000388.jpg,['Touriga Nacional'],Douro - Portugal,N/D
+VINI-000389,Quinta da Pellada Dão Touriga Nacional,Alvaro Castro,2018,0.7,0.65,0.75,0.1,0.7,2.8,4.0,3.5,3.2,labels/VINI-000389.jpg,['Touriga Nacional'],Dão - Portugal,N/D
+VINI-000390,Touriga Nacional,Herdade do Esporão,2019,0.8,0.7,0.65,0.1,0.78,2.0,3.8,4.2,3.8,labels/VINI-000390.jpg,['Touriga Nacional'],Alentejo - Portugal,N/D
+VINI-000391,Sessantanni Primitivo di Manduria DOC,San Marzano,2020,0.95,0.8,0.45,0.2,0.9,1.0,3.0,5.0,4.8,labels/VINI-000391.jpg,['Primitivo'],Primitivo di Manduria - Itália,N/D
+VINI-000392,Primitivo,A Mano,2021,0.8,0.6,0.55,0.15,0.8,1.5,3.2,4.5,4.0,labels/VINI-000392.jpg,['Primitivo'],Puglia - Itália,N/D
+VINI-000393,Torcicoda Primitivo Salento IGT,Tormaresca,2020,0.88,0.75,0.5,0.18,0.85,1.2,3.3,4.8,4.5,labels/VINI-000393.jpg,['Primitivo'],Salento - Itália,N/D
+VINI-000394,Agamenon Merlot,Lidio Carraro,2018,0.7,0.65,0.6,0.05,0.7,2.5,4.0,4.0,3.0,labels/VINI-000394.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000395,Lote 43 Merlot,Miolo Wine Group,2019,0.75,0.7,0.55,0.05,0.75,2.0,4.2,4.5,3.2,labels/VINI-000395.jpg,"['Merlot', 'Cabernet Sauvignon']",Vale dos Vinhedos - Brasil,N/D
+VINI-000396,Leopoldina Merlot,Casa Valduga,2017,0.7,0.6,0.5,0.05,0.68,2.8,3.8,3.9,2.9,labels/VINI-000396.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000397,Fausto Merlot,Pizzato Vinhas e Vinhos,2020,0.72,0.68,0.58,0.05,0.72,2.3,3.9,4.1,3.1,labels/VINI-000397.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000398,Napa Valley Cabernet Sauvignon,Caymus Vineyards,2019,0.9,0.85,0.4,0.1,0.85,1.2,3.5,5.0,4.8,labels/VINI-000398.jpg,['Cabernet Sauvignon'],Napa Valley - Estados Unidos,N/D
+VINI-000399,Napa Valley Cabernet Sauvignon,Robert Mondavi Winery,2018,0.85,0.8,0.45,0.08,0.8,1.5,4.5,4.7,4.0,labels/VINI-000399.jpg,['Cabernet Sauvignon'],Napa Valley - Estados Unidos,N/D
+VINI-000400,Artemis Cabernet Sauvignon,Stag's Leap Wine Cellars,2019,0.8,0.75,0.5,0.05,0.78,2.0,4.8,4.5,3.5,labels/VINI-000400.jpg,['Cabernet Sauvignon'],Napa Valley - Estados Unidos,N/D
+VINI-000401,815 Cabernet Sauvignon,Joel Gott Wines,2020,0.8,0.7,0.42,0.1,0.82,1.8,3.0,4.6,4.2,labels/VINI-000401.jpg,['Cabernet Sauvignon'],Califórnia - Estados Unidos,N/D
+VINI-000402,Bin 28 Kalimna Shiraz,Penfolds,2019,0.88,0.8,0.45,0.08,0.83,1.3,4.6,4.9,4.5,labels/VINI-000402.jpg,['Shiraz'],Multi-regional South Australia - Austrália,N/D
+VINI-000403,The Boxer Shiraz,Mollydooker Wines,2020,0.95,0.85,0.35,0.15,0.9,1.0,2.5,5.0,5.0,labels/VINI-000403.jpg,['Shiraz'],McLaren Vale - Austrália,N/D
+VINI-000404,Bella's Garden Shiraz,Two Hands Wines,2018,0.9,0.82,0.48,0.07,0.86,1.5,4.0,4.9,4.6,labels/VINI-000404.jpg,['Shiraz'],Barossa Valley - Austrália,N/D
+VINI-000405,Double Barrel Shiraz,Jacob's Creek,2021,0.85,0.75,0.4,0.1,0.8,1.5,3.0,4.7,4.8,labels/VINI-000405.jpg,['Shiraz'],South Eastern Australia - Austrália,N/D
+VINI-000406,Taylor's Fladgate Late Bottled Vintage Port,Taylor Fladgate,2017,0.8,0.6,0.7,0.9,0.95,1.8,4.5,4.2,3.5,labels/VINI-000406.jpg,"['Touriga Nacional', 'Touriga Franca', 'Tinta Roriz', 'Tinta Barroca', 'Tinto Cão']",Douro - Portugal,N/D
+VINI-000407,Graham's Six Grapes Ruby Reserve Port,W. & J. Graham's,NV,0.75,0.5,0.65,0.9,0.95,2.0,4.0,4.0,3.0,labels/VINI-000407.jpg,"['Touriga Nacional', 'Touriga Franca', 'Tinta Roriz', 'Tinta Barroca', 'Tinto Cão']",Douro - Portugal,N/D
+VINI-000408,Warre's Otima 10 Year Old Tawny Port,Warre's,NV,0.7,0.4,0.75,0.9,0.95,3.0,4.8,3.8,3.5,labels/VINI-000408.jpg,"['Touriga Nacional', 'Touriga Franca', 'Tinta Roriz', 'Tinta Barroca', 'Tinto Cão']",Douro - Portugal,N/D
+VINI-000409,Fonseca Vintage Port,Fonseca,2017,1.0,0.8,0.8,0.95,1.0,1.0,5.0,5.0,4.5,labels/VINI-000409.jpg,"['Touriga Nacional', 'Touriga Franca', 'Tinta Roriz', 'Tinta Barroca', 'Tinto Cão']",Douro - Portugal,N/D
+VINI-000410,Château d'Yquem,Château d'Yquem,2017,0.9,0.0,0.9,1.0,0.7,3.8,5.0,4.0,4.2,labels/VINI-000410.jpg,"['Sémillon', 'Sauvignon Blanc']","Sauternes, Bordeaux - França",N/D
+VINI-000411,Château Rieussec,Domaines Barons de Rothschild (Lafite),2017,0.85,0.0,0.85,0.95,0.7,3.5,4.8,3.8,3.5,labels/VINI-000411.jpg,"['Sémillon', 'Sauvignon Blanc', 'Muscadelle']","Sauternes, Bordeaux - França",N/D
+VINI-000412,Château Guiraud,Château Guiraud,2018,0.8,0.0,0.8,0.9,0.68,3.2,4.5,3.5,3.0,labels/VINI-000412.jpg,"['Sémillon', 'Sauvignon Blanc']","Sauternes, Bordeaux - França",N/D
+VINI-000413,José Maria da Fonseca Moscatel de Setúbal Superior,José Maria da Fonseca,2004,0.9,0.1,0.8,1.0,0.9,3.0,4.5,4.2,4.0,labels/VINI-000413.jpg,['Moscatel de Setúbal (Moscatel de Alexandria)'],Península de Setúbal - Portugal,N/D
+VINI-000414,Brown Brothers Orange Muscat & Flora,Brown Brothers,NV,0.6,0.0,0.7,0.85,0.5,4.0,3.0,2.5,4.0,labels/VINI-000414.jpg,"['Orange Muscat', 'Flora']",Victoria - Austrália,N/D
+VINI-000415,Michele Chiarlo Nivole Moscato d'Asti DOCG,Michele Chiarlo,2022,0.4,0.0,0.75,0.8,0.2,4.5,3.5,1.5,3.0,labels/VINI-000415.jpg,['Moscato Bianco'],"Asti, Piemonte - Itália",N/D
+VINI-000416,Sancerre Les Romains,Domaine Vacheron,2022,0.55,0.01,0.85,0.05,0.7,3.8,4.8,2.5,2.0,labels/VINI-000416.jpg,['Sauvignon Blanc'],Loire Valley - France,N/D
+VINI-000417,Sauvignon Blanc,Cloudy Bay,2023,0.45,0.01,0.88,0.05,0.68,3.5,4.0,2.0,3.5,labels/VINI-000417.jpg,['Sauvignon Blanc'],Marlborough - New Zealand,N/D
+VINI-000418,Sauvignon Blanc,Duckhorn Vineyards,2022,0.65,0.02,0.75,0.08,0.78,2.5,3.5,3.0,2.8,labels/VINI-000418.jpg,['Sauvignon Blanc'],Napa Valley - USA,N/D
+VINI-000419,Vouvray Sec Le Mont,Domaine Huet,2021,0.65,0.01,0.9,0.05,0.7,3.0,4.9,3.8,2.5,labels/VINI-000419.jpg,['Chenin Blanc'],Loire Valley - France,N/D
+VINI-000420,Savennières La Jalousie,Domaine du Closel,2020,0.75,0.03,0.88,0.05,0.75,2.0,4.5,4.5,3.0,labels/VINI-000420.jpg,['Chenin Blanc'],Loire Valley - France,N/D
+VINI-000421,Original Chenin Blanc,Raats Family Wines,2022,0.6,0.02,0.8,0.06,0.72,3.0,3.5,3.5,3.0,labels/VINI-000421.jpg,['Chenin Blanc'],Stellenbosch - South Africa,N/D
+VINI-000422,Muros Antigos Alvarinho,Anselmo Mendes,2022,0.6,0.01,0.82,0.05,0.72,3.2,4.0,3.2,2.5,labels/VINI-000422.jpg,['Alvarinho'],Vinho Verde - Portugal,N/D
+VINI-000424,III Lustros Brut Nature Gran Reserva,Gramona,2017,0.7,0.01,0.9,0.01,0.6,3.5,4.8,4.0,3.0,labels/VINI-000424.jpg,"['Xarel·lo', 'Macabeu', 'Parellada']",Penedès - Spain,N/D
+VINI-000425,Terrers Brut Nature Gran Reserva,Recaredo,2018,0.68,0.01,0.88,0.01,0.6,3.7,4.7,3.9,3.2,labels/VINI-000425.jpg,"['Macabeu', 'Xarel·lo', 'Parellada']",Penedès - Spain,N/D
+VINI-000426,L'Hereu Reserva Brut,Raventós i Blanc,2020,0.6,0.01,0.85,0.05,0.58,4.0,4.5,3.0,3.5,labels/VINI-000426.jpg,"['Macabeu', 'Xarel·lo', 'Parellada']",Penedès - Spain,N/D
+VINI-000427,Gran Reserva Brut Nature,Agustí Torelló Mata,2018,0.65,0.01,0.87,0.01,0.6,3.6,4.6,3.8,3.0,labels/VINI-000427.jpg,"['Macabeu', 'Xarel·lo', 'Parellada']",Penedès - Spain,N/D
+VINI-000427,Marqués de Riscal Reserva,Herederos del Marqués de Riscal,2018,0.75,0.7,0.65,0.05,0.7,2.0,4.5,3.5,2.0,labels/VINI-000427.jpg,['Tempranillo'],Rioja - Espanha,N/D
+VINI-000428,Malleolus,Bodegas Emilio Moro,2020,0.85,0.8,0.6,0.05,0.78,1.5,3.8,4.5,3.0,labels/VINI-000428.jpg,['Tempranillo'],Ribera del Duero - Espanha,N/D
+VINI-000429,El Coto de Imaz Reserva,El Coto de Rioja,2017,0.7,0.65,0.68,0.05,0.68,2.2,4.2,3.2,1.8,labels/VINI-000429.jpg,['Tempranillo'],Rioja - Espanha,N/D
+VINI-000430,Chianti Classico Gran Selezione,Castello di Ama,2019,0.75,0.78,0.85,0.02,0.72,2.5,4.8,3.8,2.5,labels/VINI-000430.jpg,['Sangiovese'],Chianti Classico - Itália,N/D
+VINI-000431,Brunello di Montalcino,Castello Banfi,2018,0.88,0.85,0.8,0.02,0.75,1.8,4.5,4.5,2.8,labels/VINI-000431.jpg,['Sangiovese'],Brunello di Montalcino - Itália,N/D
+VINI-000432,Vino Nobile di Montepulciano,Poliziano,2020,0.78,0.75,0.78,0.03,0.73,2.0,4.0,4.0,2.2,labels/VINI-000432.jpg,['Sangiovese'],Vino Nobile di Montepulciano - Itália,N/D
+VINI-000433,Touriga Nacional,Quinta do Crasto,2021,0.9,0.88,0.7,0.05,0.82,1.2,3.0,4.8,4.0,labels/VINI-000433.jpg,['Touriga Nacional'],Douro - Portugal,N/D
+VINI-000434,Private Selection Touriga Nacional,Esporão,2020,0.88,0.85,0.68,0.08,0.8,1.5,3.2,4.7,4.2,labels/VINI-000434.jpg,['Touriga Nacional'],Alentejo - Portugal,N/D
+VINI-000435,Grande Reserva Touriga Nacional,Quinta da Gaivosa,2017,0.92,0.9,0.72,0.05,0.85,1.0,3.5,5.0,4.5,labels/VINI-000435.jpg,['Touriga Nacional'],Douro - Portugal,N/D
+VINI-000436,Sessantanni Old Vines Primitivo di Manduria DOC,Cantine San Marzano,2019,0.95,0.75,0.5,0.1,0.88,1.0,2.5,5.0,4.8,labels/VINI-000436.jpg,['Primitivo'],Puglia - Itália,N/D
+VINI-000438,Primitivo di Puglia IGT,A Mano,2021,0.78,0.65,0.6,0.05,0.75,2.0,3.0,4.0,3.5,labels/VINI-000438.jpg,['Primitivo'],Puglia - Itália,N/D
+VINI-000438,Faces Merlot,Lidio Carraro,2019,0.6,0.5,0.7,0.1,0.7,3.0,4.0,3.0,2.5,labels/VINI-000438.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000439,Virtude Merlot,Salton,2018,0.75,0.65,0.6,0.1,0.75,2.0,4.5,4.0,3.0,labels/VINI-000439.jpg,['Merlot'],Campanha Gaúcha - Brasil,N/D
+VINI-000440,Reserva Merlot,Pizzato Vinhas e Vinhos,2017,0.8,0.7,0.65,0.05,0.8,1.8,4.8,4.5,3.8,labels/VINI-000440.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000441,Merlot Vinhedos do Chefe,Almaúnica,2020,0.7,0.6,0.68,0.1,0.72,2.5,4.0,3.5,3.2,labels/VINI-000441.jpg,['Merlot'],Serra Gaúcha - Brasil,N/D
+VINI-000442,Cabernet Sauvignon Sonoma County,Rodney Strong Vineyards,2019,0.8,0.75,0.5,0.05,0.82,1.2,3.5,4.5,4.0,labels/VINI-000442.jpg,['Cabernet Sauvignon'],"Sonoma County, Califórnia - EUA",N/D
+VINI-000443,Cabernet Sauvignon Napa Valley,Caymus Vineyards,2018,0.95,0.85,0.4,0.15,0.95,1.0,3.8,5.0,4.8,labels/VINI-000443.jpg,['Cabernet Sauvignon'],"Napa Valley, Califórnia - EUA",N/D
+VINI-000444,Napa Valley Cabernet Sauvignon,Robert Mondavi Winery,2017,0.9,0.8,0.45,0.08,0.9,1.0,4.5,4.8,4.2,labels/VINI-000444.jpg,['Cabernet Sauvignon'],"Napa Valley, Califórnia - EUA",N/D
+VINI-000445,Knights Valley Cabernet Sauvignon,Beringer Vineyards,2019,0.85,0.78,0.52,0.07,0.88,1.1,4.0,4.7,4.3,labels/VINI-000445.jpg,['Cabernet Sauvignon'],"Knights Valley, Califórnia - EUA",N/D
+VINI-000446,Bin 28 Kalimna Shiraz,Penfolds,2018,0.9,0.8,0.5,0.1,0.88,1.0,3.5,5.0,4.8,labels/VINI-000446.jpg,['Shiraz'],Multi-Regiões (Barossa Valley predominante) - Austrália,N/D
+VINI-000448,Keyneton Euphonium,Henschke,2017,0.85,0.75,0.6,0.05,0.85,1.5,4.5,4.8,4.0,labels/VINI-000448.jpg,"['Shiraz', 'Cabernet Sauvignon', 'Merlot', 'Cabernet Franc']","Eden Valley & Barossa Valley, Austrália Meridional - Austrália",N/D
+VINI-000449,The Dead Arm Shiraz,d'Arenberg,2016,0.9,0.85,0.55,0.1,0.92,1.0,3.0,5.0,4.9,labels/VINI-000449.jpg,['Shiraz'],"McLaren Vale, Austrália Meridional - Austrália",N/D
+VINI-000449,Vintage Port,Taylor's,2017,0.9,0.8,0.6,0.9,0.9,1.5,4.8,4.9,2.5,labels/VINI-000449.jpg,"['Touriga Nacional', 'Touriga Franca', 'Tinta Roriz', 'Tinta Barroca', 'Tinto Cão']",Douro - Portugal,N/D
+VINI-000450,20 Year Old Tawny Port,Graham's,NV,0.7,0.3,0.7,0.85,0.9,3.0,4.9,3.5,2.0,labels/VINI-000450.jpg,"['Touriga Nacional', 'Touriga Franca', 'Tinta Roriz', 'Tinta Barroca', 'Tinto Cão']",Douro - Portugal,N/D
+VINI-000451,Ruby Reserve Port,Sandeman,NV,0.7,0.5,0.5,0.8,0.85,2.0,4.0,4.0,2.0,labels/VINI-000451.jpg,"['Touriga Nacional', 'Touriga Franca', 'Tinta Roriz', 'Tinta Barroca', 'Tinto Cão']",Douro - Portugal,N/D
+VINI-000452,Late Bottled Vintage Port (LBV),Quinta do Noval,2016,0.8,0.6,0.6,0.88,0.88,1.8,4.5,4.5,2.2,labels/VINI-000452.jpg,"['Touriga Nacional', 'Touriga Franca', 'Tinta Roriz', 'Tinta Barroca', 'Tinto Cão']",Douro - Portugal,N/D
+VINI-000453,Sauternes Premier Grand Cru Classé,Château Suduiraut,2015,0.9,0.0,0.9,0.95,0.55,2.5,5.0,4.0,3.0,labels/VINI-000453.jpg,"['Sémillon', 'Sauvignon Blanc', 'Muscadelle']","Sauternes, Bordeaux - França",N/D
+VINI-000454,Sauternes Premier Grand Cru Classé,Château Guiraud,2016,0.85,0.0,0.85,0.92,0.5,2.8,4.9,3.8,2.8,labels/VINI-000454.jpg,"['Sémillon', 'Sauvignon Blanc']","Sauternes, Bordeaux - França",N/D
+VINI-000455,Moscato d'Asti DOCG,Paolo Saracco,2022,0.3,0.0,0.7,0.8,0.15,4.5,4.0,1.0,3.0,labels/VINI-000455.jpg,['Moscato Bianco'],Piemonte - Itália,N/D
+VINI-000456,Moscatel de Setúbal (Alambre),José Maria da Fonseca,2015,0.8,0.1,0.6,0.9,0.85,2.0,4.5,4.5,3.5,labels/VINI-000456.jpg,['Moscatel de Setúbal (Muscat of Alexandria)'],Península de Setúbal - Portugal,N/D
+VINI-000457,Muscat de Beaumes de Venise AOP,Domaine de Durban,2020,0.6,0.0,0.75,0.85,0.7,3.5,4.0,2.5,2.8,labels/VINI-000457.jpg,['Muscat Blanc à Petits Grains'],Vale do Rhône - França,N/D
+VINI-000458,Pedro Ximénez (PX) San Emilio Solera Reserva Sherry,Lustau,NV,1.0,0.0,0.4,1.0,0.85,1.0,4.8,5.0,4.0,labels/VINI-000458.jpg,['Pedro Ximénez'],Jerez - Espanha,N/D
+VINI-000459,Jacob's Creek Double Barrel Shiraz,Jacob's Creek,2020,0.9,0.8,0.5,0.2,0.8,1.2,3.7,4.8,4.1,labels/VINI-000459.jpg,['Shiraz'],South Australia - Austrália,N/D
+VINI-000460,Newton Unfiltered Cabernet Sauvignon,Newton Vineyard,2015,0.8,0.7,0.5,0.2,0.8,1.5,4.5,4.2,3.3,labels/VINI-000460.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000461,Salton Talento Merlot,Salton,2019,0.6,0.5,0.7,0.1,0.7,3.5,3.8,2.7,2.2,labels/VINI-000461.jpg,"['Merlot', 'Cabernet Sauvignon', 'Tannat']",Serra Gaúcha - Brasil,N/D
+VINI-000462,Mollydooker The Boxer Shiraz,Mollydooker Wines,2021,0.9,0.9,0.4,0.2,0.9,1.1,4.0,5.0,4.7,labels/VINI-000462.jpg,['Shiraz'],"McLaren Vale, South Australia - Austrália",N/D
+VINI-000463,Louis M. Martini Sonoma County Cabernet Sauvignon,Louis M. Martini Winery,2022,0.7,0.8,0.5,0.1,0.8,2.1,3.6,4.4,3.5,labels/VINI-000463.jpg,['Cabernet Sauvignon'],Sonoma County - EUA,N/D
+VINI-000464,Miolo Single Vineyard Merlot,Miolo Wine Group,2023,0.6,0.5,0.8,0.0,0.7,3.4,3.5,2.5,2.4,labels/VINI-000464.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000465,Caymus Napa Valley Cabernet Sauvignon,Caymus Vineyards,2012,0.9,0.8,0.5,0.2,0.9,1.4,4.7,4.8,4.6,labels/VINI-000465.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000466,Shafer Hillside Select Cabernet Sauvignon,Shafer Vineyards,2013,0.9,0.9,0.6,0.2,0.9,1.0,4.0,4.8,4.6,labels/VINI-000466.jpg,['Cabernet Sauvignon'],"Stags Leap District, Napa Valley - EUA",N/D
+VINI-000467,Pizzato Fausto Merlot,Pizzato Vinhas e Vinhos,2023,0.6,0.5,0.7,0.1,0.7,3.2,3.5,2.8,2.6,labels/VINI-000467.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000468,Grant Burge Filsell Shiraz,Grant Burge Wines,2018,0.9,0.8,0.5,0.2,0.9,1.2,3.5,4.9,4.4,labels/VINI-000468.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000469,Casa Valduga Gran Terroir Merlot,Casa Valduga,2019,0.6,0.5,0.7,0.1,0.7,3.2,3.6,2.6,2.8,labels/VINI-000469.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000470,Beringer Private Reserve Cabernet Sauvignon,Beringer Vineyards,2019,0.9,0.8,0.5,0.2,0.8,1.5,4.6,4.8,4.3,labels/VINI-000470.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000471,Mollydooker Carnival of Love Shiraz,Mollydooker Wines,2020,0.9,0.9,0.5,0.3,0.9,1.0,4.0,5.0,4.6,labels/VINI-000471.jpg,['Shiraz'],"McLaren Vale, South Australia - Austrália",N/D
+VINI-000472,Jacob's Creek Reserve Shiraz,Jacob's Creek,2021,0.9,0.8,0.5,0.2,0.9,1.3,3.5,4.8,4.0,labels/VINI-000472.jpg,['Shiraz'],South Australia - Austrália,N/D
+VINI-000473,Lidio Carraro Grande Vindima Merlot,Lidio Carraro,2014,0.7,0.6,0.7,0.1,0.7,3.0,3.8,3.0,2.7,labels/VINI-000473.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000474,Chateau Montelena Napa Valley Cabernet Sauvignon,Chateau Montelena,2013,0.8,0.8,0.5,0.1,0.8,1.7,4.5,4.5,3.8,labels/VINI-000474.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000475,Dal Pizzol Merlot,Vinícola Dal Pizzol,2018,0.6,0.5,0.7,0.1,0.7,3.1,3.6,2.6,2.5,labels/VINI-000475.jpg,['Merlot'],"Faria Lemos, Serra Gaúcha - Brasil",N/D
+VINI-000476,Wolf Blass Yellow Label Shiraz,Wolf Blass,2020,0.9,0.8,0.4,0.2,0.8,1.5,3.7,4.6,4.1,labels/VINI-000476.jpg,['Shiraz'],South Australia - Austrália,N/D
+VINI-000477,Don Guerino Merlot Reserva,Don Guerino,2019,0.6,0.5,0.7,0.1,0.7,3.5,3.7,2.8,2.5,labels/VINI-000477.jpg,['Merlot'],"Alto Feliz, Serra Gaúcha - Brasil",N/D
+VINI-000478,Opus One,Opus One Winery,2014,0.9,0.8,0.5,0.2,0.9,1.5,4.5,4.8,4.0,labels/VINI-000478.jpg,"['Cabernet Sauvignon', 'Cabernet Franc', 'Merlot', 'Petit Verdot', 'Malbec']",Napa Valley - EUA,N/D
+VINI-000479,Mollydooker Carnival of Love Shiraz,Mollydooker Wines,2017,0.9,0.9,0.5,0.3,0.9,1.0,4.0,5.0,4.5,labels/VINI-000479.jpg,['Shiraz'],"McLaren Vale, South Australia - Austrália",N/D
+VINI-000480,Robert Mondavi Napa Valley Cabernet Sauvignon,Robert Mondavi Winery,2016,0.8,0.7,0.5,0.2,0.8,1.8,4.2,4.5,3.7,labels/VINI-000480.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000481,Shafer Hillside Select Cabernet Sauvignon,Shafer Vineyards,2015,0.9,0.9,0.6,0.2,0.9,1.1,4.0,4.9,4.7,labels/VINI-000481.jpg,['Cabernet Sauvignon'],"Stags Leap District, Napa Valley - EUA",N/D
+VINI-000482,Penfolds Bin 28 Kalimna Shiraz,Penfolds,2021,0.9,0.8,0.5,0.2,0.9,1.2,3.8,4.8,4.4,labels/VINI-000482.jpg,['Shiraz'],South Australia - Austrália,N/D
+VINI-000483,Torbreck The Factor Shiraz,Torbreck Vintners,2012,0.9,0.9,0.5,0.2,0.9,1.1,4.0,5.0,4.6,labels/VINI-000483.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000484,Pizzato Concentus Merlot,Pizzato Vinhas e Vinhos,2021,0.7,0.6,0.7,0.1,0.7,2.9,3.5,3.0,2.8,labels/VINI-000484.jpg,"['Merlot', 'Tannat', 'Cabernet Sauvignon']",Vale dos Vinhedos - Brasil,N/D
+VINI-000485,Hess Select Cabernet Sauvignon,Hess Collection,2019,0.7,0.7,0.5,0.1,0.8,2.1,3.8,4.2,3.4,labels/VINI-000485.jpg,['Cabernet Sauvignon'],California - EUA,N/D
+VINI-000486,Miolo Lote 43 Merlot,Miolo Wine Group,2017,0.7,0.6,0.7,0.1,0.7,3.0,3.9,3.2,2.8,labels/VINI-000486.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000487,St Hallett Blackwell Shiraz,St Hallett Wines,2019,0.9,0.8,0.5,0.2,0.9,1.2,3.6,4.9,4.4,labels/VINI-000487.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000488,Far Niente Estate Bottled Cabernet Sauvignon,Far Niente Winery,2016,0.9,0.9,0.6,0.2,0.9,1.1,4.5,4.8,4.3,labels/VINI-000488.jpg,['Cabernet Sauvignon'],"Oakville, Napa Valley - EUA",N/D
+VINI-000489,Aurora Millesime Merlot,Aurora,2017,0.6,0.5,0.7,0.1,0.7,3.3,3.5,2.7,2.6,labels/VINI-000489.jpg,['Merlot'],Serra Gaúcha - Brasil,N/D
+VINI-000490,Jacob's Creek Double Barrel Shiraz,Jacob's Creek,2016,0.9,0.8,0.5,0.2,0.8,1.2,3.7,4.8,4.2,labels/VINI-000490.jpg,['Shiraz'],South Australia - Austrália,N/D
+VINI-000491,Wolf Blass Grey Label Shiraz,Wolf Blass,2019,0.9,0.8,0.5,0.2,0.9,1.2,3.8,4.9,4.4,labels/VINI-000491.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000492,Kendall-Jackson Vintner's Reserve Cabernet Sauvignon,Kendall-Jackson,2021,0.8,0.7,0.5,0.2,0.8,1.9,3.9,4.3,3.5,labels/VINI-000492.jpg,['Cabernet Sauvignon'],California - EUA,N/D
+VINI-000493,Penfolds Bin 28 Kalimna Shiraz,Penfolds,2017,0.9,0.8,0.5,0.2,0.9,1.2,3.7,4.8,4.4,labels/VINI-000493.jpg,['Shiraz'],South Australia - Austrália,N/D
+VINI-000494,Guatambu Rastros do Pampa Merlot,Guatambu Estância do Vinho,2015,0.6,0.5,0.7,0.1,0.7,3.0,3.5,2.7,2.4,labels/VINI-000494.jpg,['Merlot'],Campanha Gaúcha - Brasil,N/D
+VINI-000495,Jordan Cabernet Sauvignon,Jordan Vineyard & Winery,2019,0.8,0.8,0.5,0.1,0.8,1.8,4.0,4.5,3.7,labels/VINI-000495.jpg,['Cabernet Sauvignon'],"Alexander Valley, Sonoma County - EUA",N/D
+VINI-000496,Miolo Lote 43 Merlot,Miolo Wine Group,2020,0.7,0.6,0.7,0.1,0.7,3.1,3.9,3.1,2.8,labels/VINI-000496.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000497,Torbreck The Factor Shiraz,Torbreck Vintners,2015,0.9,0.9,0.5,0.2,0.9,1.1,4.0,5.0,4.6,labels/VINI-000497.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000498,Stag's Leap Wine Cellars S.L.V. Cabernet Sauvignon,Stag's Leap Wine Cellars,2018,0.8,0.8,0.5,0.1,0.8,1.6,4.4,4.6,4.0,labels/VINI-000498.jpg,['Cabernet Sauvignon'],"Stags Leap District, Napa Valley - EUA",N/D
+VINI-000499,Dal Pizzol Merlot,Vinícola Dal Pizzol,2019,0.6,0.5,0.7,0.1,0.7,3.1,3.6,2.6,2.5,labels/VINI-000499.jpg,['Merlot'],"Faria Lemos, Serra Gaúcha - Brasil",N/D
+VINI-000500,Hardy's HRB Shiraz,Hardy's,2016,0.9,0.8,0.5,0.2,0.9,1.3,3.5,4.8,4.1,labels/VINI-000500.jpg,['Shiraz'],South Australia - Austrália,N/D
+VINI-000501,Almaúnica Merlot Reserva,Almaúnica,2019,0.6,0.5,0.7,0.1,0.7,3.5,3.7,2.7,2.4,labels/VINI-000501.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000502,Opus One,Opus One Winery,2017,0.9,0.8,0.5,0.2,0.9,1.5,4.5,4.8,4.0,labels/VINI-000502.jpg,"['Cabernet Sauvignon', 'Cabernet Franc', 'Merlot', 'Petit Verdot', 'Malbec']",Napa Valley - EUA,N/D
+VINI-000503,Francis Ford Coppola Diamond Collection Cabernet Sauvignon,Francis Ford Coppola Winery,2020,0.7,0.7,0.5,0.1,0.8,2.0,3.8,4.2,3.3,labels/VINI-000503.jpg,['Cabernet Sauvignon'],California - EUA,N/D
+VINI-000504,Henschke Hill of Grace Shiraz,Henschke,2015,1.0,0.9,0.5,0.2,0.9,1.1,4.4,5.0,4.8,labels/VINI-000504.jpg,['Shiraz'],"Eden Valley, South Australia - Austrália",N/D
+VINI-000505,Casa Valduga Identidade Merlot,Casa Valduga,2022,0.6,0.5,0.7,0.1,0.7,3.4,3.7,2.7,2.5,labels/VINI-000505.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000506,Wolf Blass Yellow Label Shiraz,Wolf Blass,2017,0.9,0.8,0.4,0.2,0.8,1.5,3.7,4.6,4.1,labels/VINI-000506.jpg,['Shiraz'],South Australia - Austrália,N/D
+VINI-000507,Stag's Leap Wine Cellars S.L.V. Cabernet Sauvignon,Stag's Leap Wine Cellars,2011,0.8,0.8,0.5,0.1,0.8,1.6,4.4,4.6,4.0,labels/VINI-000507.jpg,['Cabernet Sauvignon'],"Stags Leap District, Napa Valley - EUA",N/D
+VINI-000508,Beringer Knights Valley Cabernet Sauvignon,Beringer Vineyards,2019,0.8,0.8,0.5,0.1,0.8,1.8,4.1,4.5,3.8,labels/VINI-000508.jpg,['Cabernet Sauvignon'],"Knights Valley, Sonoma County - EUA",N/D
+VINI-000509,Aurora Millesime Merlot,Aurora,2021,0.6,0.5,0.7,0.1,0.7,3.3,3.5,2.7,2.6,labels/VINI-000509.jpg,['Merlot'],Serra Gaúcha - Brasil,N/D
+VINI-000510,Penfolds Bin 389 Cabernet Shiraz,Penfolds,2019,0.9,0.8,0.5,0.2,0.9,1.3,4.0,4.9,4.5,labels/VINI-000510.jpg,"['Cabernet Sauvignon', 'Shiraz']",South Australia - Austrália,N/D
+VINI-000511,St Hallett Faith Shiraz,St Hallett Wines,2022,0.8,0.7,0.4,0.2,0.8,1.6,3.4,4.6,3.9,labels/VINI-000511.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000512,Perini Quasar Merlot,Vinícola Perini,2021,0.6,0.5,0.7,0.1,0.7,3.3,3.6,2.7,2.5,labels/VINI-000512.jpg,['Merlot'],Serra Gaúcha - Brasil,N/D
+VINI-000513,Newton Unfiltered Cabernet Sauvignon,Newton Vineyard,2017,0.8,0.7,0.5,0.2,0.8,1.5,4.5,4.2,3.3,labels/VINI-000513.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000514,Taylors Estate Shiraz,Taylors Wines,2021,0.8,0.7,0.4,0.1,0.8,1.7,3.4,4.6,3.9,labels/VINI-000514.jpg,['Shiraz'],"Clare Valley, South Australia - Austrália",N/D
+VINI-000515,Louis M. Martini Sonoma County Cabernet Sauvignon,Louis M. Martini Winery,2020,0.7,0.8,0.5,0.1,0.8,2.1,3.6,4.4,3.5,labels/VINI-000515.jpg,['Cabernet Sauvignon'],Sonoma County - EUA,N/D
+VINI-000516,Pizzato Concentus Merlot,Pizzato Vinhas e Vinhos,2018,0.7,0.6,0.7,0.1,0.7,2.9,3.5,3.0,2.8,labels/VINI-000516.jpg,"['Merlot', 'Tannat', 'Cabernet Sauvignon']",Vale dos Vinhedos - Brasil,N/D
+VINI-000517,Jim Barry The Armchair Critic Shiraz,Jim Barry Wines,2019,0.9,0.8,0.4,0.2,0.9,1.3,3.5,4.8,4.2,labels/VINI-000517.jpg,['Shiraz'],"Clare Valley, South Australia - Austrália",N/D
+VINI-000518,Stag's Leap Wine Cellars S.L.V. Cabernet Sauvignon,Stag's Leap Wine Cellars,2022,0.8,0.8,0.5,0.1,0.8,1.6,4.4,4.6,4.0,labels/VINI-000518.jpg,['Cabernet Sauvignon'],"Stags Leap District, Napa Valley - EUA",N/D
+VINI-000519,Tenuta Foppa e Ambrosi Merlot,Foppa e Ambrosi,2023,0.6,0.5,0.7,0.1,0.7,3.4,3.6,2.6,2.5,labels/VINI-000519.jpg,['Merlot'],Serra Gaúcha - Brasil,N/D
+VINI-000520,Penfolds St Henri Shiraz,Penfolds,2018,0.9,0.8,0.5,0.2,0.9,1.3,4.1,4.9,4.5,labels/VINI-000520.jpg,['Shiraz'],South Australia - Austrália,N/D
+VINI-000521,Don Laurindo Merlot,Vinícola Don Laurindo,2016,0.6,0.5,0.7,0.1,0.7,3.2,3.6,2.7,2.5,labels/VINI-000521.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000522,Caymus Napa Valley Cabernet Sauvignon,Caymus Vineyards,2019,0.9,0.8,0.5,0.2,0.9,1.4,4.7,4.8,4.6,labels/VINI-000522.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000523,Yalumba Barossa Bush Vine Shiraz,Yalumba,2020,0.8,0.7,0.4,0.1,0.8,1.7,3.4,4.7,3.9,labels/VINI-000523.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000524,Grgich Hills Estate Cabernet Sauvignon,Grgich Hills Estate,2018,0.8,0.8,0.5,0.1,0.8,1.7,4.2,4.6,3.8,labels/VINI-000524.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000525,Sanjo Nobrese Merlot,Sanjo,2018,0.6,0.5,0.7,0.1,0.7,3.3,3.6,2.7,2.4,labels/VINI-000525.jpg,['Merlot'],São Joaquim - Brasil,N/D
+VINI-000526,Two Hands Bella's Garden Shiraz,Two Hands Wines,2015,0.9,0.8,0.5,0.2,0.9,1.2,3.9,4.9,4.5,labels/VINI-000526.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000527,Louis M. Martini Sonoma County Cabernet Sauvignon,Louis M. Martini Winery,2019,0.7,0.8,0.5,0.1,0.8,2.1,3.6,4.4,3.5,labels/VINI-000527.jpg,['Cabernet Sauvignon'],Sonoma County - EUA,N/D
+VINI-000528,Hermann Merlot,Hermann,2020,0.6,0.5,0.7,0.1,0.7,3.2,3.6,2.7,2.4,labels/VINI-000528.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000529,Penfolds Bin 389 Cabernet Shiraz,Penfolds,2018,0.9,0.8,0.5,0.2,0.9,1.3,4.0,4.9,4.5,labels/VINI-000529.jpg,"['Cabernet Sauvignon', 'Shiraz']",South Australia - Austrália,N/D
+VINI-000530,St Hallett Faith Shiraz,St Hallett Wines,2019,0.8,0.7,0.4,0.2,0.8,1.6,3.4,4.6,3.9,labels/VINI-000530.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000531,Silver Oak Napa Valley Cabernet Sauvignon,Silver Oak Cellars,2017,0.9,0.9,0.5,0.2,0.9,1.3,4.6,4.9,4.5,labels/VINI-000531.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000532,Beringer Private Reserve Cabernet Sauvignon,Beringer Vineyards,2013,0.9,0.8,0.5,0.2,0.8,1.5,4.6,4.8,4.3,labels/VINI-000532.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000533,Perini Quasar Merlot,Vinícola Perini,2020,0.6,0.5,0.7,0.1,0.7,3.3,3.6,2.7,2.5,labels/VINI-000533.jpg,['Merlot'],Serra Gaúcha - Brasil,N/D
+VINI-000534,Mount Langi Ghiran Cliff Edge Shiraz,Mount Langi Ghiran,2018,0.9,0.8,0.5,0.2,0.9,1.3,3.9,4.8,4.3,labels/VINI-000534.jpg,['Shiraz'],"Grampians, Victoria - Austrália",N/D
+VINI-000535,Robert Mondavi Napa Valley Cabernet Sauvignon,Robert Mondavi Winery,2020,0.8,0.7,0.5,0.2,0.8,1.8,4.2,4.5,3.7,labels/VINI-000535.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000536,Miolo Lote 43 Merlot,Miolo Wine Group,2013,0.7,0.6,0.7,0.1,0.7,3.0,3.9,3.2,2.8,labels/VINI-000536.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000537,Freemark Abbey Napa Valley Cabernet Sauvignon,Freemark Abbey Winery,2018,0.8,0.8,0.5,0.1,0.8,1.7,4.2,4.6,3.8,labels/VINI-000537.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000538,Casa Valduga Gran Terroir Merlot,Casa Valduga,2022,0.6,0.5,0.7,0.1,0.7,3.2,3.6,2.6,2.8,labels/VINI-000538.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000539,Two Hands Bella's Garden Shiraz,Two Hands Wines,2016,0.9,0.8,0.5,0.2,0.9,1.2,3.9,4.9,4.5,labels/VINI-000539.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000540,Ghost Pines Cabernet Sauvignon,Ghost Pines Winery,2022,0.7,0.7,0.5,0.1,0.8,2.0,3.7,4.3,3.4,labels/VINI-000540.jpg,['Cabernet Sauvignon'],Napa & Sonoma County - EUA,N/D
+VINI-000541,Rodney Strong Vineyards Cabernet Sauvignon,Rodney Strong Vineyards,2021,0.7,0.7,0.5,0.1,0.8,2.0,3.8,4.3,3.4,labels/VINI-000541.jpg,['Cabernet Sauvignon'],Sonoma County - EUA,N/D
+VINI-000542,Don Laurindo Merlot,Vinícola Don Laurindo,2020,0.6,0.5,0.7,0.1,0.7,3.2,3.6,2.7,2.5,labels/VINI-000542.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000543,Leeuwin Estate Art Series Shiraz,Leeuwin Estate,2015,0.9,0.8,0.5,0.2,0.9,1.3,4.0,4.8,4.4,labels/VINI-000543.jpg,['Shiraz'],"Margaret River, Western Australia - Austrália",N/D
+VINI-000544,Hardy's HRB Shiraz,Hardy's,2019,0.9,0.8,0.5,0.2,0.9,1.3,3.5,4.8,4.1,labels/VINI-000544.jpg,['Shiraz'],South Australia - Austrália,N/D
+VINI-000545,Inglenook 1882 Cabernet Sauvignon,Inglenook,2017,0.8,0.8,0.5,0.1,0.8,1.7,4.2,4.6,3.8,labels/VINI-000545.jpg,['Cabernet Sauvignon'],"Rutherford, Napa Valley - EUA",N/D
+VINI-000546,St Hallett Blackwell Shiraz,St Hallett Wines,2021,0.9,0.8,0.5,0.2,0.9,1.2,3.6,4.9,4.4,labels/VINI-000546.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000547,Hess Select Cabernet Sauvignon,Hess Collection,2022,0.7,0.7,0.5,0.1,0.8,2.1,3.8,4.2,3.4,labels/VINI-000547.jpg,['Cabernet Sauvignon'],California - EUA,N/D
+VINI-000548,Barossa Valley Estate Shiraz,Barossa Valley Estate,2021,0.9,0.8,0.5,0.2,0.9,1.3,3.8,4.8,4.3,labels/VINI-000548.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000549,J. Lohr Seven Oaks Cabernet Sauvignon,J. Lohr Vineyards & Wines,2021,0.7,0.7,0.4,0.1,0.8,2.2,3.6,4.2,3.2,labels/VINI-000549.jpg,['Cabernet Sauvignon'],"Paso Robles, Central Coast - EUA",N/D
+VINI-000550,Lidio Carraro Grande Vindima Merlot,Lidio Carraro,2018,0.7,0.6,0.7,0.1,0.7,3.0,3.8,3.0,2.7,labels/VINI-000550.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000551,Cristofoli Merlot,Família Cristofoli,2021,0.6,0.5,0.7,0.1,0.7,3.3,3.6,2.7,2.4,labels/VINI-000551.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000552,Salton Intenso Merlot,Salton,2022,0.6,0.5,0.7,0.1,0.7,3.5,3.7,2.6,2.3,labels/VINI-000552.jpg,['Merlot'],Serra Gaúcha - Brasil,N/D
+VINI-000553,Penfolds Grange,Penfolds,2015,1.0,0.9,0.5,0.3,0.9,1.0,4.5,5.0,5.0,labels/VINI-000553.jpg,['Shiraz'],South Australia - Austrália,N/D
+VINI-000554,Barossa Valley Estate Shiraz,Barossa Valley Estate,2020,0.9,0.8,0.5,0.2,0.9,1.3,3.8,4.8,4.3,labels/VINI-000554.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000555,Justin Vineyards & Winery Cabernet Sauvignon,Justin Vineyards & Winery,2021,0.8,0.7,0.4,0.1,0.8,1.9,3.8,4.4,3.5,labels/VINI-000555.jpg,['Cabernet Sauvignon'],"Paso Robles, Central Coast - EUA",N/D
+VINI-000556,Santa Augusta Merlot,Santa Augusta,2019,0.6,0.5,0.7,0.1,0.7,3.4,3.6,2.7,2.4,labels/VINI-000556.jpg,['Merlot'],Serra Catarinense - Brasil,N/D
+VINI-000557,Duckhorn Napa Valley Cabernet Sauvignon,Duckhorn Vineyards,2018,0.8,0.8,0.5,0.1,0.8,1.7,4.3,4.6,3.9,labels/VINI-000557.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000558,Wynns Coonawarra Estate Shiraz,Wynns Coonawarra Estate,2019,0.8,0.7,0.4,0.1,0.8,1.7,3.5,4.6,4.0,labels/VINI-000558.jpg,['Shiraz'],"Coonawarra, South Australia - Austrália",N/D
+VINI-000559,Almaúnica Merus Merlot,Almaúnica,2017,0.7,0.6,0.7,0.1,0.7,3.0,3.8,3.0,2.7,labels/VINI-000559.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000560,Pepperjack Barossa Shiraz,Pepperjack,2021,0.9,0.8,0.5,0.2,0.9,1.3,3.7,4.8,4.3,labels/VINI-000560.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000561,Robert Mondavi Napa Valley Cabernet Sauvignon,Robert Mondavi Winery,2018,0.8,0.7,0.5,0.2,0.8,1.8,4.2,4.5,3.7,labels/VINI-000561.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000562,Chateau Montelena Napa Valley Cabernet Sauvignon,Chateau Montelena,2018,0.8,0.8,0.5,0.1,0.8,1.7,4.5,4.5,3.8,labels/VINI-000562.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000563,Pizzato Concentus Merlot,Pizzato Vinhas e Vinhos,2017,0.7,0.6,0.7,0.1,0.7,2.9,3.5,3.0,2.8,labels/VINI-000563.jpg,"['Merlot', 'Tannat', 'Cabernet Sauvignon']",Vale dos Vinhedos - Brasil,N/D
+VINI-000564,Tyrrell's Rufus Stone Heathcote Shiraz,Tyrrell's Wines,2020,0.9,0.8,0.5,0.2,0.9,1.3,3.8,4.8,4.3,labels/VINI-000564.jpg,['Shiraz'],"Heathcote, Victoria - Austrália",N/D
+VINI-000565,Beringer Knights Valley Cabernet Sauvignon,Beringer Vineyards,2017,0.8,0.8,0.5,0.1,0.8,1.8,4.1,4.5,3.8,labels/VINI-000565.jpg,['Cabernet Sauvignon'],"Knights Valley, Sonoma County - EUA",N/D
+VINI-000566,Wynns Coonawarra Estate Shiraz,Wynns Coonawarra Estate,2022,0.8,0.7,0.4,0.1,0.8,1.7,3.5,4.6,4.0,labels/VINI-000566.jpg,['Shiraz'],"Coonawarra, South Australia - Austrália",N/D
+VINI-000567,Silver Oak Napa Valley Cabernet Sauvignon,Silver Oak Cellars,2016,0.9,0.9,0.5,0.2,0.9,1.3,4.6,4.9,4.5,labels/VINI-000567.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000568,Almaúnica Merlot Reserva,Almaúnica,2018,0.6,0.5,0.7,0.1,0.7,3.5,3.7,2.7,2.4,labels/VINI-000568.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000569,Torbreck RunRig Shiraz,Torbreck Vintners,2016,0.9,0.9,0.5,0.2,0.9,1.1,4.0,5.0,4.6,labels/VINI-000569.jpg,"['Shiraz', 'Viognier']","Barossa Valley, South Australia - Austrália",N/D
+VINI-000570,Daou Vineyards Reserve Cabernet Sauvignon,DAOU Vineyards & Winery,2022,0.8,0.7,0.4,0.1,0.8,2.0,3.9,4.4,3.6,labels/VINI-000570.jpg,['Cabernet Sauvignon'],"Paso Robles, Central Coast - EUA",N/D
+VINI-000571,Aurora Millesime Merlot,Aurora,2016,0.6,0.5,0.7,0.1,0.7,3.3,3.5,2.7,2.6,labels/VINI-000571.jpg,['Merlot'],Serra Gaúcha - Brasil,N/D
+VINI-000572,Penfolds Grange,Penfolds,2017,1.0,0.9,0.5,0.3,0.9,1.0,4.5,5.0,5.0,labels/VINI-000572.jpg,['Shiraz'],South Australia - Austrália,N/D
+VINI-000573,Joseph Phelps Insignia,Joseph Phelps Vineyards,2015,0.9,0.9,0.6,0.2,0.9,1.0,4.5,4.9,4.7,labels/VINI-000573.jpg,"['Cabernet Sauvignon', 'Petit Verdot', 'Merlot', 'Malbec', 'Cabernet Franc']",Napa Valley - EUA,N/D
+VINI-000574,Miolo Single Vineyard Merlot,Miolo Wine Group,2021,0.6,0.5,0.8,0.0,0.7,3.4,3.5,2.5,2.4,labels/VINI-000574.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000575,d'Arenberg The Dead Arm Shiraz,d'Arenberg,2018,0.9,0.8,0.5,0.2,0.9,1.3,4.0,4.9,4.5,labels/VINI-000575.jpg,['Shiraz'],"McLaren Vale, South Australia - Austrália",N/D
+VINI-000576,Silverado Vineyards Estate Cabernet Sauvignon,Silverado Vineyards,2018,0.8,0.8,0.5,0.1,0.8,1.7,4.2,4.6,3.8,labels/VINI-000576.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000577,Valmarino Merlot,Valmarino,2022,0.6,0.5,0.7,0.1,0.7,3.4,3.6,2.7,2.5,labels/VINI-000577.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000578,Charles Krug Napa Valley Cabernet Sauvignon,Charles Krug Winery,2021,0.8,0.7,0.5,0.1,0.8,1.9,4.0,4.4,3.6,labels/VINI-000578.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000579,Salton Talento Merlot,Salton,2021,0.6,0.5,0.7,0.1,0.7,3.5,3.8,2.7,2.2,labels/VINI-000579.jpg,"['Merlot', 'Cabernet Sauvignon', 'Tannat']",Serra Gaúcha - Brasil,N/D
+VINI-000580,Penfolds St Henri Shiraz,Penfolds,2016,0.9,0.8,0.5,0.2,0.9,1.3,4.1,4.9,4.5,labels/VINI-000580.jpg,['Shiraz'],South Australia - Austrália,N/D
+VINI-000581,Ridge Monte Bello,Ridge Vineyards,2014,0.9,0.8,0.5,0.2,0.9,1.4,4.6,4.7,4.0,labels/VINI-000581.jpg,"['Cabernet Sauvignon', 'Merlot', 'Petit Verdot', 'Cabernet Franc']",Santa Cruz Mountains - EUA,N/D
+VINI-000582,Dom Cândido Merlot,Dom Cândido,2020,0.6,0.5,0.7,0.1,0.7,3.3,3.6,2.7,2.4,labels/VINI-000582.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000583,Henschke Keyneton Estate Shiraz Cabernet Sauvignon Merlot,Henschke,2017,0.9,0.8,0.5,0.2,0.9,1.3,4.0,4.8,4.4,labels/VINI-000583.jpg,"['Shiraz', 'Cabernet Sauvignon', 'Merlot']","Eden Valley, South Australia - Austrália",N/D
+VINI-000584,Joseph Phelps Insignia,Joseph Phelps Vineyards,2013,0.9,0.9,0.6,0.2,0.9,1.0,4.5,4.9,4.7,labels/VINI-000584.jpg,"['Cabernet Sauvignon', 'Petit Verdot', 'Merlot', 'Malbec', 'Cabernet Franc']",Napa Valley - EUA,N/D
+VINI-000585,Casa Valduga Identidade Merlot,Casa Valduga,2019,0.6,0.5,0.7,0.1,0.7,3.4,3.7,2.7,2.5,labels/VINI-000585.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000586,Best's Great Western Bin No. 1 Shiraz,Best's Wines,2018,0.9,0.8,0.5,0.2,0.9,1.3,3.9,4.8,4.3,labels/VINI-000586.jpg,['Shiraz'],"Great Western, Victoria - Austrália",N/D
+VINI-000587,Groth Oakville Cabernet Sauvignon,Groth Vineyards & Winery,2020,0.8,0.8,0.5,0.1,0.8,1.7,4.3,4.6,3.9,labels/VINI-000587.jpg,['Cabernet Sauvignon'],"Oakville, Napa Valley - EUA",N/D
+VINI-000588,Guatambu Rastros do Pampa Merlot,Guatambu Estância do Vinho,2021,0.6,0.5,0.7,0.1,0.7,3.0,3.5,2.7,2.4,labels/VINI-000588.jpg,['Merlot'],Campanha Gaúcha - Brasil,N/D
+VINI-000589,Penfolds Bin 28 Kalimna Shiraz,Penfolds,2018,0.9,0.8,0.5,0.2,0.9,1.2,3.8,4.8,4.4,labels/VINI-000589.jpg,['Shiraz'],South Australia - Austrália,N/D
+VINI-000590,Kendall-Jackson Vintner's Reserve Cabernet Sauvignon,Kendall-Jackson,2019,0.8,0.7,0.5,0.2,0.8,1.9,3.9,4.3,3.5,labels/VINI-000590.jpg,['Cabernet Sauvignon'],California - EUA,N/D
+VINI-000591,Marcus James Merlot,Aurora,2022,0.5,0.4,0.6,0.1,0.6,3.8,3.2,2.2,2.1,labels/VINI-000591.jpg,['Merlot'],Serra Gaúcha - Brasil,N/D
+VINI-000592,Tyrrell's Rufus Stone Heathcote Shiraz,Tyrrell's Wines,2017,0.9,0.8,0.5,0.2,0.9,1.3,3.8,4.8,4.3,labels/VINI-000592.jpg,['Shiraz'],"Heathcote, Victoria - Austrália",N/D
+VINI-000593,Silverado Vineyards Estate Cabernet Sauvignon,Silverado Vineyards,2021,0.8,0.8,0.5,0.1,0.8,1.7,4.2,4.6,3.8,labels/VINI-000593.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000594,Don Guerino Merlot Reserva,Don Guerino,2022,0.6,0.5,0.7,0.1,0.7,3.5,3.7,2.8,2.5,labels/VINI-000594.jpg,['Merlot'],"Alto Feliz, Serra Gaúcha - Brasil",N/D
+VINI-000595,Wolf Blass Grey Label Shiraz,Wolf Blass,2016,0.9,0.8,0.5,0.2,0.9,1.2,3.8,4.9,4.4,labels/VINI-000595.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000596,Dry Creek Vineyard Cabernet Sauvignon,Dry Creek Vineyard,2022,0.7,0.7,0.5,0.1,0.8,2.0,3.7,4.3,3.4,labels/VINI-000596.jpg,['Cabernet Sauvignon'],"Dry Creek Valley, Sonoma County - EUA",N/D
+VINI-000597,Geisse Cuvée Ouro Merlot,Vinícola Geisse,2019,0.7,0.6,0.7,0.1,0.7,3.0,3.8,3.0,2.7,labels/VINI-000597.jpg,['Merlot'],"Pinto Bandeira, Serra Gaúcha - Brasil",N/D
+VINI-000598,Chapel Hill McLaren Vale Shiraz,Chapel Hill Winery,2020,0.9,0.8,0.5,0.2,0.9,1.3,3.9,4.8,4.3,labels/VINI-000598.jpg,['Shiraz'],"McLaren Vale, South Australia - Austrália",N/D
+VINI-000599,Kendall-Jackson Vintner's Reserve Cabernet Sauvignon,Kendall-Jackson,2022,0.8,0.7,0.5,0.2,0.8,1.9,3.9,4.3,3.5,labels/VINI-000599.jpg,['Cabernet Sauvignon'],California - EUA,N/D
+VINI-000600,Amitié Merlot,Amitié Espumantes e Vinhos,2021,0.6,0.5,0.7,0.1,0.7,3.4,3.6,2.7,2.4,labels/VINI-000600.jpg,['Merlot'],Serra Gaúcha - Brasil,N/D
+VINI-000601,Brokenwood McLaren Vale Shiraz,Brokenwood Wines,2019,0.9,0.8,0.5,0.2,0.9,1.3,3.9,4.8,4.3,labels/VINI-000601.jpg,['Shiraz'],"McLaren Vale, South Australia - Austrália",N/D
+VINI-000602,Silver Oak Napa Valley Cabernet Sauvignon,Silver Oak Cellars,2018,0.9,0.9,0.5,0.2,0.9,1.3,4.6,4.9,4.5,labels/VINI-000602.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000603,Lidio Carraro Agamenon Merlot,Lidio Carraro,2016,0.7,0.6,0.7,0.1,0.7,3.0,3.9,3.1,2.8,labels/VINI-000603.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000604,Penfolds Bin 389 Cabernet Shiraz,Penfolds,2020,0.9,0.8,0.5,0.2,0.9,1.3,4.0,4.9,4.5,labels/VINI-000604.jpg,"['Cabernet Sauvignon', 'Shiraz']",South Australia - Austrália,N/D
+VINI-000605,Hess Select Cabernet Sauvignon,Hess Collection,2017,0.7,0.7,0.5,0.1,0.8,2.1,3.8,4.2,3.4,labels/VINI-000605.jpg,['Cabernet Sauvignon'],California - EUA,N/D
+VINI-000606,Rio Sol Gran Reserva Merlot,Rio Sol,2018,0.6,0.5,0.7,0.1,0.7,3.3,3.6,2.7,2.4,labels/VINI-000606.jpg,['Merlot'],Vale do São Francisco - Brasil,N/D
+VINI-000607,Torbreck The Factor Shiraz,Torbreck Vintners,2017,0.9,0.9,0.5,0.2,0.9,1.1,4.0,5.0,4.6,labels/VINI-000607.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000608,St. Francis Sonoma County Cabernet Sauvignon,St. Francis Winery & Vineyards,2020,0.7,0.7,0.5,0.1,0.8,2.0,3.7,4.3,3.4,labels/VINI-000608.jpg,['Cabernet Sauvignon'],Sonoma County - EUA,N/D
+VINI-000609,Almaúnica Merus Merlot,Almaúnica,2020,0.7,0.6,0.7,0.1,0.7,3.0,3.8,3.0,2.7,labels/VINI-000609.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000610,Mollydooker The Boxer Shiraz,Mollydooker Wines,2018,0.9,0.9,0.4,0.2,0.9,1.1,4.0,5.0,4.7,labels/VINI-000610.jpg,['Shiraz'],"McLaren Vale, South Australia - Austrália",N/D
+VINI-000611,Far Niente Estate Bottled Cabernet Sauvignon,Far Niente Winery,2015,0.9,0.9,0.6,0.2,0.9,1.1,4.5,4.8,4.3,labels/VINI-000611.jpg,['Cabernet Sauvignon'],"Oakville, Napa Valley - EUA",N/D
+VINI-000612,Cave Antiga Merlot,Cave Antiga Vinhos Finos,2022,0.6,0.5,0.7,0.1,0.7,3.3,3.6,2.7,2.4,labels/VINI-000612.jpg,['Merlot'],"Farroupilha, Serra Gaúcha - Brasil",N/D
+VINI-000613,Henschke Hill of Grace Shiraz,Henschke,2016,1.0,0.9,0.5,0.2,0.9,1.1,4.4,5.0,4.8,labels/VINI-000613.jpg,['Shiraz'],"Eden Valley, South Australia - Austrália",N/D
+VINI-000614,Charles Krug Napa Valley Cabernet Sauvignon,Charles Krug Winery,2019,0.8,0.7,0.5,0.1,0.8,1.9,4.0,4.4,3.6,labels/VINI-000614.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000615,Rio Sol Gran Reserva Merlot,Rio Sol,2017,0.6,0.5,0.7,0.1,0.7,3.3,3.6,2.7,2.4,labels/VINI-000615.jpg,['Merlot'],Vale do São Francisco - Brasil,N/D
+VINI-000616,Pepperjack Barossa Shiraz,Pepperjack,2018,0.9,0.8,0.5,0.2,0.9,1.3,3.7,4.8,4.3,labels/VINI-000616.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000617,Justin Vineyards & Winery Cabernet Sauvignon,Justin Vineyards & Winery,2019,0.8,0.7,0.4,0.1,0.8,1.9,3.8,4.4,3.5,labels/VINI-000617.jpg,['Cabernet Sauvignon'],"Paso Robles, Central Coast - EUA",N/D
+VINI-000618,Miolo Single Vineyard Merlot,Miolo Wine Group,2017,0.6,0.5,0.8,0.0,0.7,3.4,3.5,2.5,2.4,labels/VINI-000618.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000619,Jacob's Creek Double Barrel Shiraz,Jacob's Creek,2017,0.9,0.8,0.5,0.2,0.8,1.2,3.7,4.8,4.2,labels/VINI-000619.jpg,['Shiraz'],South Australia - Austrália,N/D
+VINI-000620,Opus One,Opus One Winery,2016,0.9,0.8,0.5,0.2,0.9,1.5,4.5,4.8,4.0,labels/VINI-000620.jpg,"['Cabernet Sauvignon', 'Cabernet Franc', 'Merlot', 'Petit Verdot', 'Malbec']",Napa Valley - EUA,N/D
+VINI-000621,St Hallett Faith Shiraz,St Hallett Wines,2020,0.8,0.7,0.4,0.2,0.8,1.6,3.4,4.6,3.9,labels/VINI-000621.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000622,Louis M. Martini Sonoma County Cabernet Sauvignon,Louis M. Martini Winery,2021,0.7,0.8,0.5,0.1,0.8,2.1,3.6,4.4,3.5,labels/VINI-000622.jpg,['Cabernet Sauvignon'],Sonoma County - EUA,N/D
+VINI-000623,Valmarino Merlot,Valmarino,2019,0.6,0.5,0.7,0.1,0.7,3.4,3.6,2.7,2.5,labels/VINI-000623.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000624,Nickle & Nickle C.C. Ranch Cabernet Sauvignon,Nickel & Nickel Winery,2016,0.9,0.8,0.5,0.2,0.9,1.2,4.4,4.8,4.2,labels/VINI-000624.jpg,['Cabernet Sauvignon'],"Rutherford, Napa Valley - EUA",N/D
+VINI-000625,Mollydooker The Boxer Shiraz,Mollydooker Wines,2020,0.9,0.9,0.4,0.2,0.9,1.1,4.0,5.0,4.7,labels/VINI-000625.jpg,['Shiraz'],"McLaren Vale, South Australia - Austrália",N/D
+VINI-000626,Perini Quasar Merlot,Vinícola Perini,2018,0.6,0.5,0.7,0.1,0.7,3.3,3.6,2.7,2.5,labels/VINI-000626.jpg,['Merlot'],Serra Gaúcha - Brasil,N/D
+VINI-000627,Jim Barry The Armchair Critic Shiraz,Jim Barry Wines,2020,0.9,0.8,0.4,0.2,0.9,1.3,3.5,4.8,4.2,labels/VINI-000627.jpg,['Shiraz'],"Clare Valley, South Australia - Austrália",N/D
+VINI-000628,Rodney Strong Vineyards Cabernet Sauvignon,Rodney Strong Vineyards,2020,0.7,0.7,0.5,0.1,0.8,2.0,3.8,4.3,3.4,labels/VINI-000628.jpg,['Cabernet Sauvignon'],Sonoma County - EUA,N/D
+VINI-000629,Don Guerino Merlot Reserva,Don Guerino,2021,0.6,0.5,0.7,0.1,0.7,3.5,3.7,2.8,2.5,labels/VINI-000629.jpg,['Merlot'],"Alto Feliz, Serra Gaúcha - Brasil",N/D
+VINI-000630,Jacob's Creek Reserve Shiraz,Jacob's Creek,2019,0.9,0.8,0.5,0.2,0.9,1.3,3.5,4.8,4.0,labels/VINI-000630.jpg,['Shiraz'],South Australia - Austrália,N/D
+VINI-000631,Caymus Napa Valley Cabernet Sauvignon,Caymus Vineyards,2018,0.9,0.8,0.5,0.2,0.9,1.4,4.7,4.8,4.6,labels/VINI-000631.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000632,Hermann Merlot,Hermann,2023,0.6,0.5,0.7,0.1,0.7,3.2,3.6,2.7,2.4,labels/VINI-000632.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000633,Brokenwood McLaren Vale Shiraz,Brokenwood Wines,2020,0.9,0.8,0.5,0.2,0.9,1.3,3.9,4.8,4.3,labels/VINI-000633.jpg,['Shiraz'],"McLaren Vale, South Australia - Austrália",N/D
+VINI-000634,Ridge Monte Bello,Ridge Vineyards,2015,0.9,0.8,0.5,0.2,0.9,1.4,4.6,4.7,4.0,labels/VINI-000634.jpg,"['Cabernet Sauvignon', 'Merlot', 'Petit Verdot', 'Cabernet Franc']",Santa Cruz Mountains - EUA,N/D
+VINI-000635,Amitié Merlot,Amitié Espumantes e Vinhos,2023,0.6,0.5,0.7,0.1,0.7,3.4,3.6,2.7,2.4,labels/VINI-000635.jpg,['Merlot'],Serra Gaúcha - Brasil,N/D
+VINI-000636,Best's Great Western Bin No. 1 Shiraz,Best's Wines,2019,0.9,0.8,0.5,0.2,0.9,1.3,3.9,4.8,4.3,labels/VINI-000636.jpg,['Shiraz'],"Great Western, Victoria - Austrália",N/D
+VINI-000637,J. Lohr Seven Oaks Cabernet Sauvignon,J. Lohr Vineyards & Wines,2022,0.7,0.7,0.4,0.1,0.8,2.2,3.6,4.2,3.2,labels/VINI-000637.jpg,['Cabernet Sauvignon'],"Paso Robles, Central Coast - EUA",N/D
+VINI-000638,Luiz Argenta Merlot,Vinícola Luiz Argenta,2019,0.7,0.6,0.7,0.1,0.7,3.0,3.8,3.0,2.7,labels/VINI-000638.jpg,['Merlot'],"Flores da Cunha, Serra Gaúcha - Brasil",N/D
+VINI-000639,Penfolds Grange,Penfolds,2014,1.0,0.9,0.5,0.3,0.9,1.0,4.5,5.0,5.0,labels/VINI-000639.jpg,['Shiraz'],South Australia - Austrália,N/D
+VINI-000640,Francis Ford Coppola Diamond Collection Cabernet Sauvignon,Francis Ford Coppola Winery,2019,0.7,0.7,0.5,0.1,0.8,2.0,3.8,4.2,3.3,labels/VINI-000640.jpg,['Cabernet Sauvignon'],California - EUA,N/D
+VINI-000641,Luiz Argenta Merlot,Vinícola Luiz Argenta,2022,0.7,0.6,0.7,0.1,0.7,3.0,3.8,3.0,2.7,labels/VINI-000641.jpg,['Merlot'],"Flores da Cunha, Serra Gaúcha - Brasil",N/D
+VINI-000642,Taylors Estate Shiraz,Taylors Wines,2018,0.8,0.7,0.4,0.1,0.8,1.7,3.4,4.6,3.9,labels/VINI-000642.jpg,['Shiraz'],"Clare Valley, South Australia - Austrália",N/D
+VINI-000643,Nickle & Nickle C.C. Ranch Cabernet Sauvignon,Nickel & Nickel Winery,2017,0.9,0.8,0.5,0.2,0.9,1.2,4.4,4.8,4.2,labels/VINI-000643.jpg,['Cabernet Sauvignon'],"Rutherford, Napa Valley - EUA",N/D
+VINI-000644,Salton Intenso Merlot,Salton,2020,0.6,0.5,0.7,0.1,0.7,3.5,3.7,2.6,2.3,labels/VINI-000644.jpg,['Merlot'],Serra Gaúcha - Brasil,N/D
+VINI-000645,Leeuwin Estate Art Series Shiraz,Leeuwin Estate,2017,0.9,0.8,0.5,0.2,0.9,1.3,4.0,4.8,4.4,labels/VINI-000645.jpg,['Shiraz'],"Margaret River, Western Australia - Austrália",N/D
+VINI-000646,St. Francis Sonoma County Cabernet Sauvignon,St. Francis Winery & Vineyards,2021,0.7,0.7,0.5,0.1,0.8,2.0,3.7,4.3,3.4,labels/VINI-000646.jpg,['Cabernet Sauvignon'],Sonoma County - EUA,N/D
+VINI-000647,Geisse Cuvée Ouro Merlot,Vinícola Geisse,2022,0.7,0.6,0.7,0.1,0.7,3.0,3.8,3.0,2.7,labels/VINI-000647.jpg,['Merlot'],"Pinto Bandeira, Serra Gaúcha - Brasil",N/D
+VINI-000648,Henschke Keyneton Estate Shiraz Cabernet Sauvignon Merlot,Henschke,2018,0.9,0.8,0.5,0.2,0.9,1.3,4.0,4.8,4.4,labels/VINI-000648.jpg,"['Shiraz', 'Cabernet Sauvignon', 'Merlot']","Eden Valley, South Australia - Austrália",N/D
+VINI-000649,Jordan Cabernet Sauvignon,Jordan Vineyard & Winery,2018,0.8,0.8,0.5,0.1,0.8,1.8,4.0,4.5,3.7,labels/VINI-000649.jpg,['Cabernet Sauvignon'],"Alexander Valley, Sonoma County - EUA",N/D
+VINI-000650,Pizzato Fausto Merlot,Pizzato Vinhas e Vinhos,2020,0.6,0.5,0.7,0.1,0.7,3.2,3.5,2.8,2.6,labels/VINI-000650.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000651,Groth Oakville Cabernet Sauvignon,Groth Vineyards & Winery,2018,0.8,0.8,0.5,0.1,0.8,1.7,4.3,4.6,3.9,labels/VINI-000651.jpg,['Cabernet Sauvignon'],"Oakville, Napa Valley - EUA",N/D
+VINI-000652,Wolf Blass Yellow Label Shiraz,Wolf Blass,2022,0.9,0.8,0.4,0.2,0.8,1.5,3.7,4.6,4.1,labels/VINI-000652.jpg,['Shiraz'],South Australia - Austrália,N/D
+VINI-000653,Dom Cândido Merlot,Dom Cândido,2023,0.6,0.5,0.7,0.1,0.7,3.3,3.6,2.7,2.4,labels/VINI-000653.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000654,d'Arenberg The Dead Arm Shiraz,d'Arenberg,2017,0.9,0.8,0.5,0.2,0.9,1.3,4.0,4.9,4.5,labels/VINI-000654.jpg,['Shiraz'],"McLaren Vale, South Australia - Austrália",N/D
+VINI-000655,Grgich Hills Estate Cabernet Sauvignon,Grgich Hills Estate,2019,0.8,0.8,0.5,0.1,0.8,1.7,4.2,4.6,3.8,labels/VINI-000655.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000656,Tenuta Foppa e Ambrosi Merlot,Foppa e Ambrosi,2021,0.6,0.5,0.7,0.1,0.7,3.4,3.6,2.6,2.5,labels/VINI-000656.jpg,['Merlot'],Serra Gaúcha - Brasil,N/D
+VINI-000657,Penfolds St Henri Shiraz,Penfolds,2017,0.9,0.8,0.5,0.2,0.9,1.3,4.1,4.9,4.5,labels/VINI-000657.jpg,['Shiraz'],South Australia - Austrália,N/D
+VINI-000658,Daou Vineyards Reserve Cabernet Sauvignon,DAOU Vineyards & Winery,2021,0.8,0.7,0.4,0.1,0.8,2.0,3.9,4.4,3.6,labels/VINI-000658.jpg,['Cabernet Sauvignon'],"Paso Robles, Central Coast - EUA",N/D
+VINI-000659,Cristofoli Merlot,Família Cristofoli,2023,0.6,0.5,0.7,0.1,0.7,3.3,3.6,2.7,2.4,labels/VINI-000659.jpg,['Merlot'],Vale dos Vinhedos - Brasil,N/D
+VINI-000660,Yalumba Barossa Bush Vine Shiraz,Yalumba,2017,0.8,0.7,0.4,0.1,0.8,1.7,3.4,4.7,3.9,labels/VINI-000660.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000661,Duckhorn Napa Valley Cabernet Sauvignon,Duckhorn Vineyards,2020,0.8,0.8,0.5,0.1,0.8,1.7,4.3,4.6,3.9,labels/VINI-000661.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000662,Santa Augusta Merlot,Santa Augusta,2021,0.6,0.5,0.7,0.1,0.7,3.4,3.6,2.7,2.4,labels/VINI-000662.jpg,['Merlot'],Serra Catarinense - Brasil,N/D
+VINI-000663,Wolf Blass Grey Label Shiraz,Wolf Blass,2020,0.9,0.8,0.5,0.2,0.9,1.2,3.8,4.9,4.4,labels/VINI-000663.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000664,Dry Creek Vineyard Cabernet Sauvignon,Dry Creek Vineyard,2021,0.7,0.7,0.5,0.1,0.8,2.0,3.7,4.3,3.4,labels/VINI-000664.jpg,['Cabernet Sauvignon'],"Dry Creek Valley, Sonoma County - EUA",N/D
+VINI-000665,Sanjo Nobrese Merlot,Sanjo,2020,0.6,0.5,0.7,0.1,0.7,3.3,3.6,2.7,2.4,labels/VINI-000665.jpg,['Merlot'],São Joaquim - Brasil,N/D
+VINI-000666,Chapel Hill McLaren Vale Shiraz,Chapel Hill Winery,2022,0.9,0.8,0.5,0.2,0.9,1.3,3.9,4.8,4.3,labels/VINI-000666.jpg,['Shiraz'],"McLaren Vale, South Australia - Austrália",N/D
+VINI-000667,Marcus James Merlot,Aurora,2021,0.5,0.4,0.6,0.1,0.6,3.8,3.2,2.2,2.1,labels/VINI-000667.jpg,['Merlot'],Serra Gaúcha - Brasil,N/D
+VINI-000668,Ghost Pines Cabernet Sauvignon,Ghost Pines Winery,2021,0.7,0.7,0.5,0.1,0.8,2.0,3.7,4.3,3.4,labels/VINI-000668.jpg,['Cabernet Sauvignon'],Napa & Sonoma County - EUA,N/D
+VINI-000669,Mount Langi Ghiran Cliff Edge Shiraz,Mount Langi Ghiran,2021,0.9,0.8,0.5,0.2,0.9,1.3,3.9,4.8,4.3,labels/VINI-000669.jpg,['Shiraz'],"Grampians, Victoria - Austrália",N/D
+VINI-000670,Inglenook 1882 Cabernet Sauvignon,Inglenook,2019,0.8,0.8,0.5,0.1,0.8,1.7,4.2,4.6,3.8,labels/VINI-000670.jpg,['Cabernet Sauvignon'],"Rutherford, Napa Valley - EUA",N/D
+VINI-000671,Cave Antiga Merlot,Cave Antiga Vinhos Finos,2020,0.6,0.5,0.7,0.1,0.7,3.3,3.6,2.7,2.4,labels/VINI-000671.jpg,['Merlot'],"Farroupilha, Serra Gaúcha - Brasil",N/D
+VINI-000672,Freemark Abbey Napa Valley Cabernet Sauvignon,Freemark Abbey Winery,2020,0.8,0.8,0.5,0.1,0.8,1.7,4.2,4.6,3.8,labels/VINI-000672.jpg,['Cabernet Sauvignon'],Napa Valley - EUA,N/D
+VINI-000673,Grant Burge Filsell Shiraz,Grant Burge Wines,2020,0.9,0.8,0.5,0.2,0.9,1.2,3.5,4.9,4.4,labels/VINI-000673.jpg,['Shiraz'],"Barossa Valley, South Australia - Austrália",N/D
+VINI-000674,Reserva,Marqués de Riscal,2018,0.75,0.7,0.6,0.05,0.7,2.0,4.5,3.8,3.0,labels/VINI-000674.jpg,"['Tempranillo', 'Graciano', 'Mazuelo']",Rioja - Espanha,N/D
+VINI-000675,Finca Resalso,Emilio Moro,2020,0.8,0.75,0.55,0.05,0.75,1.8,3.5,4.5,3.8,labels/VINI-000675.jpg,['Tinto Fino'],Ribera del Duero - Espanha,N/D
+VINI-000676,Riserva Ducale Oro Chianti Classico Gran Selezione,Ruffino,2017,0.8,0.8,0.75,0.05,0.7,1.5,4.8,4.0,2.5,labels/VINI-000676.jpg,['Sangiovese'],Chianti Classico - Itália,N/D
+VINI-000677,Brunello di Montalcino,Val di Suga,2016,0.85,0.85,0.7,0.05,0.75,1.2,4.9,4.5,2.8,labels/VINI-000677.jpg,['Sangiovese Grosso'],Brunello di Montalcino - Itália,N/D
+VINI-000678,Superior Red,Quinta do Crasto,2019,0.9,0.85,0.65,0.08,0.8,1.0,3.5,4.8,4.2,labels/VINI-000678.jpg,"['Touriga Nacional', 'Touriga Franca', 'Tinta Roriz']",Douro - Portugal,N/D
+VINI-000679,Baga e Touriga Nacional,Luis Pato,2018,0.85,0.9,0.7,0.05,0.75,1.0,3.0,4.9,4.5,labels/VINI-000679.jpg,"['Baga', 'Touriga Nacional']",Bairrada - Portugal,N/D
+VINI-000680,Primitivo di Manduria,Zolla Vigneti del Salento,2021,0.85,0.65,0.45,0.1,0.85,1.5,2.8,4.7,4.0,labels/VINI-000680.jpg,['Primitivo'],Puglia - Itália,N/D
+VINI-000682,Reserva,Bodegas Muga,2018,0.8,0.75,0.6,0.05,0.7,1.8,4.7,4.0,3.2,labels/VINI-000682.jpg,"['Tempranillo', 'Garnacha', 'Mazuelo', 'Graciano']",Rioja - Espanha,N/D
+VINI-000683,Vino Nobile di Montepulciano,Poliziano,2019,0.8,0.78,0.7,0.05,0.72,1.5,4.8,4.2,2.8,labels/VINI-000683.jpg,"['Prugnolo Gentile', 'Canaiolo Nero', 'Colorino']",Vino Nobile di Montepulciano - Itália,N/D
+VINI-000684,Papa Figos Tinto,Casa Ferreirinha,2020,0.7,0.7,0.6,0.05,0.7,2.5,4.0,3.8,3.0,labels/VINI-000684.jpg,"['Touriga Franca', 'Tinta Roriz', 'Touriga Nacional']",Douro - Portugal,N/D
+VINI-000685,Primitivo di Manduria,A Mano,2021,0.85,0.6,0.4,0.1,0.82,1.5,2.5,4.8,4.0,labels/VINI-000685.jpg,['Primitivo'],Puglia - Itália,N/D
+VINI-000686,Six Grapes Reserve Ruby Port,W. & J. Graham's,NV,0.8,0.6,0.5,0.8,0.9,1.2,4.5,4.5,2.5,labels/VINI-000686.jpg,"['Touriga Nacional', 'Touriga Franca', 'Tinta Roriz', 'Tinta Barroca', 'Tinto Cão']",Douro - Portugal,N/D
+VINI-000687,20 Year Old Tawny Port,Sandeman,NV,0.8,0.4,0.7,0.85,0.9,2.0,5.0,4.0,2.0,labels/VINI-000687.jpg,"['Touriga Nacional', 'Touriga Franca', 'Tinta Roriz', 'Tinta Barroca', 'Tinto Cão', 'Tinta Amarela']",Douro - Portugal,N/D
+VINI-000688,Sauternes Grand Cru Supérieur,Château d'Yquem,2015,0.9,0.0,0.9,1.0,0.75,1.5,5.0,4.8,2.0,labels/VINI-000688.jpg,"['Sémillon', 'Sauvignon Blanc']",Bordeaux - França,N/D
+VINI-000689,Sauternes Premier Grand Cru Classé,Château Suduiraut,2016,0.85,0.0,0.85,0.95,0.7,1.8,4.8,4.5,2.2,labels/VINI-000689.jpg,"['Sémillon', 'Sauvignon Blanc']",Bordeaux - França,N/D
+VINI-000690,Moscatel de Setúbal,José Maria da Fonseca,2005,0.8,0.1,0.7,0.9,0.85,2.0,4.7,4.3,2.5,labels/VINI-000690.jpg,['Moscatel de Setúbal'],Península de Setúbal - Portugal,N/D
+VINI-000691,Moscato d'Asti,Paolo Saracco,2023,0.4,0.0,0.7,0.7,0.2,4.0,4.0,1.5,3.0,labels/VINI-000691.jpg,['Moscato Bianco'],Piemonte - Itália,N/D
+VINI-000692,Late Bottled Vintage Port,Dow's,2017,0.8,0.7,0.5,0.85,0.9,1.5,4.8,4.8,2.0,labels/VINI-000692.jpg,"['Touriga Nacional', 'Touriga Franca', 'Tinta Roriz', 'Tinta Barroca', 'Tinto Cão']",Douro - Portugal,N/D
+VINI-000693,Otima 10 Year Old Tawny Port,Warre's,NV,0.75,0.3,0.65,0.8,0.88,2.5,4.7,3.8,2.8,labels/VINI-000693.jpg,"['Touriga Nacional', 'Touriga Franca', 'Tinta Roriz', 'Tinta Barroca', 'Tinto Cão']",Douro - Portugal,N/D
+VINI-000694,Classic Rutherglen Muscat,Campbells,NV,0.9,0.1,0.6,1.0,0.85,1.0,4.5,5.0,3.0,labels/VINI-000694.jpg,['Muscat à Petits Grains Rouge'],Rutherglen - Austrália,N/D
+vin_694,Chardonisch Reserva,Chardonisch,2024,N/D,N/D,N/D,N/D,N/D,2.5,3.0,4.0,4.5,N/D,Chardonnay,N/D,13.5
+vin_0695,Chardonisco Reserva,Vinesdos El Paraiso,2024,N/D,N/D,N/D,N/D,N/D,1.5,1.0,4.5,5.0,N/D,Chardonnay,N/D,13.0
+vin_0696,Chardonisco Reserva Chardonnay,Viña Estampa,2024,N/D,N/D,N/D,N/D,N/D,2.0,2.0,4.0,5.0,N/D,Chardonnay,Central Valley - Chile,13.5

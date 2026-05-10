@@ -1,2 +1,6 @@
 log_id,user_id,vinho_id,quantidade,status
-inv_0001,usr_001,vin_004,1,adega
+inv_0001,usr_001,VINI-000046,1,adega
+inv_0002,usr_001,VINI-000051,1,adega
+inv_0003,usr_001,VINI-000322,1,adega
+inv_0004,usr_001,VINI-000363,1,adega
+inv_0005,usr_001,VINI-000693,1,adega
