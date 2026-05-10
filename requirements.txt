@@ -1,7 +1,7 @@
 streamlit
 pandas
-plotly
 google-generativeai
 python-dotenv
-pillow
-pymupdf
+Pillow
+PyMuPDF
+plotly
